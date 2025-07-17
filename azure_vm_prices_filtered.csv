@@ -1,0 +1,1415 @@
+currencyCode,retailPrice,location,skuName,OS,type,reservationTerm
+USD,7.82,koreacentral,FX32mds v2,Windows,Consumption,
+USD,6.348,koreacentral,FX32mds v2,Windows,DevTestConsumption,
+USD,0.42,koreacentral,D4s v4,Windows,Consumption,
+USD,0.236,koreacentral,D4s v4,Windows,DevTestConsumption,
+USD,11.767,koreacentral,D96ds v6,Windows,Consumption,
+USD,7.351,koreacentral,D96ds v6,Windows,DevTestConsumption,
+USD,0.404,koreacentral,D4lds v5,Windows,Consumption,
+USD,0.22,koreacentral,D4lds v5,Windows,DevTestConsumption,
+USD,17.816,koreacentral,HB176-144rsv4,Windows,Consumption,
+USD,9.72,koreacentral,HB176-144rsv4,Windows,DevTestConsumption,
+USD,9.72,koreacentral,HB176-48rsv4,Linux,Consumption,
+USD,63862.0,koreacentral,HB176-48rsv4,Linux,Reservation,1 Year
+USD,127724.0,koreacentral,HB176-48rsv4,Linux,Reservation,3 Years
+USD,141901.0,koreacentral,HB176-48rsv4,Linux,Reservation,5 Years
+USD,0.43,koreacentral,D4 v3,Windows,Consumption,
+USD,0.246,koreacentral,D4 v3,Windows,DevTestConsumption,
+USD,4.277,koreacentral,HC44-32rs,Linux,Consumption,
+USD,31845.0,koreacentral,HC44-32rs,Linux,Reservation,1 Year
+USD,78676.0,koreacentral,HC44-32rs,Linux,Reservation,3 Years
+USD,0.102,koreacentral,F2s,Linux,Consumption,
+USD,689.0,koreacentral,F2s,Linux,Reservation,1 Year
+USD,1494.0,koreacentral,F2s,Linux,Reservation,3 Years
+USD,5.136,koreacentral,FX32ms v2,Linux,Consumption,
+USD,25646.0,koreacentral,FX32ms v2,Linux,Reservation,1 Year
+USD,36444.0,koreacentral,FX32ms v2,Linux,Reservation,3 Years
+USD,4.512,koreacentral,F48s v2,Windows,Consumption,
+USD,2.304,koreacentral,F48s v2,Windows,DevTestConsumption,
+USD,19.76,koreacentral,HX176rs,Windows,Consumption,
+USD,11.664,koreacentral,HX176rs,Windows,DevTestConsumption,
+USD,3.852,koreacentral,FX24ms v2,Linux,Consumption,
+USD,19235.0,koreacentral,FX24ms v2,Linux,Reservation,1 Year
+USD,27333.0,koreacentral,FX24ms v2,Linux,Reservation,3 Years
+USD,10.051,koreacentral,D96alds v6,Windows,Consumption,
+USD,5.635,koreacentral,D96alds v6,Windows,DevTestConsumption,
+USD,6.72,koreacentral,D64 v4,Windows,Consumption,
+USD,3.776,koreacentral,D64 v4,Windows,DevTestConsumption,
+USD,2.568,koreacentral,FX16ms v2,Linux,Consumption,
+USD,12823.0,koreacentral,FX16ms v2,Linux,Reservation,1 Year
+USD,18222.0,koreacentral,FX16ms v2,Linux,Reservation,3 Years
+USD,0.472,koreacentral,D8a v4,Linux,Consumption,
+USD,2398.0,koreacentral,D8a v4,Linux,Reservation,1 Year
+USD,4664.0,koreacentral,D8a v4,Linux,Reservation,3 Years
+USD,2.217,koreacentral,NC16asT4 v3,Windows,Consumption,
+USD,1.481,koreacentral,NC16asT4 v3,Windows,DevTestConsumption,
+USD,0.674,koreacentral,F8as v6,Linux,Consumption,
+USD,3658.0,koreacentral,F8as v6,Linux,Reservation,1 Year
+USD,6904.0,koreacentral,F8as v6,Linux,Reservation,3 Years
+USD,2.832,koreacentral,D48s v4,Linux,Consumption,
+USD,14422.0,koreacentral,D48s v4,Linux,Reservation,1 Year
+USD,27984.0,koreacentral,D48s v4,Linux,Reservation,3 Years
+USD,23.533,koreacentral,D192ds_v6,Windows,Consumption,
+USD,14.701,koreacentral,D192ds_v6,Windows,DevTestConsumption,
+USD,1.968,koreacentral,D32-8s v3,Linux,Consumption,
+USD,4.761,koreacentral,FX24mds v2,Linux,Consumption,
+USD,23773.0,koreacentral,FX24mds v2,Linux,Reservation,1 Year
+USD,33782.0,koreacentral,FX24mds v2,Linux,Reservation,3 Years
+USD,0.42,koreacentral,D4 v4,Windows,Consumption,
+USD,0.236,koreacentral,D4 v4,Windows,DevTestConsumption,
+USD,0.236,koreacentral,D4 v4,Linux,Consumption,
+USD,1202.0,koreacentral,D4 v4,Linux,Reservation,1 Year
+USD,2332.0,koreacentral,D4 v4,Linux,Reservation,3 Years
+USD,0.472,koreacentral,D8as v4,Linux,Consumption,
+USD,2398.0,koreacentral,D8as v4,Linux,Reservation,1 Year
+USD,4664.0,koreacentral,D8as v4,Linux,Reservation,3 Years
+USD,0.625,koreacentral,F4ams v6,Windows,Consumption,
+USD,0.441,koreacentral,F4ams v6,Windows,DevTestConsumption,
+USD,5.582,koreacentral,D48ads v6,Windows,Consumption,
+USD,3.374,koreacentral,D48ads v6,Windows,DevTestConsumption,
+USD,0.816,koreacentral,F16s,Linux,Consumption,
+USD,5542.0,koreacentral,F16s,Linux,Reservation,1 Year
+USD,11983.0,koreacentral,F16s,Linux,Reservation,3 Years
+USD,5.002,koreacentral,F32ams v6,Windows,Consumption,
+USD,3.53,koreacentral,F32ams v6,Windows,DevTestConsumption,
+USD,3.226,koreacentral,D64ls v6,Linux,Consumption,
+USD,17519.0,koreacentral,D64ls v6,Linux,Reservation,1 Year
+USD,33060.0,koreacentral,D64ls v6,Linux,Reservation,3 Years
+USD,15.64,koreacentral,FX64-16mds v2,Windows,Consumption,
+USD,12.696,koreacentral,FX64-16mds v2,Windows,DevTestConsumption,
+USD,3.174,koreacentral,FX16mds v2,Linux,Consumption,
+USD,15848.0,koreacentral,FX16mds v2,Linux,Reservation,1 Year
+USD,22521.0,koreacentral,FX16mds v2,Linux,Reservation,3 Years
+USD,7.82,koreacentral,FX32-16mds v2,Windows,Consumption,
+USD,6.348,koreacentral,FX32-16mds v2,Windows,DevTestConsumption,
+USD,0.629,koreacentral,NV8as v4,Linux,Consumption,
+USD,3527.0,koreacentral,NV8as v4,Linux,Reservation,1 Year
+USD,7275.0,koreacentral,NV8as v4,Linux,Reservation,3 Years
+USD,4.891,koreacentral,D48as v6,Windows,Consumption,
+USD,2.683,koreacentral,D48as v6,Windows,DevTestConsumption,
+USD,2.694,koreacentral,F32as v6,Linux,Consumption,
+USD,14634.0,koreacentral,F32as v6,Linux,Reservation,1 Year
+USD,27615.0,koreacentral,F32as v6,Linux,Reservation,3 Years
+USD,2.832,koreacentral,D48 v4,Linux,Consumption,
+USD,14422.0,koreacentral,D48 v4,Linux,Reservation,1 Year
+USD,27984.0,koreacentral,D48 v4,Linux,Reservation,3 Years
+USD,13.818,koreacentral,D128s v6,Windows,Consumption,
+USD,7.93,koreacentral,D128s v6,Windows,DevTestConsumption,
+USD,3.44,koreacentral,D32s v3,Windows,Consumption,
+USD,1.968,koreacentral,D32s v3,Windows,DevTestConsumption,
+USD,0.831,koreacentral,NC4as T4 v3,Windows,Consumption,
+USD,0.647,koreacentral,NC4as T4 v3,Windows,DevTestConsumption,
+USD,0.74,koreacentral,F8,Windows,Consumption,
+USD,0.408,koreacentral,F8,Windows,DevTestConsumption,
+USD,0.278,koreacentral,D4ds v4,Linux,Consumption,
+USD,1418.0,koreacentral,D4ds v4,Linux,Reservation,1 Year
+USD,2747.0,koreacentral,D4ds v4,Linux,Reservation,3 Years
+USD,2.818,koreacentral,D48alds v6,Linux,Consumption,
+USD,14562.0,koreacentral,D48alds v6,Linux,Reservation,1 Year
+USD,28138.0,koreacentral,D48alds v6,Linux,Reservation,3 Years
+USD,4.042,koreacentral,F48as v6,Linux,Consumption,
+USD,21951.0,koreacentral,F48as v6,Linux,Reservation,1 Year
+USD,41423.0,koreacentral,F48as v6,Linux,Reservation,3 Years
+USD,3.35,koreacentral,D32alds v6,Windows,Consumption,
+USD,1.878,koreacentral,D32alds v6,Windows,DevTestConsumption,
+USD,0.496,koreacentral,D8s v6,Linux,Consumption,
+USD,2692.0,koreacentral,D8s v6,Linux,Reservation,1 Year
+USD,5080.0,koreacentral,D8s v6,Linux,Reservation,3 Years
+USD,0.562,koreacentral,D8ads v6,Linux,Consumption,
+USD,2907.0,koreacentral,D8ads v6,Linux,Reservation,1 Year
+USD,5616.0,koreacentral,D8ads v6,Linux,Reservation,3 Years
+USD,5.136,koreacentral,FX32-16ms v2,Linux,Consumption,
+USD,25646.0,koreacentral,FX32-16ms v2,Linux,Reservation,1 Year
+USD,36444.0,koreacentral,FX32-16ms v2,Linux,Reservation,3 Years
+USD,0.408,koreacentral,F8,Linux,Consumption,
+USD,2776.0,koreacentral,F8,Linux,Reservation,1 Year
+USD,5978.0,koreacentral,F8,Linux,Reservation,3 Years
+USD,3.776,koreacentral,D64a v4,Linux,Consumption,
+USD,19186.0,koreacentral,D64a v4,Linux,Reservation,1 Year
+USD,37312.0,koreacentral,D64a v4,Linux,Reservation,3 Years
+USD,0.153,koreacentral,D2ds v6,Linux,Consumption,
+USD,832.0,koreacentral,D2ds v6,Linux,Reservation,1 Year
+USD,1570.0,koreacentral,D2ds v6,Linux,Reservation,3 Years
+USD,0.125,koreacentral,D2lds v6,Linux,Consumption,
+USD,677.0,koreacentral,D2lds v6,Linux,Reservation,1 Year
+USD,1277.0,koreacentral,D2lds v6,Linux,Reservation,3 Years
+USD,1.926,koreacentral,FX12-6ms v2,Linux,Consumption,
+USD,9617.0,koreacentral,FX12-6ms v2,Linux,Reservation,1 Year
+USD,13667.0,koreacentral,FX12-6ms v2,Linux,Reservation,3 Years
+USD,17.816,koreacentral,HB176-48rsv4,Windows,Consumption,
+USD,9.72,koreacentral,HB176-48rsv4,Windows,DevTestConsumption,
+USD,4.9,koreacentral,D64ds v6,Linux,Consumption,
+USD,26615.0,koreacentral,D64ds v6,Linux,Reservation,1 Year
+USD,50226.0,koreacentral,D64ds v6,Linux,Reservation,3 Years
+USD,0.118,koreacentral,D2a v4,Linux,Consumption,
+USD,600.0,koreacentral,D2a v4,Linux,Reservation,1 Year
+USD,1166.0,koreacentral,D2a v4,Linux,Reservation,3 Years
+USD,3.576,koreacentral,F48als v6,Linux,Consumption,
+USD,19422.0,koreacentral,F48als v6,Linux,Reservation,1 Year
+USD,36651.0,koreacentral,F48als v6,Linux,Reservation,3 Years
+USD,11.664,koreacentral,HX176-96rs,Linux,Consumption,
+USD,76630.0,koreacentral,HX176-96rs,Linux,Reservation,1 Year
+USD,153261.0,koreacentral,HX176-96rs,Linux,Reservation,3 Years
+USD,170273.0,koreacentral,HX176-96rs,Linux,Reservation,5 Years
+USD,0.198,koreacentral,D4als v6,Linux,Consumption,
+USD,1023.0,koreacentral,D4als v6,Linux,Reservation,1 Year
+USD,1977.0,koreacentral,D4als v6,Linux,Reservation,3 Years
+USD,15.409,koreacentral,FX96-24ms v2,Linux,Consumption,
+USD,76938.0,koreacentral,FX96-24ms v2,Linux,Reservation,1 Year
+USD,109333.0,koreacentral,FX96-24ms v2,Linux,Reservation,3 Years
+USD,0.86,koreacentral,D8 v3,Windows,Consumption,
+USD,0.492,koreacentral,D8 v3,Windows,DevTestConsumption,
+USD,0.419,koreacentral,D4alds v6,Windows,Consumption,
+USD,0.235,koreacentral,D4alds v6,Windows,DevTestConsumption,
+USD,6.701,koreacentral,D64alds v6,Windows,Consumption,
+USD,3.757,koreacentral,D64alds v6,Windows,DevTestConsumption,
+USD,0.139,koreacentral,D2d v4,Linux,Consumption,
+USD,709.0,koreacentral,D2d v4,Linux,Reservation,1 Year
+USD,1373.0,koreacentral,D2d v4,Linux,Reservation,3 Years
+USD,3.936,koreacentral,D64s v3,Linux,Consumption,
+USD,19232.0,koreacentral,D64s v3,Linux,Reservation,1 Year
+USD,39524.0,koreacentral,D64s v3,Linux,Reservation,3 Years
+USD,3.936,koreacentral,D64-16s v3,Linux,Consumption,
+USD,0.37,koreacentral,F4s,Windows,Consumption,
+USD,0.204,koreacentral,F4s,Windows,DevTestConsumption,
+USD,3.936,koreacentral,D64-32s v3,Linux,Consumption,
+USD,0.168,koreacentral,F2as v6,Linux,Consumption,
+USD,915.0,koreacentral,F2as v6,Linux,Reservation,1 Year
+USD,1726.0,koreacentral,F2as v6,Linux,Reservation,3 Years
+USD,132.732,koreacentral,ND96isrH100v5,Linux,Consumption,
+USD,744149.0,koreacentral,ND96isrH100v5,Linux,Reservation,1 Year
+USD,1531318.0,koreacentral,ND96isrH100v5,Linux,Reservation,3 Years
+USD,2325465.0,koreacentral,ND96isrH100v5,Linux,Reservation,5 Years
+USD,2.832,koreacentral,D48a v4,Linux,Consumption,
+USD,14389.0,koreacentral,D48a v4,Linux,Reservation,1 Year
+USD,27984.0,koreacentral,D48a v4,Linux,Reservation,3 Years
+USD,0.596,koreacentral,F8als v6,Linux,Consumption,
+USD,3237.0,koreacentral,F8als v6,Linux,Reservation,1 Year
+USD,6109.0,koreacentral,F8als v6,Linux,Reservation,3 Years
+USD,11.894,koreacentral,D192s v6,Linux,Consumption,
+USD,64601.0,koreacentral,D192s v6,Linux,Reservation,1 Year
+USD,121908.0,koreacentral,D192s v6,Linux,Reservation,3 Years
+USD,0.235,koreacentral,D4alds v6,Linux,Consumption,
+USD,1214.0,koreacentral,D4alds v6,Linux,Reservation,1 Year
+USD,2345.0,koreacentral,D4alds v6,Linux,Reservation,3 Years
+USD,6.522,koreacentral,D64as v6,Windows,Consumption,
+USD,3.578,koreacentral,D64as v6,Windows,DevTestConsumption,
+USD,3.922,koreacentral,D32ds v6,Windows,Consumption,
+USD,2.45,koreacentral,D32ds v6,Windows,DevTestConsumption,
+USD,10.272,koreacentral,FX64ms v2,Linux,Consumption,
+USD,51292.0,koreacentral,FX64ms v2,Linux,Reservation,1 Year
+USD,72889.0,koreacentral,FX64ms v2,Linux,Reservation,3 Years
+USD,2.933,koreacentral,FX12-6mds v2,Windows,Consumption,
+USD,2.381,koreacentral,FX12-6mds v2,Windows,DevTestConsumption,
+USD,1.584,koreacentral,D32als v6,Linux,Consumption,
+USD,8187.0,koreacentral,D32als v6,Linux,Reservation,1 Year
+USD,15818.0,koreacentral,D32als v6,Linux,Reservation,3 Years
+USD,10.08,koreacentral,D96a v4,Windows,Consumption,
+USD,5.664,koreacentral,D96a v4,Windows,DevTestConsumption,
+USD,9.522,koreacentral,FX48-24mds v2,Linux,Consumption,
+USD,47545.0,koreacentral,FX48-24mds v2,Linux,Reservation,1 Year
+USD,67564.0,koreacentral,FX48-24mds v2,Linux,Reservation,3 Years
+USD,0.88,koreacentral,D16lds v5,Linux,Consumption,
+USD,4548.0,koreacentral,D16lds v5,Linux,Reservation,1 Year
+USD,8326.0,koreacentral,D16lds v5,Linux,Reservation,3 Years
+USD,2.516,koreacentral,NV32as v4,Linux,Consumption,
+USD,14108.0,koreacentral,NV32as v4,Linux,Reservation,1 Year
+USD,29099.0,koreacentral,NV32as v4,Linux,Reservation,3 Years
+USD,0.44,koreacentral,D8lds v5,Linux,Consumption,
+USD,2274.0,koreacentral,D8lds v5,Linux,Reservation,1 Year
+USD,4163.0,koreacentral,D8lds v5,Linux,Reservation,3 Years
+USD,3.44,koreacentral,D32-16s v3,Windows,Consumption,
+USD,1.968,koreacentral,D32-16s v3,Windows,DevTestConsumption,
+USD,1.479,koreacentral,F16s,Windows,Consumption,
+USD,0.816,koreacentral,F16s,Windows,DevTestConsumption,
+USD,7.704,koreacentral,FX48-12ms v2,Linux,Consumption,
+USD,38469.0,koreacentral,FX48-12ms v2,Linux,Reservation,1 Year
+USD,54667.0,koreacentral,FX48-12ms v2,Linux,Reservation,3 Years
+USD,0.236,koreacentral,D4a v4,Linux,Consumption,
+USD,1199.0,koreacentral,D4a v4,Linux,Reservation,1 Year
+USD,2332.0,koreacentral,D4a v4,Linux,Reservation,3 Years
+USD,0.231,koreacentral,D2d v4,Windows,Consumption,
+USD,0.139,koreacentral,D2d v4,Windows,DevTestConsumption,
+USD,6.608,koreacentral,FX32-8ms v2,Windows,Consumption,
+USD,5.136,koreacentral,FX32-8ms v2,Windows,DevTestConsumption,
+USD,6.768,koreacentral,F72s v2,Windows,Consumption,
+USD,3.456,koreacentral,F72s v2,Windows,DevTestConsumption,
+USD,3.91,koreacentral,FX16mds v2,Windows,Consumption,
+USD,3.174,koreacentral,FX16mds v2,Windows,DevTestConsumption,
+USD,5.136,koreacentral,FX32-8ms v2,Linux,Consumption,
+USD,25646.0,koreacentral,FX32-8ms v2,Linux,Reservation,1 Year
+USD,36444.0,koreacentral,FX32-8ms v2,Linux,Reservation,3 Years
+USD,0.806,koreacentral,D16ls v6,Linux,Consumption,
+USD,4380.0,koreacentral,D16ls v6,Linux,Reservation,1 Year
+USD,8265.0,koreacentral,D16ls v6,Linux,Reservation,3 Years
+USD,3.91,koreacentral,FX16-4mds v2,Windows,Consumption,
+USD,3.174,koreacentral,FX16-4mds v2,Windows,DevTestConsumption,
+USD,1.258,koreacentral,NV16as v4,Linux,Consumption,
+USD,7054.0,koreacentral,NV16as v4,Linux,Reservation,1 Year
+USD,14549.0,koreacentral,NV16as v4,Linux,Reservation,3 Years
+USD,0.647,koreacentral,NC4as T4 v3,Linux,Consumption,
+USD,3327.0,koreacentral,NC4as T4 v3,Linux,Reservation,1 Year
+USD,6393.0,koreacentral,NC4as T4 v3,Linux,Reservation,3 Years
+USD,1.587,koreacentral,FX8-4mds v2,Linux,Consumption,
+USD,7924.0,koreacentral,FX8-4mds v2,Linux,Reservation,1 Year
+USD,11261.0,koreacentral,FX8-4mds v2,Linux,Reservation,3 Years
+USD,0.241,koreacentral,F2als v6,Windows,Consumption,
+USD,0.149,koreacentral,F2als v6,Windows,DevTestConsumption,
+USD,5.635,koreacentral,D96alds v6,Linux,Consumption,
+USD,29125.0,koreacentral,D96alds v6,Linux,Reservation,1 Year
+USD,56275.0,koreacentral,D96alds v6,Linux,Reservation,3 Years
+USD,0.642,koreacentral,FX4ms v2,Linux,Consumption,
+USD,3206.0,koreacentral,FX4ms v2,Linux,Reservation,1 Year
+USD,4556.0,koreacentral,FX4ms v2,Linux,Reservation,3 Years
+USD,0.246,koreacentral,D4s v3,Linux,Consumption,
+USD,1202.0,koreacentral,D4s v3,Linux,Reservation,1 Year
+USD,2470.0,koreacentral,D4s v3,Linux,Reservation,3 Years
+USD,0.944,koreacentral,D16s v4,Linux,Consumption,
+USD,4807.0,koreacentral,D16s v4,Linux,Reservation,1 Year
+USD,9328.0,koreacentral,D16s v4,Linux,Reservation,3 Years
+USD,0.768,koreacentral,F16s v2,Linux,Consumption,
+USD,3956.0,koreacentral,F16s v2,Linux,Reservation,1 Year
+USD,7282.0,koreacentral,F16s v2,Linux,Reservation,3 Years
+USD,3.085,koreacentral,D32ls v6,Windows,Consumption,
+USD,1.613,koreacentral,D32ls v6,Windows,DevTestConsumption,
+USD,0.93,koreacentral,D8ads v6,Windows,Consumption,
+USD,0.562,koreacentral,D8ads v6,Windows,DevTestConsumption,
+USD,11.263,koreacentral,NC40adsH100v5,Windows,Consumption,
+USD,9.423,koreacentral,NC40adsH100v5,Windows,DevTestConsumption,
+USD,0.396,koreacentral,D8als v6,Linux,Consumption,
+USD,2047.0,koreacentral,D8als v6,Linux,Reservation,1 Year
+USD,3955.0,koreacentral,D8als v6,Linux,Reservation,3 Years
+USD,5.664,koreacentral,D96a v4,Linux,Consumption,
+USD,28778.0,koreacentral,D96a v4,Linux,Reservation,1 Year
+USD,55968.0,koreacentral,D96a v4,Linux,Reservation,3 Years
+USD,19.044,koreacentral,FX96-24mds v2,Linux,Consumption,
+USD,95091.0,koreacentral,FX96-24mds v2,Linux,Reservation,1 Year
+USD,135129.0,koreacentral,FX96-24mds v2,Linux,Reservation,3 Years
+USD,0.991,koreacentral,D16s v6,Linux,Consumption,
+USD,5383.0,koreacentral,D16s v6,Linux,Reservation,1 Year
+USD,10159.0,koreacentral,D16s v6,Linux,Reservation,3 Years
+USD,3.44,koreacentral,D32 v3,Windows,Consumption,
+USD,1.968,koreacentral,D32 v3,Windows,DevTestConsumption,
+USD,5.026,koreacentral,D48alds v6,Windows,Consumption,
+USD,2.818,koreacentral,D48alds v6,Windows,DevTestConsumption,
+USD,2.64,koreacentral,D48lds v5,Linux,Consumption,
+USD,13645.0,koreacentral,D48lds v5,Linux,Reservation,1 Year
+USD,24977.0,koreacentral,D48lds v5,Linux,Reservation,3 Years
+USD,6.88,koreacentral,D64-16s v3,Windows,Consumption,
+USD,3.936,koreacentral,D64-16s v3,Windows,DevTestConsumption,
+USD,0.248,koreacentral,D4s v6,Linux,Consumption,
+USD,1346.0,koreacentral,D4s v6,Linux,Reservation,1 Year
+USD,2540.0,koreacentral,D4s v6,Linux,Reservation,3 Years
+USD,6.72,koreacentral,D64a v4,Windows,Consumption,
+USD,3.776,koreacentral,D64a v4,Windows,DevTestConsumption,
+USD,2.478,koreacentral,FX12ms v2,Windows,Consumption,
+USD,1.926,koreacentral,FX12ms v2,Windows,DevTestConsumption,
+USD,2.933,koreacentral,FX12mds v2,Windows,Consumption,
+USD,2.381,koreacentral,FX12mds v2,Windows,DevTestConsumption,
+USD,18.63,koreacentral,NC24rs v3,Linux,Consumption,
+USD,5.947,koreacentral,D96s v6,Linux,Consumption,
+USD,32300.0,koreacentral,D96s v6,Linux,Reservation,1 Year
+USD,60954.0,koreacentral,D96s v6,Linux,Reservation,3 Years
+USD,0.964,koreacentral,F8als v6,Windows,Consumption,
+USD,0.596,koreacentral,F8als v6,Windows,DevTestConsumption,
+USD,3.722,koreacentral,D32ads v6,Windows,Consumption,
+USD,2.25,koreacentral,D32ads v6,Windows,DevTestConsumption,
+USD,0.462,koreacentral,D4d v4,Windows,Consumption,
+USD,0.278,koreacentral,D4d v4,Windows,DevTestConsumption,
+USD,0.337,koreacentral,F4as v6,Linux,Consumption,
+USD,1829.0,koreacentral,F4as v6,Linux,Reservation,1 Year
+USD,3452.0,koreacentral,F4as v6,Linux,Reservation,3 Years
+USD,2.384,koreacentral,F32als v6,Linux,Consumption,
+USD,12948.0,koreacentral,F32als v6,Linux,Reservation,1 Year
+USD,24434.0,koreacentral,F32als v6,Linux,Reservation,3 Years
+USD,0.236,koreacentral,D4s v4,Linux,Consumption,
+USD,1202.0,koreacentral,D4s v4,Linux,Reservation,1 Year
+USD,2332.0,koreacentral,D4s v4,Linux,Reservation,3 Years
+USD,1.675,koreacentral,D16alds v6,Windows,Consumption,
+USD,0.939,koreacentral,D16alds v6,Windows,DevTestConsumption,
+USD,0.315,koreacentral,NV4as v4,Linux,Consumption,
+USD,1764.0,koreacentral,NV4as v4,Linux,Reservation,1 Year
+USD,3637.0,koreacentral,NV4as v4,Linux,Reservation,3 Years
+USD,0.556,koreacentral,D8ds v4,Linux,Consumption,
+USD,2835.0,koreacentral,D8ds v4,Linux,Reservation,1 Year
+USD,5494.0,koreacentral,D8ds v4,Linux,Reservation,3 Years
+USD,1.72,koreacentral,D16s v3,Windows,Consumption,
+USD,0.984,koreacentral,D16s v3,Windows,DevTestConsumption,
+USD,15.64,koreacentral,FX64mds v2,Windows,Consumption,
+USD,12.696,koreacentral,FX64mds v2,Windows,DevTestConsumption,
+USD,1.652,koreacentral,FX8ms v2,Windows,Consumption,
+USD,1.284,koreacentral,FX8ms v2,Windows,DevTestConsumption,
+USD,5.865,koreacentral,FX24mds v2,Windows,Consumption,
+USD,4.761,koreacentral,FX24mds v2,Windows,DevTestConsumption,
+USD,0.278,koreacentral,D4d v4,Linux,Consumption,
+USD,1418.0,koreacentral,D4d v4,Linux,Reservation,1 Year
+USD,2747.0,koreacentral,D4d v4,Linux,Reservation,3 Years
+USD,9.254,koreacentral,D96ls v6,Windows,Consumption,
+USD,4.838,koreacentral,D96ls v6,Windows,DevTestConsumption,
+USD,7.351,koreacentral,D96ds v6,Linux,Consumption,
+USD,39923.0,koreacentral,D96ds v6,Linux,Reservation,1 Year
+USD,75339.0,koreacentral,D96ds v6,Linux,Reservation,3 Years
+USD,0.441,koreacentral,F4ams v6,Linux,Consumption,
+USD,2396.0,koreacentral,F4ams v6,Linux,Reservation,1 Year
+USD,4522.0,koreacentral,F4ams v6,Linux,Reservation,3 Years
+USD,1.63,koreacentral,D16as v6,Windows,Consumption,
+USD,0.894,koreacentral,D16as v6,Windows,DevTestConsumption,
+USD,0.156,koreacentral,F1ams v6,Windows,Consumption,
+USD,0.11,koreacentral,F1ams v6,Windows,DevTestConsumption,
+USD,146.0,koreacentral,ND128isrNDRGB200v6,Linux,Consumption,
+USD,818534.0,koreacentral,ND128isrNDRGB200v6,Linux,Reservation,1 Year
+USD,1688227.0,koreacentral,ND128isrNDRGB200v6,Linux,Reservation,3 Years
+USD,1.993,koreacentral,D32lds v6,Linux,Consumption,
+USD,10826.0,koreacentral,D32lds v6,Linux,Reservation,1 Year
+USD,20430.0,koreacentral,D32lds v6,Linux,Reservation,3 Years
+USD,1.112,koreacentral,D16d v4,Linux,Consumption,
+USD,5670.0,koreacentral,D16d v4,Linux,Reservation,1 Year
+USD,10988.0,koreacentral,D16d v4,Linux,Reservation,3 Years
+USD,3.465,koreacentral,D32lds v6,Windows,Consumption,
+USD,1.993,koreacentral,D32lds v6,Windows,DevTestConsumption,
+USD,0.792,koreacentral,D16als v6,Linux,Consumption,
+USD,4093.0,koreacentral,D16als v6,Linux,Reservation,1 Year
+USD,7909.0,koreacentral,D16als v6,Linux,Reservation,3 Years
+USD,1.504,koreacentral,F16s v2,Windows,Consumption,
+USD,0.768,koreacentral,F16s v2,Windows,DevTestConsumption,
+USD,1.68,koreacentral,D16as v4,Windows,Consumption,
+USD,0.944,koreacentral,D16as v4,Windows,DevTestConsumption,
+USD,6.53,koreacentral,Dasv5 Type1,Linux,Consumption,
+USD,33748.0,koreacentral,Dasv5 Type1,Linux,Reservation,1 Year
+USD,65207.0,koreacentral,Dasv5 Type1,Linux,Reservation,3 Years
+USD,6.348,koreacentral,FX32-16mds v2,Linux,Consumption,
+USD,31697.0,koreacentral,FX32-16mds v2,Linux,Reservation,1 Year
+USD,45043.0,koreacentral,FX32-16mds v2,Linux,Reservation,3 Years
+USD,19.044,koreacentral,FX96mds v2,Linux,Consumption,
+USD,95091.0,koreacentral,FX96mds v2,Linux,Reservation,1 Year
+USD,135129.0,koreacentral,FX96mds v2,Linux,Reservation,3 Years
+USD,3.987,koreacentral,D64lds v6,Linux,Consumption,
+USD,21652.0,koreacentral,D64lds v6,Linux,Reservation,1 Year
+USD,40859.0,koreacentral,D64lds v6,Linux,Reservation,3 Years
+USD,2.419,koreacentral,D48ls v6,Linux,Consumption,
+USD,13139.0,koreacentral,D48ls v6,Linux,Reservation,1 Year
+USD,24795.0,koreacentral,D48ls v6,Linux,Reservation,3 Years
+USD,0.997,koreacentral,D16lds v6,Linux,Consumption,
+USD,5413.0,koreacentral,D16lds v6,Linux,Reservation,1 Year
+USD,10215.0,koreacentral,D16lds v6,Linux,Reservation,3 Years
+USD,2.832,koreacentral,D48as v4,Linux,Consumption,
+USD,14389.0,koreacentral,D48as v4,Linux,Reservation,1 Year
+USD,27984.0,koreacentral,D48as v4,Linux,Reservation,3 Years
+USD,0.42,koreacentral,D4as v4,Windows,Consumption,
+USD,0.236,koreacentral,D4as v4,Windows,DevTestConsumption,
+USD,19.044,koreacentral,FX96-48mds v2,Linux,Consumption,
+USD,95091.0,koreacentral,FX96-48mds v2,Linux,Reservation,1 Year
+USD,135129.0,koreacentral,FX96-48mds v2,Linux,Reservation,3 Years
+USD,1.68,koreacentral,D16 v4,Windows,Consumption,
+USD,0.944,koreacentral,D16 v4,Windows,DevTestConsumption,
+USD,4.761,koreacentral,FX24-6mds v2,Linux,Consumption,
+USD,23773.0,koreacentral,FX24-6mds v2,Linux,Reservation,1 Year
+USD,33782.0,koreacentral,FX24-6mds v2,Linux,Reservation,3 Years
+USD,9.522,koreacentral,FX48-12mds v2,Linux,Consumption,
+USD,47545.0,koreacentral,FX48-12mds v2,Linux,Reservation,1 Year
+USD,67564.0,koreacentral,FX48-12mds v2,Linux,Reservation,3 Years
+USD,12.696,koreacentral,FX64-16mds v2,Linux,Consumption,
+USD,63394.0,koreacentral,FX64-16mds v2,Linux,Reservation,1 Year
+USD,90086.0,koreacentral,FX64-16mds v2,Linux,Reservation,3 Years
+USD,19.76,koreacentral,HX176-144rs,Windows,Consumption,
+USD,11.664,koreacentral,HX176-144rs,Windows,DevTestConsumption,
+USD,1.955,koreacentral,FX8-2mds v2,Windows,Consumption,
+USD,1.587,koreacentral,FX8-2mds v2,Windows,DevTestConsumption,
+USD,23.46,koreacentral,FX96mds v2,Windows,Consumption,
+USD,19.044,koreacentral,FX96mds v2,Windows,DevTestConsumption,
+USD,9.423,koreacentral,NC40adsH100v5,Linux,Consumption,
+USD,61909.0,koreacentral,NC40adsH100v5,Linux,Reservation,1 Year
+USD,136200.0,koreacentral,NC40adsH100v5,Linux,Reservation,3 Years
+USD,9.72,koreacentral,HB176-144rsv4,Linux,Consumption,
+USD,63862.0,koreacentral,HB176-144rsv4,Linux,Reservation,1 Year
+USD,127724.0,koreacentral,HB176-144rsv4,Linux,Reservation,3 Years
+USD,141901.0,koreacentral,HB176-144rsv4,Linux,Reservation,5 Years
+USD,7.704,koreacentral,FX48ms v2,Linux,Consumption,
+USD,38469.0,koreacentral,FX48ms v2,Linux,Reservation,1 Year
+USD,54667.0,koreacentral,FX48ms v2,Linux,Reservation,3 Years
+USD,0.84,koreacentral,D8s v4,Windows,Consumption,
+USD,0.472,koreacentral,D8s v4,Windows,DevTestConsumption,
+USD,3.36,koreacentral,D32s v4,Windows,Consumption,
+USD,1.888,koreacentral,D32s v4,Windows,DevTestConsumption,
+USD,7.443,koreacentral,D64ads v6,Windows,Consumption,
+USD,4.499,koreacentral,D64ads v6,Windows,DevTestConsumption,
+USD,0.815,koreacentral,D8as v6,Windows,Consumption,
+USD,0.447,koreacentral,D8as v6,Windows,DevTestConsumption,
+USD,0.944,koreacentral,D16a v4,Linux,Consumption,
+USD,4796.0,koreacentral,D16a v4,Linux,Reservation,1 Year
+USD,9328.0,koreacentral,D16a v4,Linux,Reservation,3 Years
+USD,0.408,koreacentral,D4as v6,Windows,Consumption,
+USD,0.224,koreacentral,D4as v6,Windows,DevTestConsumption,
+USD,13.216,koreacentral,FX64-16ms v2,Windows,Consumption,
+USD,10.272,koreacentral,FX64-16ms v2,Windows,DevTestConsumption,
+USD,0.764,koreacentral,D8als v6,Windows,Consumption,
+USD,0.396,koreacentral,D8als v6,Windows,DevTestConsumption,
+USD,9.374,koreacentral,F72as v6,Windows,Consumption,
+USD,6.062,koreacentral,F72as v6,Windows,DevTestConsumption,
+USD,2.304,koreacentral,F48s v2,Linux,Consumption,
+USD,11868.0,koreacentral,F48s v2,Linux,Reservation,1 Year
+USD,21846.0,koreacentral,F48s v2,Linux,Reservation,3 Years
+USD,0.215,koreacentral,D2s v3,Windows,Consumption,
+USD,0.123,koreacentral,D2s v3,Windows,DevTestConsumption,
+USD,1.479,koreacentral,F16,Windows,Consumption,
+USD,0.816,koreacentral,F16,Windows,DevTestConsumption,
+USD,1.542,koreacentral,D16ls v6,Windows,Consumption,
+USD,0.806,koreacentral,D16ls v6,Windows,DevTestConsumption,
+USD,0.21,koreacentral,D2as v4,Windows,Consumption,
+USD,0.118,koreacentral,D2as v4,Windows,DevTestConsumption,
+USD,10.272,koreacentral,FX64-16ms v2,Linux,Consumption,
+USD,51292.0,koreacentral,FX64-16ms v2,Linux,Reservation,1 Year
+USD,72889.0,koreacentral,FX64-16ms v2,Linux,Reservation,3 Years
+USD,0.193,koreacentral,D2ls v6,Windows,Consumption,
+USD,0.101,koreacentral,D2ls v6,Windows,DevTestConsumption,
+USD,6.301,koreacentral,HC44rs,Windows,Consumption,
+USD,4.277,koreacentral,HC44rs,Windows,DevTestConsumption,
+USD,2.083,koreacentral,F16as v6,Windows,Consumption,
+USD,1.347,koreacentral,F16as v6,Windows,DevTestConsumption,
+USD,6.016,koreacentral,D64ls v5,Windows,Consumption,
+USD,3.072,koreacentral,D64ls v5,Windows,DevTestConsumption,
+USD,4.608,koreacentral,D96ls v5,Linux,Consumption,
+USD,23816.0,koreacentral,D96ls v5,Linux,Reservation,1 Year
+USD,46017.0,koreacentral,D96ls v5,Linux,Reservation,3 Years
+USD,9.912,koreacentral,FX48-24ms v2,Windows,Consumption,
+USD,7.704,koreacentral,FX48-24ms v2,Windows,DevTestConsumption,
+USD,0.202,koreacentral,D2lds v5,Windows,Consumption,
+USD,0.11,koreacentral,D2lds v5,Windows,DevTestConsumption,
+USD,12.696,koreacentral,FX64-32mds v2,Linux,Consumption,
+USD,63394.0,koreacentral,FX64-32mds v2,Linux,Reservation,1 Year
+USD,90086.0,koreacentral,FX64-32mds v2,Linux,Reservation,3 Years
+USD,11.664,koreacentral,HX176rs,Linux,Consumption,
+USD,76630.0,koreacentral,HX176rs,Linux,Reservation,1 Year
+USD,153261.0,koreacentral,HX176rs,Linux,Reservation,3 Years
+USD,170273.0,koreacentral,HX176rs,Linux,Reservation,5 Years
+USD,1.68,koreacentral,D16a v4,Windows,Consumption,
+USD,0.944,koreacentral,D16a v4,Windows,DevTestConsumption,
+USD,6.931,koreacentral,D64lds v6,Windows,Consumption,
+USD,3.987,koreacentral,D64lds v6,Windows,DevTestConsumption,
+USD,5.883,koreacentral,D48ds v6,Windows,Consumption,
+USD,3.675,koreacentral,D48ds v6,Windows,DevTestConsumption,
+USD,3.802,koreacentral,Fsv2 Type2,Linux,Consumption,
+USD,19582.0,koreacentral,Fsv2 Type2,Linux,Reservation,1 Year
+USD,37561.0,koreacentral,Fsv2 Type2,Linux,Reservation,3 Years
+USD,6.17,koreacentral,D64ls v6,Windows,Consumption,
+USD,3.226,koreacentral,D64ls v6,Windows,DevTestConsumption,
+USD,1.112,koreacentral,D16ds v4,Linux,Consumption,
+USD,5670.0,koreacentral,D16ds v4,Linux,Reservation,1 Year
+USD,10988.0,koreacentral,D16ds v4,Linux,Reservation,3 Years
+USD,2.304,koreacentral,D48ls v5,Linux,Consumption,
+USD,11908.0,koreacentral,D48ls v5,Linux,Reservation,1 Year
+USD,23009.0,koreacentral,D48ls v5,Linux,Reservation,3 Years
+USD,0.37,koreacentral,F4,Windows,Consumption,
+USD,0.204,koreacentral,F4,Windows,DevTestConsumption,
+USD,0.403,koreacentral,D8ls v6,Linux,Consumption,
+USD,2190.0,koreacentral,D8ls v6,Linux,Reservation,1 Year
+USD,4132.0,koreacentral,D8ls v6,Linux,Reservation,3 Years
+USD,7.704,koreacentral,FX48-24ms v2,Linux,Consumption,
+USD,38469.0,koreacentral,FX48-24ms v2,Linux,Reservation,1 Year
+USD,54667.0,koreacentral,FX48-24ms v2,Linux,Reservation,3 Years
+USD,6.491,koreacentral,Dsv3 Type4,Linux,Consumption,
+USD,33791.0,koreacentral,Dsv3 Type4,Linux,Reservation,1 Year
+USD,64972.0,koreacentral,Dsv3 Type4,Linux,Reservation,3 Years
+USD,5.389,koreacentral,F64as v6,Linux,Consumption,
+USD,29268.0,koreacentral,F64as v6,Linux,Reservation,1 Year
+USD,55231.0,koreacentral,F64as v6,Linux,Reservation,3 Years
+USD,4.435,koreacentral,Fsv2 Type3,Linux,Consumption,
+USD,22846.0,koreacentral,Fsv2 Type3,Linux,Reservation,1 Year
+USD,43821.0,koreacentral,Fsv2 Type3,Linux,Reservation,3 Years
+USD,3.304,koreacentral,FX16ms v2,Windows,Consumption,
+USD,2.568,koreacentral,FX16ms v2,Windows,DevTestConsumption,
+USD,10.396,koreacentral,D96lds v6,Windows,Consumption,
+USD,5.98,koreacentral,D96lds v6,Windows,DevTestConsumption,
+USD,0.185,koreacentral,F2s,Windows,Consumption,
+USD,0.102,koreacentral,F2s,Windows,DevTestConsumption,
+USD,0.204,koreacentral,F4s,Linux,Consumption,
+USD,1388.0,koreacentral,F4s,Linux,Reservation,1 Year
+USD,2988.0,koreacentral,F4s,Linux,Reservation,3 Years
+USD,7.712,koreacentral,F64als v6,Windows,Consumption,
+USD,4.768,koreacentral,F64als v6,Windows,DevTestConsumption,
+USD,123.875,koreacentral,ND96isH100v5,Windows,Consumption,
+USD,119.459,koreacentral,ND96isH100v5,Windows,DevTestConsumption,
+USD,9.912,koreacentral,FX48ms v2,Windows,Consumption,
+USD,7.704,koreacentral,FX48ms v2,Windows,DevTestConsumption,
+USD,1.504,koreacentral,D16ls v5,Windows,Consumption,
+USD,0.768,koreacentral,D16ls v5,Windows,DevTestConsumption,
+USD,0.978,koreacentral,FX4mds v2,Windows,Consumption,
+USD,0.794,koreacentral,FX4mds v2,Windows,DevTestConsumption,
+USD,3.336,koreacentral,D48ds v4,Linux,Consumption,
+USD,17010.0,koreacentral,D48ds v4,Linux,Reservation,1 Year
+USD,32964.0,koreacentral,D48ds v4,Linux,Reservation,3 Years
+USD,1.928,koreacentral,F16als v6,Windows,Consumption,
+USD,1.192,koreacentral,F16als v6,Windows,DevTestConsumption,
+USD,1.888,koreacentral,D32as v4,Linux,Consumption,
+USD,9593.0,koreacentral,D32as v4,Linux,Reservation,1 Year
+USD,18656.0,koreacentral,D32as v4,Linux,Reservation,3 Years
+USD,15.64,koreacentral,FX64-32mds v2,Windows,Consumption,
+USD,12.696,koreacentral,FX64-32mds v2,Windows,DevTestConsumption,
+USD,0.794,koreacentral,FX4mds v2,Linux,Consumption,
+USD,3962.0,koreacentral,FX4mds v2,Linux,Reservation,1 Year
+USD,5630.0,koreacentral,FX4mds v2,Linux,Reservation,3 Years
+USD,0.215,koreacentral,D2 v3,Windows,Consumption,
+USD,0.123,koreacentral,D2 v3,Windows,DevTestConsumption,
+USD,4.277,koreacentral,HC44rs,Linux,Consumption,
+USD,31845.0,koreacentral,HC44rs,Linux,Reservation,1 Year
+USD,78676.0,koreacentral,HC44rs,Linux,Reservation,3 Years
+USD,3.776,koreacentral,D64s v4,Linux,Consumption,
+USD,19230.0,koreacentral,D64s v4,Linux,Reservation,1 Year
+USD,37312.0,koreacentral,D64s v4,Linux,Reservation,3 Years
+USD,2.25,koreacentral,D32ads v6,Linux,Consumption,
+USD,11627.0,koreacentral,D32ads v6,Linux,Reservation,1 Year
+USD,22465.0,koreacentral,D32ads v6,Linux,Reservation,3 Years
+USD,0.376,koreacentral,F4s v2,Windows,Consumption,
+USD,0.192,koreacentral,F4s v2,Windows,DevTestConsumption,
+USD,0.997,koreacentral,NV8as v4,Windows,Consumption,
+USD,0.629,koreacentral,NV8as v4,Windows,DevTestConsumption,
+USD,0.233,koreacentral,D2ads v6,Windows,Consumption,
+USD,0.141,koreacentral,D2ads v6,Windows,DevTestConsumption,
+USD,6.88,koreacentral,D64-32s v3,Windows,Consumption,
+USD,3.936,koreacentral,D64-32s v3,Windows,DevTestConsumption,
+USD,0.188,koreacentral,D2ls v5,Windows,Consumption,
+USD,0.096,koreacentral,D2ls v5,Windows,DevTestConsumption,
+USD,11.664,koreacentral,HX176-144rs,Linux,Consumption,
+USD,76630.0,koreacentral,HX176-144rs,Linux,Reservation,1 Year
+USD,153261.0,koreacentral,HX176-144rs,Linux,Reservation,3 Years
+USD,170273.0,koreacentral,HX176-144rs,Linux,Reservation,5 Years
+USD,0.249,koreacentral,D4lds v6,Linux,Consumption,
+USD,1353.0,koreacentral,D4lds v6,Linux,Reservation,1 Year
+USD,2554.0,koreacentral,D4lds v6,Linux,Reservation,3 Years
+USD,5.04,koreacentral,D48 v4,Windows,Consumption,
+USD,2.832,koreacentral,D48 v4,Windows,DevTestConsumption,
+USD,0.236,koreacentral,D4as v4,Linux,Consumption,
+USD,1199.0,koreacentral,D4as v4,Linux,Reservation,1 Year
+USD,2332.0,koreacentral,D4as v4,Linux,Reservation,3 Years
+USD,5.544,koreacentral,D48ds v4,Windows,Consumption,
+USD,3.336,koreacentral,D48ds v4,Windows,DevTestConsumption,
+USD,0.43,koreacentral,D4s v3,Windows,Consumption,
+USD,0.246,koreacentral,D4s v3,Windows,DevTestConsumption,
+USD,0.21,koreacentral,D2a v4,Windows,Consumption,
+USD,0.118,koreacentral,D2a v4,Windows,DevTestConsumption,
+USD,0.306,koreacentral,D4ds v6,Linux,Consumption,
+USD,1663.0,koreacentral,D4ds v6,Linux,Reservation,1 Year
+USD,3139.0,koreacentral,D4ds v6,Linux,Reservation,3 Years
+USD,0.0842,koreacentral,F1as v6,Linux,Consumption,
+USD,457.0,koreacentral,F1as v6,Linux,Reservation,1 Year
+USD,863.0,koreacentral,F1as v6,Linux,Reservation,3 Years
+USD,0.124,koreacentral,D2s v6,Linux,Consumption,
+USD,673.0,koreacentral,D2s v6,Linux,Reservation,1 Year
+USD,1270.0,koreacentral,D2s v6,Linux,Reservation,3 Years
+USD,5.98,koreacentral,D96lds v6,Linux,Consumption,
+USD,32478.0,koreacentral,D96lds v6,Linux,Reservation,1 Year
+USD,61289.0,koreacentral,D96lds v6,Linux,Reservation,3 Years
+USD,0.49,koreacentral,D4ds v6,Windows,Consumption,
+USD,0.306,koreacentral,D4ds v6,Windows,DevTestConsumption,
+USD,6.72,koreacentral,D64as v4,Windows,Consumption,
+USD,3.776,koreacentral,D64as v4,Windows,DevTestConsumption,
+USD,1.616,koreacentral,D16lds v5,Windows,Consumption,
+USD,0.88,koreacentral,D16lds v5,Windows,DevTestConsumption,
+USD,4.277,koreacentral,HC44-16rs,Linux,Consumption,
+USD,31845.0,koreacentral,HC44-16rs,Linux,Reservation,1 Year
+USD,78676.0,koreacentral,HC44-16rs,Linux,Reservation,3 Years
+USD,1.125,koreacentral,D16ads v6,Linux,Consumption,
+USD,5813.0,koreacentral,D16ads v6,Linux,Reservation,1 Year
+USD,11233.0,koreacentral,D16ads v6,Linux,Reservation,3 Years
+USD,0.21,koreacentral,D2s v4,Windows,Consumption,
+USD,0.118,koreacentral,D2s v4,Windows,DevTestConsumption,
+USD,5.193,koreacentral,Dsv3 Type3,Linux,Consumption,
+USD,27033.0,koreacentral,Dsv3 Type3,Linux,Reservation,1 Year
+USD,51977.0,koreacentral,Dsv3 Type3,Linux,Reservation,3 Years
+USD,3.174,koreacentral,FX16-8mds v2,Linux,Consumption,
+USD,15848.0,koreacentral,FX16-8mds v2,Linux,Reservation,1 Year
+USD,22521.0,koreacentral,FX16-8mds v2,Linux,Reservation,3 Years
+USD,4.848,koreacentral,D48lds v5,Windows,Consumption,
+USD,2.64,koreacentral,D48lds v5,Windows,DevTestConsumption,
+USD,6.301,koreacentral,HC44-16rs,Windows,Consumption,
+USD,4.277,koreacentral,HC44-16rs,Windows,DevTestConsumption,
+USD,0.447,koreacentral,D8as v6,Linux,Consumption,
+USD,2311.0,koreacentral,D8as v6,Linux,Reservation,1 Year
+USD,4466.0,koreacentral,D8as v6,Linux,Reservation,3 Years
+USD,0.096,koreacentral,D2ls v5,Linux,Consumption,
+USD,496.0,koreacentral,D2ls v5,Linux,Reservation,1 Year
+USD,959.0,koreacentral,D2ls v5,Linux,Reservation,3 Years
+USD,6.451,koreacentral,D128ls v6,Linux,Consumption,
+USD,35038.0,koreacentral,D128ls v6,Linux,Reservation,1 Year
+USD,66120.0,koreacentral,D128ls v6,Linux,Reservation,3 Years
+USD,11.73,koreacentral,FX48-24mds v2,Windows,Consumption,
+USD,9.522,koreacentral,FX48-24mds v2,Windows,DevTestConsumption,
+USD,19.825,koreacentral,FX96-24ms v2,Windows,Consumption,
+USD,15.409,koreacentral,FX96-24ms v2,Windows,DevTestConsumption,
+USD,6.301,koreacentral,HC44-32rs,Windows,Consumption,
+USD,4.277,koreacentral,HC44-32rs,Windows,DevTestConsumption,
+USD,8.297,koreacentral,NC64asT4 v3,Windows,Consumption,
+USD,5.353,koreacentral,NC64asT4 v3,Windows,DevTestConsumption,
+USD,1.968,koreacentral,D32 v3,Linux,Consumption,
+USD,9616.0,koreacentral,D32 v3,Linux,Reservation,1 Year
+USD,19762.0,koreacentral,D32 v3,Linux,Reservation,3 Years
+USD,0.866,koreacentral,D8lds v6,Windows,Consumption,
+USD,0.498,koreacentral,D8lds v6,Windows,DevTestConsumption,
+USD,1.225,koreacentral,D16ds v6,Linux,Consumption,
+USD,6654.0,koreacentral,D16ds v6,Linux,Reservation,1 Year
+USD,12556.0,koreacentral,D16ds v6,Linux,Reservation,3 Years
+USD,6.49,koreacentral,Dasv4 Type2,Linux,Consumption,
+USD,32974.0,koreacentral,Dasv4 Type2,Linux,Reservation,1 Year
+USD,64812.0,koreacentral,Dasv4 Type2,Linux,Reservation,3 Years
+USD,19.825,koreacentral,FX96-48ms v2,Windows,Consumption,
+USD,15.409,koreacentral,FX96-48ms v2,Windows,DevTestConsumption,
+USD,3.072,koreacentral,D64ls v5,Linux,Consumption,
+USD,15877.0,koreacentral,D64ls v5,Linux,Reservation,1 Year
+USD,30678.0,koreacentral,D64ls v5,Linux,Reservation,3 Years
+USD,3.988,koreacentral,NV32as v4,Windows,Consumption,
+USD,2.516,koreacentral,NV32as v4,Windows,DevTestConsumption,
+USD,1.347,koreacentral,F16as v6,Linux,Consumption,
+USD,7317.0,koreacentral,F16as v6,Linux,Reservation,1 Year
+USD,13808.0,koreacentral,F16as v6,Linux,Reservation,3 Years
+USD,0.925,koreacentral,NC8as T4 v3,Linux,Consumption,
+USD,4757.0,koreacentral,NC8as T4 v3,Linux,Reservation,1 Year
+USD,9140.0,koreacentral,NC8as T4 v3,Linux,Reservation,3 Years
+USD,0.944,koreacentral,D16 v4,Linux,Consumption,
+USD,4807.0,koreacentral,D16 v4,Linux,Reservation,1 Year
+USD,9328.0,koreacentral,D16 v4,Linux,Reservation,3 Years
+USD,0.752,koreacentral,D8ls v5,Windows,Consumption,
+USD,0.384,koreacentral,D8ls v5,Windows,DevTestConsumption,
+USD,0.051,koreacentral,F1s,Linux,Consumption,
+USD,344.0,koreacentral,F1s,Linux,Reservation,1 Year
+USD,747.0,koreacentral,F1s,Linux,Reservation,3 Years
+USD,1.955,koreacentral,FX8mds v2,Windows,Consumption,
+USD,1.587,koreacentral,FX8mds v2,Windows,DevTestConsumption,
+USD,2.952,koreacentral,D48 v3,Linux,Consumption,
+USD,14911.0,koreacentral,D48 v3,Linux,Reservation,1 Year
+USD,29092.0,koreacentral,D48 v3,Linux,Reservation,3 Years
+USD,0.981,koreacentral,D8ds v6,Windows,Consumption,
+USD,0.613,koreacentral,D8ds v6,Windows,DevTestConsumption,
+USD,13.861,koreacentral,D128lds v6,Windows,Consumption,
+USD,7.973,koreacentral,D128lds v6,Windows,DevTestConsumption,
+USD,0.099,koreacentral,D2als v6,Linux,Consumption,
+USD,512.0,koreacentral,D2als v6,Linux,Reservation,1 Year
+USD,989.0,koreacentral,D2als v6,Linux,Reservation,3 Years
+USD,9.72,koreacentral,HB176-96rsv4,Linux,Consumption,
+USD,63862.0,koreacentral,HB176-96rsv4,Linux,Reservation,1 Year
+USD,127724.0,koreacentral,HB176-96rsv4,Linux,Reservation,3 Years
+USD,141901.0,koreacentral,HB176-96rsv4,Linux,Reservation,5 Years
+USD,3.965,koreacentral,D64s v6,Linux,Consumption,
+USD,21534.0,koreacentral,D64s v6,Linux,Reservation,1 Year
+USD,40636.0,koreacentral,D64s v6,Linux,Reservation,3 Years
+USD,9.522,koreacentral,FX48mds v2,Linux,Consumption,
+USD,47545.0,koreacentral,FX48mds v2,Linux,Reservation,1 Year
+USD,67564.0,koreacentral,FX48mds v2,Linux,Reservation,3 Years
+USD,0.768,koreacentral,D16ls v5,Linux,Consumption,
+USD,3969.0,koreacentral,D16ls v5,Linux,Reservation,1 Year
+USD,7670.0,koreacentral,D16ls v5,Linux,Reservation,3 Years
+USD,0.224,koreacentral,D4as v6,Linux,Consumption,
+USD,1156.0,koreacentral,D4as v6,Linux,Reservation,1 Year
+USD,2233.0,koreacentral,D4as v6,Linux,Reservation,3 Years
+USD,3.52,koreacentral,D64lds v5,Linux,Consumption,
+USD,18193.0,koreacentral,D64lds v5,Linux,Reservation,1 Year
+USD,33302.0,koreacentral,D64lds v5,Linux,Reservation,3 Years
+USD,0.432,koreacentral,D4s v6,Windows,Consumption,
+USD,0.248,koreacentral,D4s v6,Windows,DevTestConsumption,
+USD,6.348,koreacentral,FX32mds v2,Linux,Consumption,
+USD,31697.0,koreacentral,FX32mds v2,Linux,Reservation,1 Year
+USD,45043.0,koreacentral,FX32mds v2,Linux,Reservation,3 Years
+USD,9.782,koreacentral,D96as v6,Windows,Consumption,
+USD,5.366,koreacentral,D96as v6,Windows,DevTestConsumption,
+USD,0.221,koreacentral,F2ams v6,Linux,Consumption,
+USD,1198.0,koreacentral,F2ams v6,Linux,Reservation,1 Year
+USD,2261.0,koreacentral,F2ams v6,Linux,Reservation,3 Years
+USD,3.91,koreacentral,FX16-8mds v2,Windows,Consumption,
+USD,3.174,koreacentral,FX16-8mds v2,Windows,DevTestConsumption,
+USD,6.062,koreacentral,F72as v6,Linux,Consumption,
+USD,32926.0,koreacentral,F72as v6,Linux,Reservation,1 Year
+USD,62135.0,koreacentral,F72as v6,Linux,Reservation,3 Years
+USD,0.47,koreacentral,D8alds v6,Linux,Consumption,
+USD,2427.0,koreacentral,D8alds v6,Linux,Reservation,1 Year
+USD,4690.0,koreacentral,D8alds v6,Linux,Reservation,3 Years
+USD,4.51,koreacentral,NC6s v3,Windows,Consumption,
+USD,4.234,koreacentral,NC6s v3,Windows,DevTestConsumption,
+USD,3.852,koreacentral,FX24-12ms v2,Linux,Consumption,
+USD,19235.0,koreacentral,FX24-12ms v2,Linux,Reservation,1 Year
+USD,27333.0,koreacentral,FX24-12ms v2,Linux,Reservation,3 Years
+USD,0.209,koreacentral,D2alds v6,Windows,Consumption,
+USD,0.117,koreacentral,D2alds v6,Windows,DevTestConsumption,
+USD,10.08,koreacentral,D96as v4,Windows,Consumption,
+USD,5.664,koreacentral,D96as v4,Windows,DevTestConsumption,
+USD,8.333,koreacentral,F64as v6,Windows,Consumption,
+USD,5.389,koreacentral,F64as v6,Windows,DevTestConsumption,
+USD,5.664,koreacentral,D96as v4,Linux,Consumption,
+USD,28778.0,koreacentral,D96as v4,Linux,Reservation,1 Year
+USD,55968.0,koreacentral,D96as v4,Linux,Reservation,3 Years
+USD,4.448,koreacentral,D64d v4,Linux,Consumption,
+USD,22681.0,koreacentral,D64d v4,Linux,Reservation,1 Year
+USD,43952.0,koreacentral,D64d v4,Linux,Reservation,3 Years
+USD,4.956,koreacentral,FX24-6ms v2,Windows,Consumption,
+USD,3.852,koreacentral,FX24-6ms v2,Windows,DevTestConsumption,
+USD,0.462,koreacentral,D4ds v4,Windows,Consumption,
+USD,0.278,koreacentral,D4ds v4,Windows,DevTestConsumption,
+USD,2.381,koreacentral,FX12-6mds v2,Linux,Consumption,
+USD,11886.0,koreacentral,FX12-6mds v2,Linux,Reservation,1 Year
+USD,16891.0,koreacentral,FX12-6mds v2,Linux,Reservation,3 Years
+USD,0.092,koreacentral,F1s,Windows,Consumption,
+USD,0.051,koreacentral,F1s,Windows,DevTestConsumption,
+USD,0.123,koreacentral,D2s v3,Linux,Consumption,
+USD,601.0,koreacentral,D2s v3,Linux,Reservation,1 Year
+USD,1235.0,koreacentral,D2s v3,Linux,Reservation,3 Years
+USD,0.382,koreacentral,D4als v6,Windows,Consumption,
+USD,0.198,koreacentral,D4als v6,Windows,DevTestConsumption,
+USD,0.0745,koreacentral,F1als v6,Linux,Consumption,
+USD,405.0,koreacentral,F1als v6,Linux,Reservation,1 Year
+USD,764.0,koreacentral,F1als v6,Linux,Reservation,3 Years
+USD,3.454,koreacentral,D32s v6,Windows,Consumption,
+USD,1.982,koreacentral,D32s v6,Windows,DevTestConsumption,
+USD,5.353,koreacentral,NC64asT4 v3,Linux,Consumption,
+USD,27527.0,koreacentral,NC64asT4 v3,Linux,Reservation,1 Year
+USD,52896.0,koreacentral,NC64asT4 v3,Linux,Reservation,3 Years
+USD,7.502,koreacentral,F48ams v6,Windows,Consumption,
+USD,5.294,koreacentral,F48ams v6,Windows,DevTestConsumption,
+USD,5.16,koreacentral,D48s v3,Windows,Consumption,
+USD,2.952,koreacentral,D48s v3,Windows,DevTestConsumption,
+USD,0.121,koreacentral,F1als v6,Windows,Consumption,
+USD,0.0745,koreacentral,F1als v6,Windows,DevTestConsumption,
+USD,1.587,koreacentral,FX8-2mds v2,Linux,Consumption,
+USD,7924.0,koreacentral,FX8-2mds v2,Linux,Reservation,1 Year
+USD,11261.0,koreacentral,FX8-2mds v2,Linux,Reservation,3 Years
+USD,0.74,koreacentral,F8s,Windows,Consumption,
+USD,0.408,koreacentral,F8s,Windows,DevTestConsumption,
+USD,0.149,koreacentral,F2als v6,Linux,Consumption,
+USD,809.0,koreacentral,F2als v6,Linux,Reservation,1 Year
+USD,1527.0,koreacentral,F2als v6,Linux,Reservation,3 Years
+USD,0.123,koreacentral,D2 v3,Linux,Consumption,
+USD,601.0,koreacentral,D2 v3,Linux,Reservation,1 Year
+USD,1235.0,koreacentral,D2 v3,Linux,Reservation,3 Years
+USD,0.794,koreacentral,FX4-2mds v2,Linux,Consumption,
+USD,3962.0,koreacentral,FX4-2mds v2,Linux,Reservation,1 Year
+USD,5630.0,koreacentral,FX4-2mds v2,Linux,Reservation,3 Years
+USD,0.521,koreacentral,F4as v6,Windows,Consumption,
+USD,0.337,koreacentral,F4as v6,Windows,DevTestConsumption,
+USD,9.801,koreacentral,D128ds v6,Linux,Consumption,
+USD,53231.0,koreacentral,D128ds v6,Linux,Reservation,1 Year
+USD,100452.0,koreacentral,D128ds v6,Linux,Reservation,3 Years
+USD,151.888,koreacentral,ND128isrNDRGB200v6,Windows,Consumption,
+USD,146.0,koreacentral,ND128isrNDRGB200v6,Windows,DevTestConsumption,
+USD,6.23,koreacentral,Dsv4 Type2,Linux,Consumption,
+USD,32201.0,koreacentral,Dsv4 Type2,Linux,Reservation,1 Year
+USD,62219.0,koreacentral,Dsv4 Type2,Linux,Reservation,3 Years
+USD,17.816,koreacentral,HB176-96rsv4,Windows,Consumption,
+USD,9.72,koreacentral,HB176-96rsv4,Windows,DevTestConsumption,
+USD,0.838,koreacentral,D8alds v6,Windows,Consumption,
+USD,0.47,koreacentral,D8alds v6,Windows,DevTestConsumption,
+USD,0.84,koreacentral,D8 v4,Windows,Consumption,
+USD,0.472,koreacentral,D8 v4,Windows,DevTestConsumption,
+USD,3.53,koreacentral,F32ams v6,Linux,Consumption,
+USD,19170.0,koreacentral,F32ams v6,Linux,Reservation,1 Year
+USD,36176.0,koreacentral,F32ams v6,Linux,Reservation,3 Years
+USD,11.73,koreacentral,FX48mds v2,Windows,Consumption,
+USD,9.522,koreacentral,FX48mds v2,Windows,DevTestConsumption,
+USD,3.44,koreacentral,D32-8s v3,Windows,Consumption,
+USD,1.968,koreacentral,D32-8s v3,Windows,DevTestConsumption,
+USD,6.72,koreacentral,D64s v4,Windows,Consumption,
+USD,3.776,koreacentral,D64s v4,Windows,DevTestConsumption,
+USD,8.468,koreacentral,NC12s v3,Linux,Consumption,
+USD,15.409,koreacentral,FX96-48ms v2,Linux,Consumption,
+USD,76938.0,koreacentral,FX96-48ms v2,Linux,Reservation,1 Year
+USD,109333.0,koreacentral,FX96-48ms v2,Linux,Reservation,3 Years
+USD,0.489,koreacentral,FX2mds v2,Windows,Consumption,
+USD,0.397,koreacentral,FX2mds v2,Windows,DevTestConsumption,
+USD,0.11,koreacentral,D2lds v5,Linux,Consumption,
+USD,569.0,koreacentral,D2lds v5,Linux,Reservation,1 Year
+USD,1041.0,koreacentral,D2lds v5,Linux,Reservation,3 Years
+USD,2.99,koreacentral,D48lds v6,Linux,Consumption,
+USD,16239.0,koreacentral,D48lds v6,Linux,Reservation,1 Year
+USD,30644.0,koreacentral,D48lds v6,Linux,Reservation,3 Years
+USD,6.016,koreacentral,F64s v2,Windows,Consumption,
+USD,3.072,koreacentral,F64s v2,Windows,DevTestConsumption,
+USD,0.826,koreacentral,FX4ms v2,Windows,Consumption,
+USD,0.642,koreacentral,FX4ms v2,Windows,DevTestConsumption,
+USD,4.512,koreacentral,D48ls v5,Windows,Consumption,
+USD,2.304,koreacentral,D48ls v5,Windows,DevTestConsumption,
+USD,5.04,koreacentral,D48s v4,Windows,Consumption,
+USD,2.832,koreacentral,D48s v4,Windows,DevTestConsumption,
+USD,0.492,koreacentral,D8s v3,Linux,Consumption,
+USD,2404.0,koreacentral,D8s v3,Linux,Reservation,1 Year
+USD,4941.0,koreacentral,D8s v3,Linux,Reservation,3 Years
+USD,1.848,koreacentral,D16ds v4,Windows,Consumption,
+USD,1.112,koreacentral,D16ds v4,Windows,DevTestConsumption,
+USD,5.04,koreacentral,D48a v4,Windows,Consumption,
+USD,2.832,koreacentral,D48a v4,Windows,DevTestConsumption,
+USD,23.46,koreacentral,FX96-24mds v2,Windows,Consumption,
+USD,19.044,koreacentral,FX96-24mds v2,Windows,DevTestConsumption,
+USD,13.216,koreacentral,FX64-32ms v2,Windows,Consumption,
+USD,10.272,koreacentral,FX64-32ms v2,Windows,DevTestConsumption,
+USD,7.973,koreacentral,D128lds v6,Linux,Consumption,
+USD,43304.0,koreacentral,D128lds v6,Linux,Reservation,1 Year
+USD,81718.0,koreacentral,D128lds v6,Linux,Reservation,3 Years
+USD,0.118,koreacentral,D2as v4,Linux,Consumption,
+USD,600.0,koreacentral,D2as v4,Linux,Reservation,1 Year
+USD,1166.0,koreacentral,D2as v4,Linux,Reservation,3 Years
+USD,3.304,koreacentral,FX16-4ms v2,Windows,Consumption,
+USD,2.568,koreacentral,FX16-4ms v2,Windows,DevTestConsumption,
+USD,0.492,koreacentral,D8 v3,Linux,Consumption,
+USD,2404.0,koreacentral,D8 v3,Linux,Reservation,1 Year
+USD,4941.0,koreacentral,D8 v3,Linux,Reservation,3 Years
+USD,1.293,koreacentral,NC8as T4 v3,Windows,Consumption,
+USD,0.925,koreacentral,NC8as T4 v3,Windows,DevTestConsumption,
+USD,0.192,koreacentral,D4ls v5,Linux,Consumption,
+USD,992.0,koreacentral,D4ls v5,Linux,Reservation,1 Year
+USD,1917.0,koreacentral,D4ls v5,Linux,Reservation,3 Years
+USD,0.231,koreacentral,D2ds v4,Windows,Consumption,
+USD,0.139,koreacentral,D2ds v4,Windows,DevTestConsumption,
+USD,4.584,koreacentral,D48als v6,Windows,Consumption,
+USD,2.376,koreacentral,D48als v6,Windows,DevTestConsumption,
+USD,0.978,koreacentral,FX4-2mds v2,Windows,Consumption,
+USD,0.794,koreacentral,FX4-2mds v2,Windows,DevTestConsumption,
+USD,3.776,koreacentral,D64as v4,Linux,Consumption,
+USD,19186.0,koreacentral,D64as v4,Linux,Reservation,1 Year
+USD,37312.0,koreacentral,D64as v4,Linux,Reservation,3 Years
+USD,0.472,koreacentral,D8s v4,Linux,Consumption,
+USD,2404.0,koreacentral,D8s v4,Linux,Reservation,1 Year
+USD,4664.0,koreacentral,D8s v4,Linux,Reservation,3 Years
+USD,0.26,koreacentral,F2as v6,Windows,Consumption,
+USD,0.168,koreacentral,F2as v6,Windows,DevTestConsumption,
+USD,7.392,koreacentral,D64ds v4,Windows,Consumption,
+USD,4.448,koreacentral,D64ds v4,Windows,DevTestConsumption,
+USD,0.185,koreacentral,F2,Windows,Consumption,
+USD,0.102,koreacentral,F2,Windows,DevTestConsumption,
+USD,9.72,koreacentral,HB176-24rsv4,Linux,Consumption,
+USD,63862.0,koreacentral,HB176-24rsv4,Linux,Reservation,1 Year
+USD,127724.0,koreacentral,HB176-24rsv4,Linux,Reservation,3 Years
+USD,141901.0,koreacentral,HB176-24rsv4,Linux,Reservation,5 Years
+USD,5.16,koreacentral,D48 v3,Windows,Consumption,
+USD,2.952,koreacentral,D48 v3,Windows,DevTestConsumption,
+USD,0.188,koreacentral,F2s v2,Windows,Consumption,
+USD,0.096,koreacentral,F2s v2,Windows,DevTestConsumption,
+USD,13.216,koreacentral,FX64ms v2,Windows,Consumption,
+USD,10.272,koreacentral,FX64ms v2,Windows,DevTestConsumption,
+USD,0.465,koreacentral,D4ads v6,Windows,Consumption,
+USD,0.281,koreacentral,D4ads v6,Windows,DevTestConsumption,
+USD,0.245,koreacentral,D2ds v6,Windows,Consumption,
+USD,0.153,koreacentral,D2ds v6,Windows,DevTestConsumption,
+USD,11.73,koreacentral,FX48-12mds v2,Windows,Consumption,
+USD,9.522,koreacentral,FX48-12mds v2,Windows,DevTestConsumption,
+USD,0.924,koreacentral,D8ds v4,Windows,Consumption,
+USD,0.556,koreacentral,D8ds v4,Windows,DevTestConsumption,
+USD,137.148,koreacentral,ND96isrH100v5,Windows,Consumption,
+USD,132.732,koreacentral,ND96isrH100v5,Windows,DevTestConsumption,
+USD,0.472,koreacentral,D8 v4,Linux,Consumption,
+USD,2404.0,koreacentral,D8 v4,Linux,Reservation,1 Year
+USD,4664.0,koreacentral,D8 v4,Linux,Reservation,3 Years
+USD,12.696,koreacentral,FX64mds v2,Linux,Consumption,
+USD,63394.0,koreacentral,FX64mds v2,Linux,Reservation,1 Year
+USD,90086.0,koreacentral,FX64mds v2,Linux,Reservation,3 Years
+USD,0.882,koreacentral,F8ams v6,Linux,Consumption,
+USD,4792.0,koreacentral,F8ams v6,Linux,Reservation,1 Year
+USD,9044.0,koreacentral,F8ams v6,Linux,Reservation,3 Years
+USD,3.336,koreacentral,D48d v4,Linux,Consumption,
+USD,17010.0,koreacentral,D48d v4,Linux,Reservation,1 Year
+USD,32964.0,koreacentral,D48d v4,Linux,Reservation,3 Years
+USD,0.384,koreacentral,F8s v2,Linux,Consumption,
+USD,1978.0,koreacentral,F8s v2,Linux,Reservation,1 Year
+USD,3641.0,koreacentral,F8s v2,Linux,Reservation,3 Years
+USD,18.04,koreacentral,NC24s v3,Windows,Consumption,
+USD,16.936,koreacentral,NC24s v3,Windows,DevTestConsumption,
+USD,0.397,koreacentral,FX2mds v2,Linux,Consumption,
+USD,1981.0,koreacentral,FX2mds v2,Linux,Reservation,1 Year
+USD,2815.0,koreacentral,FX2mds v2,Linux,Reservation,3 Years
+USD,2.224,koreacentral,D32ds v4,Linux,Consumption,
+USD,11340.0,koreacentral,D32ds v4,Linux,Reservation,1 Year
+USD,21976.0,koreacentral,D32ds v4,Linux,Reservation,3 Years
+USD,3.578,koreacentral,D64as v6,Linux,Consumption,
+USD,18490.0,koreacentral,D64as v6,Linux,Reservation,1 Year
+USD,35727.0,koreacentral,D64as v6,Linux,Reservation,3 Years
+USD,6.49,koreacentral,Dsv5 Type1,Linux,Consumption,
+USD,33543.0,koreacentral,Dsv5 Type1,Linux,Reservation,1 Year
+USD,63106.0,koreacentral,Dsv5 Type1,Linux,Reservation,3 Years
+USD,9.696,koreacentral,D96lds v5,Windows,Consumption,
+USD,5.28,koreacentral,D96lds v5,Windows,DevTestConsumption,
+USD,4.956,koreacentral,FX24ms v2,Windows,Consumption,
+USD,3.852,koreacentral,FX24ms v2,Windows,DevTestConsumption,
+USD,3.304,koreacentral,FX16-8ms v2,Windows,Consumption,
+USD,2.568,koreacentral,FX16-8ms v2,Windows,DevTestConsumption,
+USD,3.856,koreacentral,F32als v6,Windows,Consumption,
+USD,2.384,koreacentral,F32als v6,Windows,DevTestConsumption,
+USD,5.364,koreacentral,F72als v6,Linux,Consumption,
+USD,29133.0,koreacentral,F72als v6,Linux,Reservation,1 Year
+USD,54977.0,koreacentral,F72als v6,Linux,Reservation,3 Years
+USD,7.339,koreacentral,Ddsv5 Type1,Linux,Consumption,
+USD,37932.0,koreacentral,Ddsv5 Type1,Linux,Reservation,1 Year
+USD,73292.0,koreacentral,Ddsv5 Type1,Linux,Reservation,3 Years
+USD,0.202,koreacentral,D4ls v6,Linux,Consumption,
+USD,1095.0,koreacentral,D4ls v6,Linux,Reservation,1 Year
+USD,2066.0,koreacentral,D4ls v6,Linux,Reservation,3 Years
+USD,3.008,koreacentral,D32ls v5,Windows,Consumption,
+USD,1.536,koreacentral,D32ls v5,Windows,DevTestConsumption,
+USD,15.689,koreacentral,D128ds v6,Windows,Consumption,
+USD,9.801,koreacentral,D128ds v6,Windows,DevTestConsumption,
+USD,20.726,koreacentral,D192s v6,Windows,Consumption,
+USD,11.894,koreacentral,D192s v6,Windows,DevTestConsumption,
+USD,3.36,koreacentral,D32as v4,Windows,Consumption,
+USD,1.888,koreacentral,D32as v4,Windows,DevTestConsumption,
+USD,4.956,koreacentral,FX24-12ms v2,Windows,Consumption,
+USD,3.852,koreacentral,FX24-12ms v2,Windows,DevTestConsumption,
+USD,0.281,koreacentral,D4ads v6,Linux,Consumption,
+USD,1453.0,koreacentral,D4ads v6,Linux,Reservation,1 Year
+USD,2808.0,koreacentral,D4ads v6,Linux,Reservation,3 Years
+USD,0.101,koreacentral,D2ls v6,Linux,Consumption,
+USD,547.0,koreacentral,D2ls v6,Linux,Reservation,1 Year
+USD,1033.0,koreacentral,D2ls v6,Linux,Reservation,3 Years
+USD,22.526,koreacentral,NC80adisH100v5,Windows,Consumption,
+USD,18.846,koreacentral,NC80adisH100v5,Windows,DevTestConsumption,
+USD,6.749,koreacentral,D96ads v6,Linux,Consumption,
+USD,34880.0,koreacentral,D96ads v6,Linux,Reservation,1 Year
+USD,67396.0,koreacentral,D96ads v6,Linux,Reservation,3 Years
+USD,0.499,koreacentral,NV4as v4,Windows,Consumption,
+USD,0.315,koreacentral,NV4as v4,Windows,DevTestConsumption,
+USD,1.536,koreacentral,D32ls v5,Linux,Consumption,
+USD,7939.0,koreacentral,D32ls v5,Linux,Reservation,1 Year
+USD,15339.0,koreacentral,D32ls v5,Linux,Reservation,3 Years
+USD,0.384,koreacentral,D8ls v5,Linux,Consumption,
+USD,1985.0,koreacentral,D8ls v5,Linux,Reservation,1 Year
+USD,3835.0,koreacentral,D8ls v5,Linux,Reservation,3 Years
+USD,5.182,koreacentral,D48s v6,Windows,Consumption,
+USD,2.974,koreacentral,D48s v6,Windows,DevTestConsumption,
+USD,5.191,koreacentral,Dsv4 Type1,Linux,Consumption,
+USD,26444.0,koreacentral,Dsv4 Type1,Linux,Reservation,1 Year
+USD,51304.0,koreacentral,Dsv4 Type1,Linux,Reservation,3 Years
+USD,7.82,koreacentral,FX32-8mds v2,Windows,Consumption,
+USD,6.348,koreacentral,FX32-8mds v2,Windows,DevTestConsumption,
+USD,3.757,koreacentral,D64alds v6,Linux,Consumption,
+USD,19417.0,koreacentral,D64alds v6,Linux,Reservation,1 Year
+USD,37517.0,koreacentral,D64alds v6,Linux,Reservation,3 Years
+USD,17.816,koreacentral,HB176rsv4,Windows,Consumption,
+USD,9.72,koreacentral,HB176rsv4,Windows,DevTestConsumption,
+USD,1.861,koreacentral,D16ads v6,Windows,Consumption,
+USD,1.125,koreacentral,D16ads v6,Windows,DevTestConsumption,
+USD,1.968,koreacentral,D32s v3,Linux,Consumption,
+USD,9616.0,koreacentral,D32s v3,Linux,Reservation,1 Year
+USD,19762.0,koreacentral,D32s v3,Linux,Reservation,3 Years
+USD,6.909,koreacentral,D64s v6,Windows,Consumption,
+USD,3.965,koreacentral,D64s v6,Windows,DevTestConsumption,
+USD,2.381,koreacentral,FX12mds v2,Linux,Consumption,
+USD,11886.0,koreacentral,FX12mds v2,Linux,Reservation,1 Year
+USD,16891.0,koreacentral,FX12mds v2,Linux,Reservation,3 Years
+USD,1.888,koreacentral,D32a v4,Linux,Consumption,
+USD,9593.0,koreacentral,D32a v4,Linux,Reservation,1 Year
+USD,18656.0,koreacentral,D32a v4,Linux,Reservation,3 Years
+USD,1.536,koreacentral,F32s v2,Linux,Consumption,
+USD,7912.0,koreacentral,F32s v2,Linux,Reservation,1 Year
+USD,14564.0,koreacentral,F32s v2,Linux,Reservation,3 Years
+USD,9.72,koreacentral,HB176rsv4,Linux,Consumption,
+USD,63862.0,koreacentral,HB176rsv4,Linux,Reservation,1 Year
+USD,127724.0,koreacentral,HB176rsv4,Linux,Reservation,3 Years
+USD,141901.0,koreacentral,HB176rsv4,Linux,Reservation,5 Years
+USD,0.102,koreacentral,F2,Linux,Consumption,
+USD,689.0,koreacentral,F2,Linux,Reservation,1 Year
+USD,1494.0,koreacentral,F2,Linux,Reservation,3 Years
+USD,5.198,koreacentral,D48lds v6,Windows,Consumption,
+USD,2.99,koreacentral,D48lds v6,Windows,DevTestConsumption,
+USD,0.556,koreacentral,D8d v4,Linux,Consumption,
+USD,2835.0,koreacentral,D8d v4,Linux,Reservation,1 Year
+USD,5494.0,koreacentral,D8d v4,Linux,Reservation,3 Years
+USD,6.608,koreacentral,FX32ms v2,Windows,Consumption,
+USD,5.136,koreacentral,FX32ms v2,Windows,DevTestConsumption,
+USD,0.752,koreacentral,F8s v2,Windows,Consumption,
+USD,0.384,koreacentral,F8s v2,Windows,DevTestConsumption,
+USD,6.348,koreacentral,FX32-8mds v2,Linux,Consumption,
+USD,31697.0,koreacentral,FX32-8mds v2,Linux,Reservation,1 Year
+USD,45043.0,koreacentral,FX32-8mds v2,Linux,Reservation,3 Years
+USD,0.613,koreacentral,D8ds v6,Linux,Consumption,
+USD,3327.0,koreacentral,D8ds v6,Linux,Reservation,1 Year
+USD,6278.0,koreacentral,D8ds v6,Linux,Reservation,3 Years
+USD,16.936,koreacentral,NC24s v3,Linux,Consumption,
+USD,4.768,koreacentral,F64als v6,Linux,Consumption,
+USD,25896.0,koreacentral,F64als v6,Linux,Reservation,1 Year
+USD,48868.0,koreacentral,F64als v6,Linux,Reservation,3 Years
+USD,23.46,koreacentral,FX96-48mds v2,Windows,Consumption,
+USD,19.044,koreacentral,FX96-48mds v2,Windows,DevTestConsumption,
+USD,0.413,koreacentral,FX2ms v2,Windows,Consumption,
+USD,0.321,koreacentral,FX2ms v2,Windows,DevTestConsumption,
+USD,5.366,koreacentral,D96as v6,Linux,Consumption,
+USD,27736.0,koreacentral,D96as v6,Linux,Reservation,1 Year
+USD,53591.0,koreacentral,D96as v6,Linux,Reservation,3 Years
+USD,2.683,koreacentral,D48as v6,Linux,Consumption,
+USD,13868.0,koreacentral,D48as v6,Linux,Reservation,1 Year
+USD,26796.0,koreacentral,D48as v6,Linux,Reservation,3 Years
+USD,0.118,koreacentral,D2s v4,Linux,Consumption,
+USD,601.0,koreacentral,D2s v4,Linux,Reservation,1 Year
+USD,1166.0,koreacentral,D2s v4,Linux,Reservation,3 Years
+USD,0.298,koreacentral,F4als v6,Linux,Consumption,
+USD,1618.0,koreacentral,F4als v6,Linux,Reservation,1 Year
+USD,3054.0,koreacentral,F4als v6,Linux,Reservation,3 Years
+USD,0.191,koreacentral,D2als v6,Windows,Consumption,
+USD,0.099,koreacentral,D2als v6,Windows,DevTestConsumption,
+USD,1.733,koreacentral,D16lds v6,Windows,Consumption,
+USD,0.997,koreacentral,D16lds v6,Windows,DevTestConsumption,
+USD,0.924,koreacentral,D8d v4,Windows,Consumption,
+USD,0.556,koreacentral,D8d v4,Windows,DevTestConsumption,
+USD,0.386,koreacentral,D4ls v6,Windows,Consumption,
+USD,0.202,koreacentral,D4ls v6,Windows,DevTestConsumption,
+USD,7.059,koreacentral,F64ams v6,Linux,Consumption,
+USD,38340.0,koreacentral,F64ams v6,Linux,Reservation,1 Year
+USD,72351.0,koreacentral,F64ams v6,Linux,Reservation,3 Years
+USD,0.84,koreacentral,D8a v4,Windows,Consumption,
+USD,0.472,koreacentral,D8a v4,Windows,DevTestConsumption,
+USD,3.232,koreacentral,D32lds v5,Windows,Consumption,
+USD,1.76,koreacentral,D32lds v5,Windows,DevTestConsumption,
+USD,1.765,koreacentral,F16ams v6,Linux,Consumption,
+USD,9585.0,koreacentral,F16ams v6,Linux,Reservation,1 Year
+USD,18088.0,koreacentral,F16ams v6,Linux,Reservation,3 Years
+USD,3.261,koreacentral,D32as v6,Windows,Consumption,
+USD,1.789,koreacentral,D32as v6,Windows,DevTestConsumption,
+USD,1.481,koreacentral,NC16asT4 v3,Linux,Consumption,
+USD,7616.0,koreacentral,NC16asT4 v3,Linux,Reservation,1 Year
+USD,14634.0,koreacentral,NC16asT4 v3,Linux,Reservation,3 Years
+USD,3.696,koreacentral,D32d v4,Windows,Consumption,
+USD,2.224,koreacentral,D32d v4,Windows,DevTestConsumption,
+USD,4.627,koreacentral,D48ls v6,Windows,Consumption,
+USD,2.419,koreacentral,D48ls v6,Windows,DevTestConsumption,
+USD,2.952,koreacentral,D48s v3,Linux,Consumption,
+USD,14911.0,koreacentral,D48s v3,Linux,Reservation,1 Year
+USD,29092.0,koreacentral,D48s v3,Linux,Reservation,3 Years
+USD,6.112,koreacentral,D64als v6,Windows,Consumption,
+USD,3.168,koreacentral,D64als v6,Windows,DevTestConsumption,
+USD,19.76,koreacentral,HX176-24rs,Windows,Consumption,
+USD,11.664,koreacentral,HX176-24rs,Windows,DevTestConsumption,
+USD,19.734,koreacentral,NC24rs v3,Windows,Consumption,
+USD,18.63,koreacentral,NC24rs v3,Windows,DevTestConsumption,
+USD,0.984,koreacentral,D16 v3,Linux,Consumption,
+USD,4808.0,koreacentral,D16 v3,Linux,Reservation,1 Year
+USD,9881.0,koreacentral,D16 v3,Linux,Reservation,3 Years
+USD,1.284,koreacentral,FX8-2ms v2,Linux,Consumption,
+USD,6412.0,koreacentral,FX8-2ms v2,Linux,Reservation,1 Year
+USD,9111.0,koreacentral,FX8-2ms v2,Linux,Reservation,3 Years
+USD,6.608,koreacentral,FX32-16ms v2,Windows,Consumption,
+USD,5.136,koreacentral,FX32-16ms v2,Windows,DevTestConsumption,
+USD,2.974,koreacentral,D48s v6,Linux,Consumption,
+USD,16150.0,koreacentral,D48s v6,Linux,Reservation,1 Year
+USD,30477.0,koreacentral,D48s v6,Linux,Reservation,3 Years
+USD,3.008,koreacentral,F32s v2,Windows,Consumption,
+USD,1.536,koreacentral,F32s v2,Windows,DevTestConsumption,
+USD,3.696,koreacentral,D32ds v4,Windows,Consumption,
+USD,2.224,koreacentral,D32ds v4,Windows,DevTestConsumption,
+USD,11.664,koreacentral,HX176-48rs,Linux,Consumption,
+USD,76630.0,koreacentral,HX176-48rs,Linux,Reservation,1 Year
+USD,153261.0,koreacentral,HX176-48rs,Linux,Reservation,3 Years
+USD,170273.0,koreacentral,HX176-48rs,Linux,Reservation,5 Years
+USD,0.433,koreacentral,D4lds v6,Windows,Consumption,
+USD,0.249,koreacentral,D4lds v6,Windows,DevTestConsumption,
+USD,0.313,koreacentral,F2ams v6,Windows,Consumption,
+USD,0.221,koreacentral,F2ams v6,Windows,DevTestConsumption,
+USD,119.459,koreacentral,ND96isH100v5,Linux,Consumption,
+USD,669734.0,koreacentral,ND96isH100v5,Linux,Reservation,1 Year
+USD,1378187.0,koreacentral,ND96isH100v5,Linux,Reservation,3 Years
+USD,2092918.0,koreacentral,ND96isH100v5,Linux,Reservation,5 Years
+USD,5.294,koreacentral,F48ams v6,Linux,Consumption,
+USD,28755.0,koreacentral,F48ams v6,Linux,Reservation,1 Year
+USD,54263.0,koreacentral,F48ams v6,Linux,Reservation,3 Years
+USD,3.36,koreacentral,D32a v4,Windows,Consumption,
+USD,1.888,koreacentral,D32a v4,Windows,DevTestConsumption,
+USD,9.912,koreacentral,FX48-12ms v2,Windows,Consumption,
+USD,7.704,koreacentral,FX48-12ms v2,Windows,DevTestConsumption,
+USD,0.112,koreacentral,D2as v6,Linux,Consumption,
+USD,578.0,koreacentral,D2as v6,Linux,Reservation,1 Year
+USD,1116.0,koreacentral,D2as v6,Linux,Reservation,3 Years
+USD,3.675,koreacentral,D48ds v6,Linux,Consumption,
+USD,19962.0,koreacentral,D48ds v6,Linux,Reservation,1 Year
+USD,37669.0,koreacentral,D48ds v6,Linux,Reservation,3 Years
+USD,0.376,koreacentral,D4ls v5,Windows,Consumption,
+USD,0.192,koreacentral,D4ls v5,Windows,DevTestConsumption,
+USD,0.944,koreacentral,D16as v4,Linux,Consumption,
+USD,4796.0,koreacentral,D16as v4,Linux,Reservation,1 Year
+USD,9328.0,koreacentral,D16as v4,Linux,Reservation,3 Years
+USD,11.664,koreacentral,HX176-24rs,Linux,Consumption,
+USD,76630.0,koreacentral,HX176-24rs,Linux,Reservation,1 Year
+USD,153261.0,koreacentral,HX176-24rs,Linux,Reservation,3 Years
+USD,170273.0,koreacentral,HX176-24rs,Linux,Reservation,5 Years
+USD,2.45,koreacentral,D32ds v6,Linux,Consumption,
+USD,13308.0,koreacentral,D32ds v6,Linux,Reservation,1 Year
+USD,25113.0,koreacentral,D32ds v6,Linux,Reservation,3 Years
+USD,4.234,koreacentral,NC6s v3,Linux,Consumption,
+USD,7.392,koreacentral,D64d v4,Windows,Consumption,
+USD,4.448,koreacentral,D64d v4,Windows,DevTestConsumption,
+USD,4.893,koreacentral,Ddsv4 Type 1,Linux,Consumption,
+USD,24957.0,koreacentral,Ddsv4 Type 1,Linux,Reservation,1 Year
+USD,48347.0,koreacentral,Ddsv4 Type 1,Linux,Reservation,3 Years
+USD,14.701,koreacentral,D192ds_v6,Linux,Consumption,
+USD,79846.0,koreacentral,D192ds_v6,Linux,Reservation,1 Year
+USD,150678.0,koreacentral,D192ds_v6,Linux,Reservation,3 Years
+USD,18.846,koreacentral,NC80adisH100v5,Linux,Consumption,
+USD,123818.0,koreacentral,NC80adisH100v5,Linux,Reservation,1 Year
+USD,272400.0,koreacentral,NC80adisH100v5,Linux,Reservation,3 Years
+USD,1.613,koreacentral,D32ls v6,Linux,Consumption,
+USD,8759.0,koreacentral,D32ls v6,Linux,Reservation,1 Year
+USD,16530.0,koreacentral,D32ls v6,Linux,Reservation,3 Years
+USD,5.544,koreacentral,D48d v4,Windows,Consumption,
+USD,3.336,koreacentral,D48d v4,Windows,DevTestConsumption,
+USD,0.139,koreacentral,D2ds v4,Linux,Consumption,
+USD,709.0,koreacentral,D2ds v4,Linux,Reservation,1 Year
+USD,1373.0,koreacentral,D2ds v4,Linux,Reservation,3 Years
+USD,1.968,koreacentral,D32-16s v3,Linux,Consumption,
+USD,8.676,koreacentral,F72als v6,Windows,Consumption,
+USD,5.364,koreacentral,F72als v6,Windows,DevTestConsumption,
+USD,0.13,koreacentral,F1as v6,Windows,Consumption,
+USD,0.0842,koreacentral,F1as v6,Windows,DevTestConsumption,
+USD,4.761,koreacentral,FX24-12mds v2,Linux,Consumption,
+USD,23773.0,koreacentral,FX24-12mds v2,Linux,Reservation,1 Year
+USD,33782.0,koreacentral,FX24-12mds v2,Linux,Reservation,3 Years
+USD,0.21,koreacentral,D2 v4,Windows,Consumption,
+USD,0.118,koreacentral,D2 v4,Windows,DevTestConsumption,
+USD,7.823,koreacentral,Dadsv5 Type1,Linux,Consumption,
+USD,40433.0,koreacentral,Dadsv5 Type1,Linux,Reservation,1 Year
+USD,78126.0,koreacentral,Dadsv5 Type1,Linux,Reservation,3 Years
+USD,0.216,koreacentral,D2s v6,Windows,Consumption,
+USD,0.124,koreacentral,D2s v6,Windows,DevTestConsumption,
+USD,0.141,koreacentral,D2ads v6,Linux,Consumption,
+USD,727.0,koreacentral,D2ads v6,Linux,Reservation,1 Year
+USD,1404.0,koreacentral,D2ads v6,Linux,Reservation,3 Years
+USD,1.848,koreacentral,D16d v4,Windows,Consumption,
+USD,1.112,koreacentral,D16d v4,Windows,DevTestConsumption,
+USD,0.118,koreacentral,D2 v4,Linux,Consumption,
+USD,601.0,koreacentral,D2 v4,Linux,Reservation,1 Year
+USD,1166.0,koreacentral,D2 v4,Linux,Reservation,3 Years
+USD,1.878,koreacentral,D32alds v6,Linux,Consumption,
+USD,9708.0,koreacentral,D32alds v6,Linux,Reservation,1 Year
+USD,18758.0,koreacentral,D32alds v6,Linux,Reservation,3 Years
+USD,2.568,koreacentral,FX16-8ms v2,Linux,Consumption,
+USD,12823.0,koreacentral,FX16-8ms v2,Linux,Reservation,1 Year
+USD,18222.0,koreacentral,FX16-8ms v2,Linux,Reservation,3 Years
+USD,4.838,koreacentral,D96ls v6,Linux,Consumption,
+USD,26278.0,koreacentral,D96ls v6,Linux,Reservation,1 Year
+USD,49590.0,koreacentral,D96ls v6,Linux,Reservation,3 Years
+USD,5.81,koreacentral,Ddsv4 Type 2,Linux,Consumption,
+USD,30029.0,koreacentral,Ddsv4 Type 2,Linux,Reservation,1 Year
+USD,58023.0,koreacentral,Ddsv4 Type 2,Linux,Reservation,3 Years
+USD,1.982,koreacentral,D32s v6,Linux,Consumption,
+USD,10767.0,koreacentral,D32s v6,Linux,Reservation,1 Year
+USD,20318.0,koreacentral,D32s v6,Linux,Reservation,3 Years
+USD,0.771,koreacentral,D8ls v6,Windows,Consumption,
+USD,0.403,koreacentral,D8ls v6,Windows,DevTestConsumption,
+USD,2.568,koreacentral,FX16-4ms v2,Linux,Consumption,
+USD,12823.0,koreacentral,FX16-4ms v2,Linux,Reservation,1 Year
+USD,18222.0,koreacentral,FX16-4ms v2,Linux,Reservation,3 Years
+USD,5.069,koreacentral,Fsv2 Type4,Linux,Consumption,
+USD,26198.0,koreacentral,Fsv2 Type4,Linux,Reservation,1 Year
+USD,47955.0,koreacentral,Fsv2 Type4,Linux,Reservation,3 Years
+USD,2.224,koreacentral,D32d v4,Linux,Consumption,
+USD,11340.0,koreacentral,D32d v4,Linux,Reservation,1 Year
+USD,21976.0,koreacentral,D32d v4,Linux,Reservation,3 Years
+USD,1.994,koreacentral,NV16as v4,Windows,Consumption,
+USD,1.258,koreacentral,NV16as v4,Windows,DevTestConsumption,
+USD,1.727,koreacentral,D16s v6,Windows,Consumption,
+USD,0.991,koreacentral,D16s v6,Windows,DevTestConsumption,
+USD,19.76,koreacentral,HX176-48rs,Windows,Consumption,
+USD,11.664,koreacentral,HX176-48rs,Windows,DevTestConsumption,
+USD,1.192,koreacentral,F16als v6,Linux,Consumption,
+USD,6474.0,koreacentral,F16als v6,Linux,Reservation,1 Year
+USD,12217.0,koreacentral,F16als v6,Linux,Reservation,3 Years
+USD,0.204,koreacentral,F4,Linux,Consumption,
+USD,1388.0,koreacentral,F4,Linux,Reservation,1 Year
+USD,2988.0,koreacentral,F4,Linux,Reservation,3 Years
+USD,6.464,koreacentral,D64lds v5,Windows,Consumption,
+USD,3.52,koreacentral,D64lds v5,Windows,DevTestConsumption,
+USD,6.88,koreacentral,D64 v3,Windows,Consumption,
+USD,3.936,koreacentral,D64 v3,Windows,DevTestConsumption,
+USD,0.42,koreacentral,D4a v4,Windows,Consumption,
+USD,0.236,koreacentral,D4a v4,Windows,DevTestConsumption,
+USD,0.096,koreacentral,F2s v2,Linux,Consumption,
+USD,494.0,koreacentral,F2s v2,Linux,Reservation,1 Year
+USD,910.0,koreacentral,F2s v2,Linux,Reservation,3 Years
+USD,15.409,koreacentral,FX96ms v2,Linux,Consumption,
+USD,76938.0,koreacentral,FX96ms v2,Linux,Reservation,1 Year
+USD,109333.0,koreacentral,FX96ms v2,Linux,Reservation,3 Years
+USD,0.984,koreacentral,D16s v3,Linux,Consumption,
+USD,4808.0,koreacentral,D16s v3,Linux,Reservation,1 Year
+USD,9881.0,koreacentral,D16s v3,Linux,Reservation,3 Years
+USD,0.816,koreacentral,F16,Linux,Consumption,
+USD,5542.0,koreacentral,F16,Linux,Reservation,1 Year
+USD,11983.0,koreacentral,F16,Linux,Reservation,3 Years
+USD,0.864,koreacentral,D8s v6,Windows,Consumption,
+USD,0.496,koreacentral,D8s v6,Windows,DevTestConsumption,
+USD,2.501,koreacentral,F16ams v6,Windows,Consumption,
+USD,1.765,koreacentral,F16ams v6,Windows,DevTestConsumption,
+USD,0.84,koreacentral,D8as v4,Windows,Consumption,
+USD,0.472,koreacentral,D8as v4,Windows,DevTestConsumption,
+USD,0.217,koreacentral,D2lds v6,Windows,Consumption,
+USD,0.125,koreacentral,D2lds v6,Windows,DevTestConsumption,
+USD,3.072,koreacentral,F64s v2,Linux,Consumption,
+USD,15824.0,koreacentral,F64s v2,Linux,Reservation,1 Year
+USD,29128.0,koreacentral,F64s v2,Linux,Reservation,3 Years
+USD,7.93,koreacentral,D128s v6,Linux,Consumption,
+USD,43067.0,koreacentral,D128s v6,Linux,Reservation,1 Year
+USD,81272.0,koreacentral,D128s v6,Linux,Reservation,3 Years
+USD,0.894,koreacentral,D16as v6,Linux,Consumption,
+USD,4623.0,koreacentral,D16as v6,Linux,Reservation,1 Year
+USD,8932.0,koreacentral,D16as v6,Linux,Reservation,3 Years
+USD,1.042,koreacentral,F8as v6,Windows,Consumption,
+USD,0.674,koreacentral,F8as v6,Windows,DevTestConsumption,
+USD,12.339,koreacentral,D128ls v6,Windows,Consumption,
+USD,6.451,koreacentral,D128ls v6,Windows,DevTestConsumption,
+USD,0.246,koreacentral,D4 v3,Linux,Consumption,
+USD,1202.0,koreacentral,D4 v3,Linux,Reservation,1 Year
+USD,2470.0,koreacentral,D4 v3,Linux,Reservation,3 Years
+USD,0.117,koreacentral,D2alds v6,Linux,Consumption,
+USD,607.0,koreacentral,D2alds v6,Linux,Reservation,1 Year
+USD,1172.0,koreacentral,D2alds v6,Linux,Reservation,3 Years
+USD,3.374,koreacentral,D48ads v6,Linux,Consumption,
+USD,17440.0,koreacentral,D48ads v6,Linux,Reservation,1 Year
+USD,33698.0,koreacentral,D48ads v6,Linux,Reservation,3 Years
+USD,2.376,koreacentral,D48als v6,Linux,Consumption,
+USD,12280.0,koreacentral,D48als v6,Linux,Reservation,1 Year
+USD,23728.0,koreacentral,D48als v6,Linux,Reservation,3 Years
+USD,10.003,koreacentral,F64ams v6,Windows,Consumption,
+USD,7.059,koreacentral,F64ams v6,Windows,DevTestConsumption,
+USD,10.272,koreacentral,FX64-32ms v2,Linux,Consumption,
+USD,51292.0,koreacentral,FX64-32ms v2,Linux,Reservation,1 Year
+USD,72889.0,koreacentral,FX64-32ms v2,Linux,Reservation,3 Years
+USD,9.168,koreacentral,D96als v6,Windows,Consumption,
+USD,4.752,koreacentral,D96als v6,Windows,DevTestConsumption,
+USD,4.499,koreacentral,D64ads v6,Linux,Consumption,
+USD,23254.0,koreacentral,D64ads v6,Linux,Reservation,1 Year
+USD,44931.0,koreacentral,D64ads v6,Linux,Reservation,3 Years
+USD,0.321,koreacentral,FX2ms v2,Linux,Consumption,
+USD,1603.0,koreacentral,FX2ms v2,Linux,Reservation,1 Year
+USD,2278.0,koreacentral,FX2ms v2,Linux,Reservation,3 Years
+USD,6.23,koreacentral,Dasv4 Type1,Linux,Consumption,
+USD,31733.0,koreacentral,Dasv4 Type1,Linux,Reservation,1 Year
+USD,61565.0,koreacentral,Dasv4 Type1,Linux,Reservation,3 Years
+USD,1.284,koreacentral,FX8ms v2,Linux,Consumption,
+USD,6412.0,koreacentral,FX8ms v2,Linux,Reservation,1 Year
+USD,9111.0,koreacentral,FX8ms v2,Linux,Reservation,3 Years
+USD,1.652,koreacentral,FX8-4ms_v2,Windows,Consumption,
+USD,1.284,koreacentral,FX8-4ms_v2,Windows,DevTestConsumption,
+USD,3.456,koreacentral,F72s v2,Linux,Consumption,
+USD,17801.0,koreacentral,F72s v2,Linux,Reservation,1 Year
+USD,32769.0,koreacentral,F72s v2,Linux,Reservation,3 Years
+USD,4.448,koreacentral,D64ds v4,Linux,Consumption,
+USD,22681.0,koreacentral,D64ds v4,Linux,Reservation,1 Year
+USD,43952.0,koreacentral,D64ds v4,Linux,Reservation,3 Years
+USD,7.844,koreacentral,D64ds v6,Windows,Consumption,
+USD,4.9,koreacentral,D64ds v6,Windows,DevTestConsumption,
+USD,1.25,koreacentral,F8ams v6,Windows,Consumption,
+USD,0.882,koreacentral,F8ams v6,Windows,DevTestConsumption,
+USD,6.88,koreacentral,D64s v3,Windows,Consumption,
+USD,3.936,koreacentral,D64s v3,Windows,DevTestConsumption,
+USD,9.02,koreacentral,NC12s v3,Windows,Consumption,
+USD,8.468,koreacentral,NC12s v3,Windows,DevTestConsumption,
+USD,1.76,koreacentral,D32lds v5,Linux,Consumption,
+USD,9096.0,koreacentral,D32lds v5,Linux,Reservation,1 Year
+USD,16651.0,koreacentral,D32lds v5,Linux,Reservation,3 Years
+USD,0.051,koreacentral,F1,Linux,Consumption,
+USD,344.0,koreacentral,F1,Linux,Reservation,1 Year
+USD,747.0,koreacentral,F1,Linux,Reservation,3 Years
+USD,1.888,koreacentral,D32s v4,Linux,Consumption,
+USD,9615.0,koreacentral,D32s v4,Linux,Reservation,1 Year
+USD,18656.0,koreacentral,D32s v4,Linux,Reservation,3 Years
+USD,1.587,koreacentral,FX8mds v2,Linux,Consumption,
+USD,7924.0,koreacentral,FX8mds v2,Linux,Reservation,1 Year
+USD,11261.0,koreacentral,FX8mds v2,Linux,Reservation,3 Years
+USD,5.865,koreacentral,FX24-6mds v2,Windows,Consumption,
+USD,4.761,koreacentral,FX24-6mds v2,Windows,DevTestConsumption,
+USD,3.056,koreacentral,D32als v6,Windows,Consumption,
+USD,1.584,koreacentral,D32als v6,Windows,DevTestConsumption,
+USD,1.284,koreacentral,FX8-4ms_v2,Linux,Consumption,
+USD,6412.0,koreacentral,FX8-4ms_v2,Linux,Reservation,1 Year
+USD,9111.0,koreacentral,FX8-4ms_v2,Linux,Reservation,3 Years
+USD,0.642,koreacentral,FX4-2ms v2,Linux,Consumption,
+USD,3206.0,koreacentral,FX4-2ms v2,Linux,Reservation,1 Year
+USD,4556.0,koreacentral,FX4-2ms v2,Linux,Reservation,3 Years
+USD,5.28,koreacentral,D96lds v5,Linux,Consumption,
+USD,27289.0,koreacentral,D96lds v5,Linux,Reservation,1 Year
+USD,49953.0,koreacentral,D96lds v5,Linux,Reservation,3 Years
+USD,0.22,koreacentral,D4lds v5,Linux,Consumption,
+USD,1137.0,koreacentral,D4lds v5,Linux,Reservation,1 Year
+USD,2081.0,koreacentral,D4lds v5,Linux,Reservation,3 Years
+USD,3.776,koreacentral,D64 v4,Linux,Consumption,
+USD,19230.0,koreacentral,D64 v4,Linux,Reservation,1 Year
+USD,37312.0,koreacentral,D64 v4,Linux,Reservation,3 Years
+USD,19.76,koreacentral,HX176-96rs,Windows,Consumption,
+USD,11.664,koreacentral,HX176-96rs,Windows,DevTestConsumption,
+USD,3.168,koreacentral,D64als v6,Linux,Consumption,
+USD,16373.0,koreacentral,D64als v6,Linux,Reservation,1 Year
+USD,31637.0,koreacentral,D64als v6,Linux,Reservation,3 Years
+USD,0.86,koreacentral,D8s v3,Windows,Consumption,
+USD,0.492,koreacentral,D8s v3,Windows,DevTestConsumption,
+USD,0.808,koreacentral,D8lds v5,Windows,Consumption,
+USD,0.44,koreacentral,D8lds v5,Windows,DevTestConsumption,
+USD,5.04,koreacentral,D48as v4,Windows,Consumption,
+USD,2.832,koreacentral,D48as v4,Windows,DevTestConsumption,
+USD,19.825,koreacentral,FX96ms v2,Windows,Consumption,
+USD,15.409,koreacentral,FX96ms v2,Windows,DevTestConsumption,
+USD,10.363,koreacentral,D96s v6,Windows,Consumption,
+USD,5.947,koreacentral,D96s v6,Windows,DevTestConsumption,
+USD,4.752,koreacentral,D96als v6,Linux,Consumption,
+USD,24560.0,koreacentral,D96als v6,Linux,Reservation,1 Year
+USD,47455.0,koreacentral,D96als v6,Linux,Reservation,3 Years
+USD,1.789,koreacentral,D32as v6,Linux,Consumption,
+USD,9245.0,koreacentral,D32as v6,Linux,Reservation,1 Year
+USD,17864.0,koreacentral,D32as v6,Linux,Reservation,3 Years
+USD,9.024,koreacentral,D96ls v5,Windows,Consumption,
+USD,4.608,koreacentral,D96ls v5,Windows,DevTestConsumption,
+USD,0.826,koreacentral,FX4-2ms v2,Windows,Consumption,
+USD,0.642,koreacentral,FX4-2ms v2,Windows,DevTestConsumption,
+USD,1.68,koreacentral,D16s v4,Windows,Consumption,
+USD,0.944,koreacentral,D16s v4,Windows,DevTestConsumption,
+USD,3.936,koreacentral,D64 v3,Linux,Consumption,
+USD,19232.0,koreacentral,D64 v3,Linux,Reservation,1 Year
+USD,39524.0,koreacentral,D64 v3,Linux,Reservation,3 Years
+USD,11.165,koreacentral,D96ads v6,Windows,Consumption,
+USD,6.749,koreacentral,D96ads v6,Windows,DevTestConsumption,
+USD,17.816,koreacentral,HB176-24rsv4,Windows,Consumption,
+USD,9.72,koreacentral,HB176-24rsv4,Windows,DevTestConsumption,
+USD,0.482,koreacentral,F4als v6,Windows,Consumption,
+USD,0.298,koreacentral,F4als v6,Windows,DevTestConsumption,
+USD,0.11,koreacentral,F1ams v6,Linux,Consumption,
+USD,599.0,koreacentral,F1ams v6,Linux,Reservation,1 Year
+USD,1130.0,koreacentral,F1ams v6,Linux,Reservation,3 Years
+USD,1.888,koreacentral,D32 v4,Linux,Consumption,
+USD,9615.0,koreacentral,D32 v4,Linux,Reservation,1 Year
+USD,18656.0,koreacentral,D32 v4,Linux,Reservation,3 Years
+USD,3.36,koreacentral,D32 v4,Windows,Consumption,
+USD,1.888,koreacentral,D32 v4,Windows,DevTestConsumption,
+USD,5.784,koreacentral,F48als v6,Windows,Consumption,
+USD,3.576,koreacentral,F48als v6,Windows,DevTestConsumption,
+USD,0.939,koreacentral,D16alds v6,Linux,Consumption,
+USD,4854.0,koreacentral,D16alds v6,Linux,Reservation,1 Year
+USD,9379.0,koreacentral,D16alds v6,Linux,Reservation,3 Years
+USD,1.955,koreacentral,FX8-4mds v2,Windows,Consumption,
+USD,1.587,koreacentral,FX8-4mds v2,Windows,DevTestConsumption,
+USD,0.408,koreacentral,F8s,Linux,Consumption,
+USD,2776.0,koreacentral,F8s,Linux,Reservation,1 Year
+USD,5978.0,koreacentral,F8s,Linux,Reservation,3 Years
+USD,6.25,koreacentral,F48as v6,Windows,Consumption,
+USD,4.042,koreacentral,F48as v6,Windows,DevTestConsumption,
+USD,9.688,koreacentral,NVasv4 Type1,Linux,Consumption,
+USD,54317.0,koreacentral,NVasv4 Type1,Linux,Reservation,1 Year
+USD,112029.0,koreacentral,NVasv4 Type1,Linux,Reservation,3 Years
+USD,1.528,koreacentral,D16als v6,Windows,Consumption,
+USD,0.792,koreacentral,D16als v6,Windows,DevTestConsumption,
+USD,4.166,koreacentral,F32as v6,Windows,Consumption,
+USD,2.694,koreacentral,F32as v6,Windows,DevTestConsumption,
+USD,1.72,koreacentral,D16 v3,Windows,Consumption,
+USD,0.984,koreacentral,D16 v3,Windows,DevTestConsumption,
+USD,2.478,koreacentral,FX12-6ms v2,Windows,Consumption,
+USD,1.926,koreacentral,FX12-6ms v2,Windows,DevTestConsumption,
+USD,3.174,koreacentral,FX16-4mds v2,Linux,Consumption,
+USD,15848.0,koreacentral,FX16-4mds v2,Linux,Reservation,1 Year
+USD,22521.0,koreacentral,FX16-4mds v2,Linux,Reservation,3 Years
+USD,5.865,koreacentral,FX24-12mds v2,Windows,Consumption,
+USD,4.761,koreacentral,FX24-12mds v2,Windows,DevTestConsumption,
+USD,1.961,koreacentral,D16ds v6,Windows,Consumption,
+USD,1.225,koreacentral,D16ds v6,Windows,DevTestConsumption,
+USD,1.926,koreacentral,FX12ms v2,Linux,Consumption,
+USD,9617.0,koreacentral,FX12ms v2,Linux,Reservation,1 Year
+USD,13667.0,koreacentral,FX12ms v2,Linux,Reservation,3 Years
+USD,0.498,koreacentral,D8lds v6,Linux,Consumption,
+USD,2706.0,koreacentral,D8lds v6,Linux,Reservation,1 Year
+USD,5107.0,koreacentral,D8lds v6,Linux,Reservation,3 Years
+USD,0.192,koreacentral,F4s v2,Linux,Consumption,
+USD,989.0,koreacentral,F4s v2,Linux,Reservation,1 Year
+USD,1820.0,koreacentral,F4s v2,Linux,Reservation,3 Years
+USD,0.204,koreacentral,D2as v6,Windows,Consumption,
+USD,0.112,koreacentral,D2as v6,Windows,DevTestConsumption,
+USD,1.652,koreacentral,FX8-2ms v2,Windows,Consumption,
+USD,1.284,koreacentral,FX8-2ms v2,Windows,DevTestConsumption,
+USD,3.852,koreacentral,FX24-6ms v2,Linux,Consumption,
+USD,19235.0,koreacentral,FX24-6ms v2,Linux,Reservation,1 Year
+USD,27333.0,koreacentral,FX24-6ms v2,Linux,Reservation,3 Years
+USD,0.092,koreacentral,F1,Windows,Consumption,
+USD,0.051,koreacentral,F1,Windows,DevTestConsumption,
