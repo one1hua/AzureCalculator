@@ -1,0 +1,102 @@
+import os
+import streamlit as st
+from langchain.schema import Document
+from langchain.chains import RetrievalQA
+from langchain_chroma import Chroma
+from langchain_openai import AzureOpenAIEmbeddings, AzureChatOpenAI
+
+# -------------------------------
+# 1. Streamlit 페이지 설정
+# -------------------------------
+st.set_page_config(page_title="Azure VM D시리즈 QA 시스템", layout="wide")
+st.title("💬 Azure VM 가격 QA 챗봇 (D시리즈 전용)")
+
+# -------------------------------
+# 2. Azure 설정값
+# -------------------------------
+AZURE_ENDPOINT = "https://b2b1-md1hatmd-japaneast.openai.azure.com/"
+AZURE_API_KEY = "4qbVhsgLzOqKX4RYpTl3VEUpLNw6AroXZJc4Mu3I9xYCZdnfswugJQQJ99BGACi0881XJ3w3AAAAACOG2pPY"
+API_VERSION = "2024-12-01-preview"
+EMBEDDING_DEPLOYMENT = "text-embedding-3-small"
+CHAT_DEPLOYMENT = "gpt-4.1-mini"
+CHROMA_DIR = "./chromaDB"
+
+# -------------------------------
+# 3. 세션 상태 초기화
+# -------------------------------
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+
+# -------------------------------
+# 4. 캐시된 리소스 로딩
+# -------------------------------
+@st.cache_resource
+def load_embedding_model():
+    return AzureOpenAIEmbeddings(
+        azure_endpoint=AZURE_ENDPOINT,
+        azure_deployment=EMBEDDING_DEPLOYMENT,
+        api_key=AZURE_API_KEY,
+        openai_api_version=API_VERSION
+    )
+
+@st.cache_resource
+def load_chat_model():
+    return AzureChatOpenAI(
+        api_key=AZURE_API_KEY,
+        azure_endpoint=AZURE_ENDPOINT,
+        azure_deployment=CHAT_DEPLOYMENT,
+        openai_api_version=API_VERSION,
+        temperature=0.3,
+        max_tokens=800
+    )
+@st.cache_resource
+def load_retriever(_embedding_model):  # 언더스코어 붙여 캐싱 예외 처리
+    return Chroma(
+        persist_directory=CHROMA_DIR,
+        embedding_function=_embedding_model
+    ).as_retriever(search_kwargs={"k": 3})
+
+embedding_model = load_embedding_model()
+llm = load_chat_model()
+retriever = load_retriever(embedding_model)
+
+# -------------------------------
+# 5. RAG QA 체인
+# -------------------------------
+qa_chain = RetrievalQA.from_chain_type(
+    llm=llm,
+    retriever=retriever,
+    return_source_documents=True
+)
+
+# -------------------------------
+# 6. 기존 대화 출력
+# -------------------------------
+for msg in st.session_state.messages:
+    with st.chat_message(msg["role"]):
+        st.markdown(msg["content"])
+
+# -------------------------------
+# 7. 사용자 입력 및 처리
+# -------------------------------
+user_input = st.chat_input("Azure VM 가격이나 D시리즈에 대해 질문해보세요.")
+
+if user_input:
+    # 사용자 메시지 기록
+    st.session_state.messages.append({"role": "user", "content": user_input})
+    with st.chat_message("user"):
+        st.markdown(user_input)
+
+    # QA 수행
+    result = qa_chain.invoke({"query": user_input})
+    answer = result["result"]
+    source_docs = result["source_documents"]
+
+    # 답변 출력 및 저장
+    st.session_state.messages.append({"role": "assistant", "content": answer})
+    with st.chat_message("assistant"):
+        st.markdown(f"**답변:** {answer}")
+
+        with st.expander("📄 참고 문서 보기"):
+            for i, doc in enumerate(source_docs, 1):
+                st.markdown(f"{i}. {doc.page_content[:300]}...")
