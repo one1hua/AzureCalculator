@@ -1,0 +1,227 @@
+import uuid
+from typing import Dict, Any
+import pandas as pd
+from langchain.schema import Document
+from langgraph.graph import StateGraph, END
+from langchain_chroma import Chroma
+from langchain.chains import RetrievalQA
+from langgraph.graph import StateGraph, END
+from langchain_openai import AzureOpenAIEmbeddings, AzureChatOpenAI
+from langchain_core.chat_history import InMemoryChatMessageHistory
+from langchain.embeddings import HuggingFaceEmbeddings
+
+# 1. Azure OpenAI Endpoint & Key 입력
+AZURE_ENDPOINT = "https://b2b1-md1hatmd-japaneast.openai.azure.com/"  
+AZURE_API_KEY = "4qbVhsgLzOqKX4RYpTl3VEUpLNw6AroXZJc4Mu3I9xYCZdnfswugJQQJ99BGACi0881XJ3w3AAAAACOG2pPY"  
+API_VERSION = "2024-12-01-preview"
+EMBEDDING_DEPLOYMENT = "text-embedding-3-small"  
+CHAT_DEPLOYMENT = "gpt-4.1-mini"
+
+# 2. 문서 불러오기
+df = pd.read_csv("/home/azureuser/work/data/AzureCalculator/azure_vm_prices_filtered_D.csv", encoding='utf8')
+
+# 3. 문서 리스트로 변환
+texts = df["skuName"].tolist()
+docs = [
+    Document(
+        page_content=row["skuName"],
+        metadata={
+            "region": row["location"],
+            "price": row["retailPrice"],
+            "OS": row["OS"],
+            "type":row["type"],
+            "reservationTerm":row["reservationTerm"]
+        }
+    )
+    for _, row in df.iterrows()
+]
+
+# 4. Azure 임베딩 모델 정의
+embedding_model = AzureOpenAIEmbeddings(
+    azure_endpoint=AZURE_ENDPOINT,
+    azure_deployment=EMBEDDING_DEPLOYMENT,
+    api_key=AZURE_API_KEY,
+    openai_api_version=API_VERSION
+)
+
+# 5. ChromaDB에 저장
+vectorstore = Chroma.from_documents(
+    documents=docs,
+    embedding=embedding_model,
+    persist_directory="/home/azureuser/work/work/streamlit_basic/chromaDB"
+)
+
+# 6. 저장된 데이터 불러오기
+retriever = Chroma(
+    persist_directory="./chromaDB",
+    embedding_function=embedding_model
+).as_retriever(search_kwargs={"k": 2})
+
+# 7. Azure OpenAI 파라미터 설정
+llm = AzureChatOpenAI(
+    api_key=AZURE_API_KEY,
+    azure_endpoint=AZURE_ENDPOINT,
+    azure_deployment="gpt-4.1-mini",
+    openai_api_version="2024-12-01-preview",
+    temperature=0.3,
+    max_tokens=800
+)
+
+# 8. 세션 히스토리
+chats_by_session_id = {}
+def get_chat_history(session_id: str):
+    if session_id not in chats_by_session_id:
+        chats_by_session_id[session_id] = InMemoryChatMessageHistory()
+    return chats_by_session_id[session_id]
+
+
+# 9. retriever 설정
+retriever = Chroma(
+    persist_directory="./chromaDB", 
+    embedding_function=embedding_model
+).as_retriever(search_kwargs={"k": 3})
+
+
+# 10. RAG Agent node 정의
+def rag_node(state: Dict[str, Any]):
+    mcp = state["mcp"]
+    payload = mcp["payload"]
+    question = payload["question"]
+    session_id = payload["metadata"]["session_id"]
+
+
+# Chat 히스토리 저장
+    chat_history = get_chat_history(session_id)
+    history_text = "\n".join([m.content for m in chat_history.messages])
+    docs = retriever.invoke(question)
+    top_docs = docs[:3]
+    context = "\n".join(doc.page_content for doc in top_docs)
+    full_context = f"{history_text}\n\n{context}" if history_text else context
+
+    prompt = f"""너는 azure의 virtual machine 상품 중 무조건 참조하는 데이터 내에서 대답해.사용자가 어떤 상품에 대해 추천해달라고 하면 데이터 내의 D시리즈만 대답해주고 다른 대안은 주지마. 다른 걸 물어보면 추가개발 중이라고 대답해:\n{full_context}\n\n질문: {question}\n\n답변:"""
+    result = azure_llm.invoke(prompt).content
+
+    chat_history.add_user_message(question)
+    chat_history.add_ai_message(result)
+
+    return {
+        "mcp": {
+            "source": "rag_agent",
+            "destination": mcp["source"],
+            "intent": "answer",
+            "payload": {
+                "answer": result,
+                "references": [doc.page_content for doc in top_docs],
+                "metadata": {"session_id": session_id}
+            }
+        }
+    }
+
+# VM Agent
+def vm_node(state: Dict[str, Any]):
+    mcp = state["mcp"]
+    text = mcp["payload"]["question"]
+    session_id = mcp["payload"]["metadata"]["session_id"]
+
+    prompt = f"시스템 현황에 맞는 적당한 azure computing 중 virtual machine의 데이터에 포함된 D시리즈만 대답해. D로 시작하는 상품만 대답해주고 다른 시리즈는 절대 말하지마.:\n\n{text}"
+    result = azure_llm.invoke(prompt).content
+
+    return {
+        "mcp": {
+            "source": "summarize_agent",
+            "destination": mcp["source"],
+            "intent": "answer",
+            "payload": {
+                "answer": result,
+                "metadata": {"session_id": session_id}
+            }
+        }
+    }
+
+# Non VM Agent
+def nonvm_node(state: Dict[str, Any]):
+    mcp = state["mcp"]
+    text = mcp["payload"]["question"]
+    session_id = mcp["payload"]["metadata"]["session_id"]
+
+    prompt = f"아직 개발 중이라고 공손하게 대답을 반환해줘:\n\n{text}"
+    result = azure_llm.invoke(prompt).content
+
+    return {
+        "mcp": {
+            "source": "rephrase_agent",
+            "destination": mcp["source"],
+            "intent": "answer",
+            "payload": {
+                "answer": result,
+                "metadata": {"session_id": session_id}
+            }
+        }
+    }
+
+# 11. 체인
+qa_chain = RetrievalQA.from_chain_type(
+    llm=llm,
+    retriever=retriever,
+    return_source_documents=True
+)
+
+# 12. LangGraph 노드 정의
+def ask_question(state):
+    question = input("질문을 입력해주세요: ")
+    result = qa_chain.invoke({"query": question})
+    res = {
+        "question": question,
+        "answer": result["result"],
+        "source_docs": result["source_documents"]
+    }
+    return res
+
+def get_answer(state):
+    print("\n답변:", state["answer"])
+    return state
+
+def ask_reference(state):
+    reply = input("\n참고문서를 보시겠습니까? (예/아니오): ").strip()
+    return {**state, "see_reference": reply}
+
+def get_reference(state):
+    print("\n[참고 문서]")
+    for i, doc in enumerate(state["source_docs"], 1):
+        print(f"{i}. {doc.page_content[:200]}...")
+    return state
+
+def ask_continue(state):
+    reply = input("\n계속하시겠습니까? (예/아니오): ").strip()
+    return {**state, "continue": reply}
+
+def reference_or_not(state):
+    return "get_reference" if state.get("see_reference") == "예" else "ask_continue"
+
+def continue_or_not(state):
+    return "ask_question" if state.get("continue") == "예" else END
+
+# 13. 그래프 구성
+graph = StateGraph(dict)
+graph.add_node("ask_question", ask_question)
+graph.add_node("get_answer", get_answer)
+graph.add_node("ask_reference", ask_reference)
+graph.add_node("get_reference", get_reference)
+graph.add_node("ask_continue", ask_continue)
+
+graph.set_entry_point("ask_question")
+graph.add_edge("ask_question", "get_answer")
+graph.add_edge("get_answer", "ask_reference")
+graph.add_conditional_edges("ask_reference", reference_or_not, {
+    "get_reference": "get_reference",
+    "ask_continue": "ask_continue"
+})
+graph.add_edge("get_reference", "ask_continue")
+graph.add_conditional_edges("ask_continue", continue_or_not, {
+    "ask_question": "ask_question",
+    END: END
+})
+
+# 14. 실행
+app = graph.compile()
+app.invoke({})
