@@ -1,0 +1,847 @@
+﻿Purpose,SKUName,ArmSkuName_Full,OS,PriceType,ReservationTerm,RetailPrice,CurrencyCode,UnitOfMeasure,Location,Cores,MemoryGB,NetworkMbps,PremiumIO_Supported,MeterName,EffectiveStartDate,ProductId
+General Purpose (D/F Series),FX32mds v2,Standard_FX32mds_v2,Windows,Consumption,None,7.82,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),D4s v4,Standard_D4s_v4,Windows,Consumption,None,0.42,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4s v4,2021-11-01T00:00:00Z,DZH318Z0CP07
+General Purpose (D/F Series),D96ds v6,Standard_D96ds_v6,Windows,Consumption,None,11.767,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHZ
+General Purpose (D/F Series),D4lds v5,Standard_D4lds_v5,Windows,Consumption,None,0.404,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4lds v5,2023-04-01T00:00:00Z,DZH318Z08M99
+HPC (H Series),HB176-144rsv4,Standard_HB176-144rs_v4,Windows,Consumption,None,17.816,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176-144rsv4,2023-06-01T00:00:00Z,DZH318Z0K1LH
+HPC (H Series),HB176-48rsv4,Standard_HB176-48rs_v4,Linux,Consumption,None,9.72,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176-48rsv4,2023-06-01T00:00:00Z,DZH318Z0K1N4
+HPC (H Series),HB176-48rsv4,Standard_HB176-48rs_v4,Linux,Reservation,1 Year,63862.0,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176-48rsv4,2023-06-01T00:00:00Z,DZH318Z0K1N4
+General Purpose (D/F Series),D4 v3,Standard_D4_v3,Windows,Consumption,None,0.43,USD,1 Hour,koreacentral,4,16.0,N/A,False,D4 v3/D4s v3,2017-07-21T00:00:00Z,DZH318Z0BPVL
+HPC (H Series),HC44-32rs,Standard_HC44-32rs,Linux,Consumption,None,4.277,USD,1 Hour,koreacentral,32,352.0,N/A,True,HC44-32rs,2021-03-01T00:00:00Z,DZH318Z0BXNX
+HPC (H Series),HC44-32rs,Standard_HC44-32rs,Linux,Reservation,1 Year,31845.0,USD,1 Hour,koreacentral,32,352.0,N/A,True,HC44-32rs,2021-03-01T00:00:00Z,DZH318Z0BXNX
+General Purpose (D/F Series),F2s,Standard_F2s,Linux,Consumption,None,0.102,USD,1 Hour,koreacentral,2,4.0,N/A,True,F2s,2018-06-01T00:00:00Z,DZH318Z0BQ4P
+General Purpose (D/F Series),F2s,Standard_F2s,Linux,Reservation,1 Year,689.0,USD,1 Hour,koreacentral,2,4.0,N/A,True,F2s,2017-07-17T00:00:00Z,DZH318Z0BQ4P
+General Purpose (D/F Series),FX32ms v2,Standard_FX32ms_v2,Linux,Consumption,None,5.136,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX32ms v2,Standard_FX32ms_v2,Linux,Reservation,1 Year,25646.0,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),F48s v2,Standard_F48s_v2,Windows,Consumption,None,4.512,USD,1 Hour,koreacentral,48,96.0,N/A,True,F48s v2,2021-11-01T00:00:00Z,DZH318Z0BPWJ
+HPC (H Series),HX176rs,Standard_HX176rs,Windows,Consumption,None,19.76,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176rs,2023-06-01T00:00:00Z,DZH318Z0K1LG
+General Purpose (D/F Series),FX24ms v2,Standard_FX24ms_v2,Linux,Consumption,None,3.852,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX24ms v2,Standard_FX24ms_v2,Linux,Reservation,1 Year,19235.0,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),D96alds v6,Standard_D96alds_v6,Windows,Consumption,None,10.051,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DS
+General Purpose (D/F Series),D64 v4,Standard_D64_v4,Windows,Consumption,None,6.72,USD,1 Hour,koreacentral,64,256.0,N/A,False,D64 v4,2021-11-01T00:00:00Z,DZH318Z0D1MV
+General Purpose (D/F Series),FX16ms v2,Standard_FX16ms_v2,Linux,Consumption,None,2.568,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX16ms v2,Standard_FX16ms_v2,Linux,Reservation,1 Year,12823.0,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),D8a v4,Standard_D8a_v4,Linux,Consumption,None,0.472,USD,1 Hour,koreacentral,8,32.0,N/A,False,D8a v4/D8as v4,2021-11-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),D8a v4,Standard_D8a_v4,Linux,Reservation,1 Year,2398.0,USD,1 Hour,koreacentral,8,32.0,N/A,False,D8a v4/D8as v4,2020-07-01T00:00:00Z,DZH318Z0CM2B
+GPU (N Series),NC16asT4 v3,Standard_NC16as_T4_v3,Windows,Consumption,None,2.217,USD,1 Hour,koreacentral,16,110.0,N/A,True,NC16asT4 v3,2021-11-01T00:00:00Z,DZH318Z0DF4B
+General Purpose (D/F Series),F8as v6,Standard_F8as_v6,Linux,Consumption,None,0.674,USD,1 Hour,koreacentral,8,32.0,N/A,True,F8as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),F8as v6,Standard_F8as_v6,Linux,Reservation,1 Year,3658.0,USD,1 Hour,koreacentral,8,32.0,N/A,True,F8as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),D48s v4,Standard_D48s_v4,Linux,Consumption,None,2.832,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48s v4,2021-11-01T00:00:00Z,DZH318Z0CSHJ
+General Purpose (D/F Series),D48s v4,Standard_D48s_v4,Linux,Reservation,1 Year,14422.0,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48s v4,2021-11-01T00:00:00Z,DZH318Z0CSHJ
+General Purpose (D/F Series),D192ds_v6,Standard_D192ds_v6,Windows,Consumption,None,23.533,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,D192ds_v6,2025-04-01T00:00:00Z,DZH318Z0GNHZ
+General Purpose (D/F Series),D32-8s v3,Standard_D32-8s_v3,Linux,Consumption,None,1.968,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,D32-8s v3,2017-08-18T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),FX24mds v2,Standard_FX24mds_v2,Linux,Consumption,None,4.761,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX24mds v2,Standard_FX24mds_v2,Linux,Reservation,1 Year,23773.0,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),D4 v4,Standard_D4_v4,Windows,Consumption,None,0.42,USD,1 Hour,koreacentral,4,16.0,N/A,False,D4 v4,2021-11-01T00:00:00Z,DZH318Z0D1MV
+General Purpose (D/F Series),D4 v4,Standard_D4_v4,Linux,Consumption,None,0.236,USD,1 Hour,koreacentral,4,16.0,N/A,False,D4 v4,2021-11-01T00:00:00Z,DZH318Z0D1L4
+General Purpose (D/F Series),D4 v4,Standard_D4_v4,Linux,Reservation,1 Year,1202.0,USD,1 Hour,koreacentral,4,16.0,N/A,False,D4 v4,2021-11-01T00:00:00Z,DZH318Z0D1L4
+General Purpose (D/F Series),D8as v4,Standard_D8as_v4,Linux,Consumption,None,0.472,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8as v4,2021-11-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),D8as v4,Standard_D8as_v4,Linux,Reservation,1 Year,2398.0,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8as v4,2020-07-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),F4ams v6,Standard_F4ams_v6,Windows,Consumption,None,0.625,USD,1 Hour,koreacentral,4,32.0,N/A,True,F4ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXQ
+General Purpose (D/F Series),D48ads v6,Standard_D48ads_v6,Windows,Consumption,None,5.582,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F9
+General Purpose (D/F Series),F16s,Standard_F16s,Linux,Consumption,None,0.816,USD,1 Hour,koreacentral,16,32.0,N/A,True,F16s,2017-06-01T00:00:00Z,DZH318Z0BQ4P
+General Purpose (D/F Series),F16s,Standard_F16s,Linux,Reservation,1 Year,5542.0,USD,1 Hour,koreacentral,16,32.0,N/A,True,F16s,2017-07-17T00:00:00Z,DZH318Z0BQ4P
+General Purpose (D/F Series),F32ams v6,Standard_F32ams_v6,Windows,Consumption,None,5.002,USD,1 Hour,koreacentral,32,256.0,N/A,True,F32ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXQ
+General Purpose (D/F Series),D64ls v6,Standard_D64ls_v6,Linux,Consumption,None,3.226,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),D64ls v6,Standard_D64ls_v6,Linux,Reservation,1 Year,17519.0,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),FX64-16mds v2,Standard_FX64-16mds_v2,Windows,Consumption,None,15.64,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64-16mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),FX16mds v2,Standard_FX16mds_v2,Linux,Consumption,None,3.174,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX16mds v2,Standard_FX16mds_v2,Linux,Reservation,1 Year,15848.0,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX32-16mds v2,Standard_FX32-16mds_v2,Windows,Consumption,None,7.82,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32-16mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+GPU (N Series),NV8as v4,Standard_NV8as_v4,Linux,Consumption,None,0.629,USD,1 Hour,koreacentral,8,28.0,N/A,True,NV8as v4,2021-06-01T00:00:00Z,DZH318Z0CGPD
+GPU (N Series),NV8as v4,Standard_NV8as_v4,Linux,Reservation,1 Year,3527.0,USD,1 Hour,koreacentral,8,28.0,N/A,True,NV8as v4,2021-06-01T00:00:00Z,DZH318Z0CGPD
+General Purpose (D/F Series),D48as v6,Standard_D48as_v6,Windows,Consumption,None,4.891,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48as v6,2024-09-01T00:00:00Z,DZH318Z0DWTF
+General Purpose (D/F Series),F32as v6,Standard_F32as_v6,Linux,Consumption,None,2.694,USD,1 Hour,koreacentral,32,128.0,N/A,True,F32as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),F32as v6,Standard_F32as_v6,Linux,Reservation,1 Year,14634.0,USD,1 Hour,koreacentral,32,128.0,N/A,True,F32as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),D48 v4,Standard_D48_v4,Linux,Consumption,None,2.832,USD,1 Hour,koreacentral,48,192.0,N/A,False,D48 v4,2021-11-01T00:00:00Z,DZH318Z0D1L4
+General Purpose (D/F Series),D48 v4,Standard_D48_v4,Linux,Reservation,1 Year,14422.0,USD,1 Hour,koreacentral,48,192.0,N/A,False,D48 v4,2021-11-01T00:00:00Z,DZH318Z0D1L4
+General Purpose (D/F Series),D128s v6,Standard_D128s_v6,Windows,Consumption,None,13.818,USD,1 Hour,koreacentral,128,512.0,N/A,True,D128s v6,2024-10-01T00:00:00Z,DZH318Z0GNHF
+General Purpose (D/F Series),D32s v3,Standard_D32s_v3,Windows,Consumption,None,3.44,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32s v3,2017-08-18T00:00:00Z,DZH318Z0BPWD
+GPU (N Series),NC4as T4 v3,Standard_NC4as_T4_v3,Windows,Consumption,None,0.831,USD,1 Hour,koreacentral,4,28.0,N/A,True,NC4as T4 v3,2021-11-01T00:00:00Z,DZH318Z0DF4B
+General Purpose (D/F Series),F8,Standard_F8,Windows,Consumption,None,0.74,USD,1 Hour,koreacentral,8,16.0,N/A,False,F8/F8s,2017-06-01T00:00:00Z,DZH318Z0BPVT
+General Purpose (D/F Series),D4ds v4,Standard_D4ds_v4,Linux,Consumption,None,0.278,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHM
+General Purpose (D/F Series),D4ds v4,Standard_D4ds_v4,Linux,Reservation,1 Year,1418.0,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHM
+General Purpose (D/F Series),D48alds v6,Standard_D48alds_v6,Linux,Consumption,None,2.818,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DQ
+General Purpose (D/F Series),D48alds v6,Standard_D48alds_v6,Linux,Reservation,1 Year,14562.0,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48alds v6,2025-04-01T00:00:00Z,DZH318Z0F5DQ
+General Purpose (D/F Series),F48as v6,Standard_F48as_v6,Linux,Consumption,None,4.042,USD,1 Hour,koreacentral,48,192.0,N/A,True,F48as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),F48as v6,Standard_F48as_v6,Linux,Reservation,1 Year,21951.0,USD,1 Hour,koreacentral,48,192.0,N/A,True,F48as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),D32alds v6,Standard_D32alds_v6,Windows,Consumption,None,3.35,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DS
+General Purpose (D/F Series),D8s v6,Standard_D8s_v6,Linux,Consumption,None,0.496,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D8s v6,Standard_D8s_v6,Linux,Reservation,1 Year,2692.0,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D8ads v6,Standard_D8ads_v6,Linux,Consumption,None,0.562,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),D8ads v6,Standard_D8ads_v6,Linux,Reservation,1 Year,2907.0,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),FX32-16ms v2,Standard_FX32-16ms_v2,Linux,Consumption,None,5.136,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32-16ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX32-16ms v2,Standard_FX32-16ms_v2,Linux,Reservation,1 Year,25646.0,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32-16ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),F8,Standard_F8,Linux,Consumption,None,0.408,USD,1 Hour,koreacentral,8,16.0,N/A,False,F8/F8s,2018-06-01T00:00:00Z,DZH318Z0BQ51
+General Purpose (D/F Series),F8,Standard_F8,Linux,Reservation,1 Year,2776.0,USD,1 Hour,koreacentral,8,16.0,N/A,False,F8/F8s,2017-07-17T00:00:00Z,DZH318Z0BQ51
+General Purpose (D/F Series),D64a v4,Standard_D64a_v4,Linux,Consumption,None,3.776,USD,1 Hour,koreacentral,64,256.0,N/A,False,D64a v4/D64as v4,2021-11-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),D64a v4,Standard_D64a_v4,Linux,Reservation,1 Year,19186.0,USD,1 Hour,koreacentral,64,256.0,N/A,False,D64a v4/D64as v4,2020-07-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),D2ds v6,Standard_D2ds_v6,Linux,Consumption,None,0.153,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),D2ds v6,Standard_D2ds_v6,Linux,Reservation,1 Year,832.0,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),D2lds v6,Standard_D2lds_v6,Linux,Consumption,None,0.125,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D2lds v6,Standard_D2lds_v6,Linux,Reservation,1 Year,677.0,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),FX12-6ms v2,Standard_FX12-6ms_v2,Linux,Consumption,None,1.926,USD,1 Hour,koreacentral,12,252.0,N/A,True,FX12-6ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX12-6ms v2,Standard_FX12-6ms_v2,Linux,Reservation,1 Year,9617.0,USD,1 Hour,koreacentral,12,252.0,N/A,True,FX12-6ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+HPC (H Series),HB176-48rsv4,Standard_HB176-48rs_v4,Windows,Consumption,None,17.816,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176-48rsv4,2023-06-01T00:00:00Z,DZH318Z0K1LH
+General Purpose (D/F Series),D64ds v6,Standard_D64ds_v6,Linux,Consumption,None,4.9,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),D64ds v6,Standard_D64ds_v6,Linux,Reservation,1 Year,26615.0,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),D2a v4,Standard_D2a_v4,Linux,Consumption,None,0.118,USD,1 Hour,koreacentral,2,8.0,N/A,False,D2a v4/D2as v4,2021-11-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),D2a v4,Standard_D2a_v4,Linux,Reservation,1 Year,600.0,USD,1 Hour,koreacentral,2,8.0,N/A,False,D2a v4/D2as v4,2020-07-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),F48als v6,Standard_F48als_v6,Linux,Consumption,None,3.576,USD,1 Hour,koreacentral,48,96.0,N/A,True,F48als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),F48als v6,Standard_F48als_v6,Linux,Reservation,1 Year,19422.0,USD,1 Hour,koreacentral,48,96.0,N/A,True,F48als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+HPC (H Series),HX176-96rs,Standard_HX176-96rs,Linux,Consumption,None,11.664,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176-96rs,2023-06-01T00:00:00Z,DZH318Z0K1LF
+HPC (H Series),HX176-96rs,Standard_HX176-96rs,Linux,Reservation,1 Year,76630.0,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176-96rs,2023-06-01T00:00:00Z,DZH318Z0K1LF
+General Purpose (D/F Series),D4als v6,Standard_D4als_v6,Linux,Consumption,None,0.198,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4als v6,2024-09-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),D4als v6,Standard_D4als_v6,Linux,Reservation,1 Year,1023.0,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4als v6,2025-04-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),FX96-24ms v2,Standard_FX96-24ms_v2,Linux,Consumption,None,15.409,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96-24ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX96-24ms v2,Standard_FX96-24ms_v2,Linux,Reservation,1 Year,76938.0,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96-24ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),D8 v3,Standard_D8_v3,Windows,Consumption,None,0.86,USD,1 Hour,koreacentral,8,32.0,N/A,False,D8 v3/D8s v3,2017-07-21T00:00:00Z,DZH318Z0BPVL
+General Purpose (D/F Series),D4alds v6,Standard_D4alds_v6,Windows,Consumption,None,0.419,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DS
+General Purpose (D/F Series),D64alds v6,Standard_D64alds_v6,Windows,Consumption,None,6.701,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DS
+General Purpose (D/F Series),D2d v4,Standard_D2d_v4,Linux,Consumption,None,0.139,USD,1 Hour,koreacentral,2,8.0,N/A,False,D2d v4,2021-11-01T00:00:00Z,DZH318Z0D1L2
+General Purpose (D/F Series),D2d v4,Standard_D2d_v4,Linux,Reservation,1 Year,709.0,USD,1 Hour,koreacentral,2,8.0,N/A,False,D2d v4,2021-11-01T00:00:00Z,DZH318Z0D1L2
+General Purpose (D/F Series),D64s v3,Standard_D64s_v3,Linux,Consumption,None,3.936,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64s v3,2017-08-18T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),D64s v3,Standard_D64s_v3,Linux,Reservation,1 Year,19232.0,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64s v3,2017-07-21T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),D64-16s v3,Standard_D64-16s_v3,Linux,Consumption,None,3.936,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,D64-16s v3,2017-08-18T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),F4s,Standard_F4s,Windows,Consumption,None,0.37,USD,1 Hour,koreacentral,4,8.0,N/A,True,F4s,2017-06-01T00:00:00Z,DZH318Z0BQPS
+General Purpose (D/F Series),D64-32s v3,Standard_D64-32s_v3,Linux,Consumption,None,3.936,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,D64-32s v3,2017-08-18T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),F2as v6,Standard_F2as_v6,Linux,Consumption,None,0.168,USD,1 Hour,koreacentral,2,8.0,N/A,True,F2as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),F2as v6,Standard_F2as_v6,Linux,Reservation,1 Year,915.0,USD,1 Hour,koreacentral,2,8.0,N/A,True,F2as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+GPU (N Series),ND96isrH100v5,Standard_ND96isr_H100_v5,Linux,Consumption,None,132.732,USD,1 Hour,koreacentral,96,1900.0,N/A,True,ND96isrH100v5,2025-01-01T00:00:00Z,DZH318Z0KN53
+GPU (N Series),ND96isrH100v5,Standard_ND96isr_H100_v5,Linux,Reservation,1 Year,744149.0,USD,1 Hour,koreacentral,96,1900.0,N/A,True,ND96isrH100v5,2025-01-01T00:00:00Z,DZH318Z0KN53
+General Purpose (D/F Series),D48a v4,Standard_D48a_v4,Linux,Consumption,None,2.832,USD,1 Hour,koreacentral,48,192.0,N/A,False,D48a v4/D48as v4,2021-11-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),D48a v4,Standard_D48a_v4,Linux,Reservation,1 Year,14389.0,USD,1 Hour,koreacentral,48,192.0,N/A,False,D48a v4/D48as v4,2020-07-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),F8als v6,Standard_F8als_v6,Linux,Consumption,None,0.596,USD,1 Hour,koreacentral,8,16.0,N/A,True,F8als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),F8als v6,Standard_F8als_v6,Linux,Reservation,1 Year,3237.0,USD,1 Hour,koreacentral,8,16.0,N/A,True,F8als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),D192s v6,Standard_D192s_v6,Linux,Consumption,None,11.894,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,D192s v6,2025-04-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D192s v6,Standard_D192s_v6,Linux,Reservation,1 Year,64601.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,D192s v6,2025-04-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D4alds v6,Standard_D4alds_v6,Linux,Consumption,None,0.235,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DQ
+General Purpose (D/F Series),D4alds v6,Standard_D4alds_v6,Linux,Reservation,1 Year,1214.0,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4alds v6,2025-04-01T00:00:00Z,DZH318Z0F5DQ
+General Purpose (D/F Series),D64as v6,Standard_D64as_v6,Windows,Consumption,None,6.522,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64as v6,2024-09-01T00:00:00Z,DZH318Z0DWTF
+General Purpose (D/F Series),D32ds v6,Standard_D32ds_v6,Windows,Consumption,None,3.922,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHZ
+General Purpose (D/F Series),FX64ms v2,Standard_FX64ms_v2,Linux,Consumption,None,10.272,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX64ms v2,Standard_FX64ms_v2,Linux,Reservation,1 Year,51292.0,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX12-6mds v2,Standard_FX12-6mds_v2,Windows,Consumption,None,2.933,USD,1 Hour,koreacentral,12,252.0,N/A,True,FX12-6mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),D32als v6,Standard_D32als_v6,Linux,Consumption,None,1.584,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32als v6,2024-09-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),D32als v6,Standard_D32als_v6,Linux,Reservation,1 Year,8187.0,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32als v6,2025-04-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),D96a v4,Standard_D96a_v4,Windows,Consumption,None,10.08,USD,1 Hour,koreacentral,96,384.0,N/A,False,D96a v4/D96as v4,2021-11-01T00:00:00Z,DZH318Z0CM94
+General Purpose (D/F Series),FX48-24mds v2,Standard_FX48-24mds_v2,Linux,Consumption,None,9.522,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48-24mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX48-24mds v2,Standard_FX48-24mds_v2,Linux,Reservation,1 Year,47545.0,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48-24mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),D16lds v5,Standard_D16lds_v5,Linux,Consumption,None,0.88,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),D16lds v5,Standard_D16lds_v5,Linux,Reservation,1 Year,4548.0,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+GPU (N Series),NV32as v4,Standard_NV32as_v4,Linux,Consumption,None,2.516,USD,1 Hour,koreacentral,32,112.0,N/A,True,NV32as v4,2021-06-01T00:00:00Z,DZH318Z0CGPD
+GPU (N Series),NV32as v4,Standard_NV32as_v4,Linux,Reservation,1 Year,14108.0,USD,1 Hour,koreacentral,32,112.0,N/A,True,NV32as v4,2021-06-01T00:00:00Z,DZH318Z0CGPD
+General Purpose (D/F Series),D8lds v5,Standard_D8lds_v5,Linux,Consumption,None,0.44,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),D8lds v5,Standard_D8lds_v5,Linux,Reservation,1 Year,2274.0,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),D32-16s v3,Standard_D32-16s_v3,Windows,Consumption,None,3.44,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,D32-16s v3,2017-08-18T00:00:00Z,DZH318Z0BPWD
+General Purpose (D/F Series),F16s,Standard_F16s,Windows,Consumption,None,1.479,USD,1 Hour,koreacentral,16,32.0,N/A,True,F16s,2017-06-01T00:00:00Z,DZH318Z0BQPS
+General Purpose (D/F Series),FX48-12ms v2,Standard_FX48-12ms_v2,Linux,Consumption,None,7.704,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48-12ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX48-12ms v2,Standard_FX48-12ms_v2,Linux,Reservation,1 Year,38469.0,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48-12ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),D4a v4,Standard_D4a_v4,Linux,Consumption,None,0.236,USD,1 Hour,koreacentral,4,16.0,N/A,False,D4a v4/D4as v4,2021-11-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),D4a v4,Standard_D4a_v4,Linux,Reservation,1 Year,1199.0,USD,1 Hour,koreacentral,4,16.0,N/A,False,D4a v4/D4as v4,2020-07-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),D2d v4,Standard_D2d_v4,Windows,Consumption,None,0.231,USD,1 Hour,koreacentral,2,8.0,N/A,False,D2d v4,2021-11-01T00:00:00Z,DZH318Z0D1L6
+General Purpose (D/F Series),FX32-8ms v2,Standard_FX32-8ms_v2,Windows,Consumption,None,6.608,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32-8ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),F72s v2,Standard_F72s_v2,Windows,Consumption,None,6.768,USD,1 Hour,koreacentral,72,144.0,N/A,True,F72s v2,2021-11-01T00:00:00Z,DZH318Z0BPWJ
+General Purpose (D/F Series),FX16mds v2,Standard_FX16mds_v2,Windows,Consumption,None,3.91,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),FX32-8ms v2,Standard_FX32-8ms_v2,Linux,Consumption,None,5.136,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32-8ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX32-8ms v2,Standard_FX32-8ms_v2,Linux,Reservation,1 Year,25646.0,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32-8ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),D16ls v6,Standard_D16ls_v6,Linux,Consumption,None,0.806,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),D16ls v6,Standard_D16ls_v6,Linux,Reservation,1 Year,4380.0,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),FX16-4mds v2,Standard_FX16-4mds_v2,Windows,Consumption,None,3.91,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16-4mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+GPU (N Series),NV16as v4,Standard_NV16as_v4,Linux,Consumption,None,1.258,USD,1 Hour,koreacentral,16,56.0,N/A,True,NV16as v4,2021-06-01T00:00:00Z,DZH318Z0CGPD
+GPU (N Series),NV16as v4,Standard_NV16as_v4,Linux,Reservation,1 Year,7054.0,USD,1 Hour,koreacentral,16,56.0,N/A,True,NV16as v4,2021-06-01T00:00:00Z,DZH318Z0CGPD
+GPU (N Series),NC4as T4 v3,Standard_NC4as_T4_v3,Linux,Consumption,None,0.647,USD,1 Hour,koreacentral,4,28.0,N/A,True,NC4as T4 v3,2021-11-01T00:00:00Z,DZH318Z0DF49
+GPU (N Series),NC4as T4 v3,Standard_NC4as_T4_v3,Linux,Reservation,1 Year,3327.0,USD,1 Hour,koreacentral,4,28.0,N/A,True,NC4as T4 v3,2021-11-01T00:00:00Z,DZH318Z0DF49
+General Purpose (D/F Series),FX8-4mds v2,Standard_FX8-4mds_v2,Linux,Consumption,None,1.587,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8-4mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX8-4mds v2,Standard_FX8-4mds_v2,Linux,Reservation,1 Year,7924.0,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8-4mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),F2als v6,Standard_F2als_v6,Windows,Consumption,None,0.241,USD,1 Hour,koreacentral,2,4.0,N/A,True,F2als v6,2024-09-01T00:00:00Z,DZH318Z0FZ08
+General Purpose (D/F Series),D96alds v6,Standard_D96alds_v6,Linux,Consumption,None,5.635,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DQ
+General Purpose (D/F Series),D96alds v6,Standard_D96alds_v6,Linux,Reservation,1 Year,29125.0,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96alds v6,2025-04-01T00:00:00Z,DZH318Z0F5DQ
+General Purpose (D/F Series),FX4ms v2,Standard_FX4ms_v2,Linux,Consumption,None,0.642,USD,1 Hour,koreacentral,4,84.0,N/A,True,FX4ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX4ms v2,Standard_FX4ms_v2,Linux,Reservation,1 Year,3206.0,USD,1 Hour,koreacentral,4,84.0,N/A,True,FX4ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),D4s v3,Standard_D4s_v3,Linux,Consumption,None,0.246,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4s v3,2017-07-21T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),D4s v3,Standard_D4s_v3,Linux,Reservation,1 Year,1202.0,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4s v3,2017-07-21T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),D16s v4,Standard_D16s_v4,Linux,Consumption,None,0.944,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16s v4,2021-11-01T00:00:00Z,DZH318Z0CSHJ
+General Purpose (D/F Series),D16s v4,Standard_D16s_v4,Linux,Reservation,1 Year,4807.0,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16s v4,2021-11-01T00:00:00Z,DZH318Z0CSHJ
+General Purpose (D/F Series),F16s v2,Standard_F16s_v2,Linux,Consumption,None,0.768,USD,1 Hour,koreacentral,16,32.0,N/A,True,F16s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+General Purpose (D/F Series),F16s v2,Standard_F16s_v2,Linux,Reservation,1 Year,3956.0,USD,1 Hour,koreacentral,16,32.0,N/A,True,F16s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+General Purpose (D/F Series),D32ls v6,Standard_D32ls_v6,Windows,Consumption,None,3.085,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32ls v6,2024-10-01T00:00:00Z,DZH318Z0GNGZ
+General Purpose (D/F Series),D8ads v6,Standard_D8ads_v6,Windows,Consumption,None,0.93,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F9
+GPU (N Series),NC40adsH100v5,Standard_NC40ads_H100_v5,Windows,Consumption,None,11.263,USD,1 Hour,koreacentral,40,320.0,N/A,True,NC40adsH100v5,2024-05-01T00:00:00Z,DZH318Z0F8W1
+General Purpose (D/F Series),D8als v6,Standard_D8als_v6,Linux,Consumption,None,0.396,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8als v6,2024-09-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),D8als v6,Standard_D8als_v6,Linux,Reservation,1 Year,2047.0,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8als v6,2025-04-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),D96a v4,Standard_D96a_v4,Linux,Consumption,None,5.664,USD,1 Hour,koreacentral,96,384.0,N/A,False,D96a v4/D96as v4,2021-11-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),D96a v4,Standard_D96a_v4,Linux,Reservation,1 Year,28778.0,USD,1 Hour,koreacentral,96,384.0,N/A,False,D96a v4/D96as v4,2020-07-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),FX96-24mds v2,Standard_FX96-24mds_v2,Linux,Consumption,None,19.044,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96-24mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX96-24mds v2,Standard_FX96-24mds_v2,Linux,Reservation,1 Year,95091.0,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96-24mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),D16s v6,Standard_D16s_v6,Linux,Consumption,None,0.991,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D16s v6,Standard_D16s_v6,Linux,Reservation,1 Year,5383.0,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D32 v3,Standard_D32_v3,Windows,Consumption,None,3.44,USD,1 Hour,koreacentral,32,128.0,N/A,False,D32 v3/D32s v3,2017-08-18T00:00:00Z,DZH318Z0BPVL
+General Purpose (D/F Series),D48alds v6,Standard_D48alds_v6,Windows,Consumption,None,5.026,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DS
+General Purpose (D/F Series),D48lds v5,Standard_D48lds_v5,Linux,Consumption,None,2.64,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),D48lds v5,Standard_D48lds_v5,Linux,Reservation,1 Year,13645.0,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),D64-16s v3,Standard_D64-16s_v3,Windows,Consumption,None,6.88,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,D64-16s v3,2017-08-18T00:00:00Z,DZH318Z0BPWD
+General Purpose (D/F Series),D4s v6,Standard_D4s_v6,Linux,Consumption,None,0.248,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D4s v6,Standard_D4s_v6,Linux,Reservation,1 Year,1346.0,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D64a v4,Standard_D64a_v4,Windows,Consumption,None,6.72,USD,1 Hour,koreacentral,64,256.0,N/A,False,D64a v4/D64as v4,2021-11-01T00:00:00Z,DZH318Z0CM94
+General Purpose (D/F Series),FX12ms v2,Standard_FX12ms_v2,Windows,Consumption,None,2.478,USD,1 Hour,koreacentral,12,252.0,N/A,True,FX12ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),FX12mds v2,Standard_FX12mds_v2,Windows,Consumption,None,2.933,USD,1 Hour,koreacentral,12,252.0,N/A,True,FX12mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+GPU (N Series),NC24rs v3,Standard_NC24rs_v3,Linux,Consumption,None,18.63,USD,1 Hour,koreacentral,24,448.0,N/A,True,NC24rs v3,2021-11-01T00:00:00Z,DZH318Z0BQM2
+General Purpose (D/F Series),D96s v6,Standard_D96s_v6,Linux,Consumption,None,5.947,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D96s v6,Standard_D96s_v6,Linux,Reservation,1 Year,32300.0,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),F8als v6,Standard_F8als_v6,Windows,Consumption,None,0.964,USD,1 Hour,koreacentral,8,16.0,N/A,True,F8als v6,2024-09-01T00:00:00Z,DZH318Z0FZ08
+General Purpose (D/F Series),D32ads v6,Standard_D32ads_v6,Windows,Consumption,None,3.722,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F9
+General Purpose (D/F Series),D4d v4,Standard_D4d_v4,Windows,Consumption,None,0.462,USD,1 Hour,koreacentral,4,16.0,N/A,False,D4d v4,2021-11-01T00:00:00Z,DZH318Z0D1L6
+General Purpose (D/F Series),F4as v6,Standard_F4as_v6,Linux,Consumption,None,0.337,USD,1 Hour,koreacentral,4,16.0,N/A,True,F4as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),F4as v6,Standard_F4as_v6,Linux,Reservation,1 Year,1829.0,USD,1 Hour,koreacentral,4,16.0,N/A,True,F4as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),F32als v6,Standard_F32als_v6,Linux,Consumption,None,2.384,USD,1 Hour,koreacentral,32,64.0,N/A,True,F32als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),F32als v6,Standard_F32als_v6,Linux,Reservation,1 Year,12948.0,USD,1 Hour,koreacentral,32,64.0,N/A,True,F32als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),D4s v4,Standard_D4s_v4,Linux,Consumption,None,0.236,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4s v4,2021-11-01T00:00:00Z,DZH318Z0CSHJ
+General Purpose (D/F Series),D4s v4,Standard_D4s_v4,Linux,Reservation,1 Year,1202.0,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4s v4,2021-11-01T00:00:00Z,DZH318Z0CSHJ
+General Purpose (D/F Series),D16alds v6,Standard_D16alds_v6,Windows,Consumption,None,1.675,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DS
+GPU (N Series),NV4as v4,Standard_NV4as_v4,Linux,Consumption,None,0.315,USD,1 Hour,koreacentral,4,14.0,N/A,True,NV4as v4,2021-06-01T00:00:00Z,DZH318Z0CGPD
+GPU (N Series),NV4as v4,Standard_NV4as_v4,Linux,Reservation,1 Year,1764.0,USD,1 Hour,koreacentral,4,14.0,N/A,True,NV4as v4,2021-06-01T00:00:00Z,DZH318Z0CGPD
+General Purpose (D/F Series),D8ds v4,Standard_D8ds_v4,Linux,Consumption,None,0.556,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHM
+General Purpose (D/F Series),D8ds v4,Standard_D8ds_v4,Linux,Reservation,1 Year,2835.0,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHM
+General Purpose (D/F Series),D16s v3,Standard_D16s_v3,Windows,Consumption,None,1.72,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16s v3,2017-07-21T00:00:00Z,DZH318Z0BPWD
+General Purpose (D/F Series),FX64mds v2,Standard_FX64mds_v2,Windows,Consumption,None,15.64,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),FX8ms v2,Standard_FX8ms_v2,Windows,Consumption,None,1.652,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),FX24mds v2,Standard_FX24mds_v2,Windows,Consumption,None,5.865,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),D4d v4,Standard_D4d_v4,Linux,Consumption,None,0.278,USD,1 Hour,koreacentral,4,16.0,N/A,False,D4d v4,2021-11-01T00:00:00Z,DZH318Z0D1L2
+General Purpose (D/F Series),D4d v4,Standard_D4d_v4,Linux,Reservation,1 Year,1418.0,USD,1 Hour,koreacentral,4,16.0,N/A,False,D4d v4,2021-11-01T00:00:00Z,DZH318Z0D1L2
+General Purpose (D/F Series),D96ls v6,Standard_D96ls_v6,Windows,Consumption,None,9.254,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96ls v6,2024-10-01T00:00:00Z,DZH318Z0GNGZ
+General Purpose (D/F Series),D96ds v6,Standard_D96ds_v6,Linux,Consumption,None,7.351,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),D96ds v6,Standard_D96ds_v6,Linux,Reservation,1 Year,39923.0,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),F4ams v6,Standard_F4ams_v6,Linux,Consumption,None,0.441,USD,1 Hour,koreacentral,4,32.0,N/A,True,F4ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),F4ams v6,Standard_F4ams_v6,Linux,Reservation,1 Year,2396.0,USD,1 Hour,koreacentral,4,32.0,N/A,True,F4ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),D16as v6,Standard_D16as_v6,Windows,Consumption,None,1.63,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16as v6,2024-09-01T00:00:00Z,DZH318Z0DWTF
+General Purpose (D/F Series),F1ams v6,Standard_F1ams_v6,Windows,Consumption,None,0.156,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F1ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXQ
+GPU (N Series),ND128isrNDRGB200v6,Standard_ND128isr_NDR_GB200_v6,Linux,Consumption,None,146.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,ND128isrNDRGB200v6,2025-05-01T00:00:00Z,DZH318Z0N4S3
+GPU (N Series),ND128isrNDRGB200v6,Standard_ND128isr_NDR_GB200_v6,Linux,Reservation,1 Year,818534.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,ND128isrNDRGB200v6,2025-05-01T00:00:00Z,DZH318Z0N4S3
+General Purpose (D/F Series),D32lds v6,Standard_D32lds_v6,Linux,Consumption,None,1.993,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D32lds v6,Standard_D32lds_v6,Linux,Reservation,1 Year,10826.0,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D16d v4,Standard_D16d_v4,Linux,Consumption,None,1.112,USD,1 Hour,koreacentral,16,64.0,N/A,False,D16d v4,2021-11-01T00:00:00Z,DZH318Z0D1L2
+General Purpose (D/F Series),D16d v4,Standard_D16d_v4,Linux,Reservation,1 Year,5670.0,USD,1 Hour,koreacentral,16,64.0,N/A,False,D16d v4,2021-11-01T00:00:00Z,DZH318Z0D1L2
+General Purpose (D/F Series),D32lds v6,Standard_D32lds_v6,Windows,Consumption,None,3.465,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH4
+General Purpose (D/F Series),D16als v6,Standard_D16als_v6,Linux,Consumption,None,0.792,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16als v6,2024-09-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),D16als v6,Standard_D16als_v6,Linux,Reservation,1 Year,4093.0,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16als v6,2025-04-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),F16s v2,Standard_F16s_v2,Windows,Consumption,None,1.504,USD,1 Hour,koreacentral,16,32.0,N/A,True,F16s v2,2021-11-01T00:00:00Z,DZH318Z0BPWJ
+General Purpose (D/F Series),D16as v4,Standard_D16as_v4,Windows,Consumption,None,1.68,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16as v4,2021-11-01T00:00:00Z,DZH318Z0CM93
+General Purpose (D/F Series),Dasv5 Type1,Dasv5_Type1,Linux,Consumption,None,6.53,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dasv5 Type1,2022-01-01T00:00:00Z,DZH318Z08W0S
+General Purpose (D/F Series),Dasv5 Type1,Dasv5_Type1,Linux,Reservation,1 Year,33748.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dasv5 Type1,2025-04-01T00:00:00Z,DZH318Z08W0S
+General Purpose (D/F Series),FX32-16mds v2,Standard_FX32-16mds_v2,Linux,Consumption,None,6.348,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32-16mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX32-16mds v2,Standard_FX32-16mds_v2,Linux,Reservation,1 Year,31697.0,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32-16mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX96mds v2,Standard_FX96mds_v2,Linux,Consumption,None,19.044,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX96mds v2,Standard_FX96mds_v2,Linux,Reservation,1 Year,95091.0,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),D64lds v6,Standard_D64lds_v6,Linux,Consumption,None,3.987,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D64lds v6,Standard_D64lds_v6,Linux,Reservation,1 Year,21652.0,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D48ls v6,Standard_D48ls_v6,Linux,Consumption,None,2.419,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),D48ls v6,Standard_D48ls_v6,Linux,Reservation,1 Year,13139.0,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),D16lds v6,Standard_D16lds_v6,Linux,Consumption,None,0.997,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D16lds v6,Standard_D16lds_v6,Linux,Reservation,1 Year,5413.0,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D48as v4,Standard_D48as_v4,Linux,Consumption,None,2.832,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48as v4,2021-11-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),D48as v4,Standard_D48as_v4,Linux,Reservation,1 Year,14389.0,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48as v4,2020-07-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),D4as v4,Standard_D4as_v4,Windows,Consumption,None,0.42,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4as v4,2021-11-01T00:00:00Z,DZH318Z0CM93
+General Purpose (D/F Series),FX96-48mds v2,Standard_FX96-48mds_v2,Linux,Consumption,None,19.044,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96-48mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX96-48mds v2,Standard_FX96-48mds_v2,Linux,Reservation,1 Year,95091.0,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96-48mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),D16 v4,Standard_D16_v4,Windows,Consumption,None,1.68,USD,1 Hour,koreacentral,16,64.0,N/A,False,D16 v4,2021-11-01T00:00:00Z,DZH318Z0D1MV
+General Purpose (D/F Series),FX24-6mds v2,Standard_FX24-6mds_v2,Linux,Consumption,None,4.761,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24-6mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX24-6mds v2,Standard_FX24-6mds_v2,Linux,Reservation,1 Year,23773.0,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24-6mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX48-12mds v2,Standard_FX48-12mds_v2,Linux,Consumption,None,9.522,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48-12mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX48-12mds v2,Standard_FX48-12mds_v2,Linux,Reservation,1 Year,47545.0,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48-12mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX64-16mds v2,Standard_FX64-16mds_v2,Linux,Consumption,None,12.696,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64-16mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX64-16mds v2,Standard_FX64-16mds_v2,Linux,Reservation,1 Year,63394.0,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64-16mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+HPC (H Series),HX176-144rs,Standard_HX176-144rs,Windows,Consumption,None,19.76,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176-144rs,2023-06-01T00:00:00Z,DZH318Z0K1LG
+General Purpose (D/F Series),FX8-2mds v2,Standard_FX8-2mds_v2,Windows,Consumption,None,1.955,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8-2mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),FX96mds v2,Standard_FX96mds_v2,Windows,Consumption,None,23.46,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+GPU (N Series),NC40adsH100v5,Standard_NC40ads_H100_v5,Linux,Consumption,None,9.423,USD,1 Hour,koreacentral,40,320.0,N/A,True,NC40adsH100v5,2024-05-01T00:00:00Z,DZH318Z0F8W2
+GPU (N Series),NC40adsH100v5,Standard_NC40ads_H100_v5,Linux,Reservation,1 Year,61909.0,USD,1 Hour,koreacentral,40,320.0,N/A,True,NC40adsH100v5,2024-05-01T00:00:00Z,DZH318Z0F8W2
+HPC (H Series),HB176-144rsv4,Standard_HB176-144rs_v4,Linux,Consumption,None,9.72,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176-144rsv4,2023-06-01T00:00:00Z,DZH318Z0K1N4
+HPC (H Series),HB176-144rsv4,Standard_HB176-144rs_v4,Linux,Reservation,1 Year,63862.0,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176-144rsv4,2023-06-01T00:00:00Z,DZH318Z0K1N4
+General Purpose (D/F Series),FX48ms v2,Standard_FX48ms_v2,Linux,Consumption,None,7.704,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX48ms v2,Standard_FX48ms_v2,Linux,Reservation,1 Year,38469.0,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),D8s v4,Standard_D8s_v4,Windows,Consumption,None,0.84,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8s v4,2021-11-01T00:00:00Z,DZH318Z0CP07
+General Purpose (D/F Series),D32s v4,Standard_D32s_v4,Windows,Consumption,None,3.36,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32s v4,2021-11-01T00:00:00Z,DZH318Z0CP07
+General Purpose (D/F Series),D64ads v6,Standard_D64ads_v6,Windows,Consumption,None,7.443,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F9
+General Purpose (D/F Series),D8as v6,Standard_D8as_v6,Windows,Consumption,None,0.815,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8as v6,2024-09-01T00:00:00Z,DZH318Z0DWTF
+General Purpose (D/F Series),D16a v4,Standard_D16a_v4,Linux,Consumption,None,0.944,USD,1 Hour,koreacentral,16,64.0,N/A,False,D16a v4/D16as v4,2021-11-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),D16a v4,Standard_D16a_v4,Linux,Reservation,1 Year,4796.0,USD,1 Hour,koreacentral,16,64.0,N/A,False,D16a v4/D16as v4,2020-07-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),D4as v6,Standard_D4as_v6,Windows,Consumption,None,0.408,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4as v6,2024-09-01T00:00:00Z,DZH318Z0DWTF
+General Purpose (D/F Series),FX64-16ms v2,Standard_FX64-16ms_v2,Windows,Consumption,None,13.216,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64-16ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D8als v6,Standard_D8als_v6,Windows,Consumption,None,0.764,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8als v6,2024-09-01T00:00:00Z,DZH318Z0F5DN
+General Purpose (D/F Series),F72as v6,Standard_F72as_v6,Windows,Consumption,None,9.374,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F72as v6,2024-09-01T00:00:00Z,DZH318Z0FXZ1
+General Purpose (D/F Series),F48s v2,Standard_F48s_v2,Linux,Consumption,None,2.304,USD,1 Hour,koreacentral,48,96.0,N/A,True,F48s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+General Purpose (D/F Series),F48s v2,Standard_F48s_v2,Linux,Reservation,1 Year,11868.0,USD,1 Hour,koreacentral,48,96.0,N/A,True,F48s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+General Purpose (D/F Series),D2s v3,Standard_D2s_v3,Windows,Consumption,None,0.215,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2s v3,2017-07-21T00:00:00Z,DZH318Z0BPWD
+General Purpose (D/F Series),F16,Standard_F16,Windows,Consumption,None,1.479,USD,1 Hour,koreacentral,16,32.0,N/A,False,F16/F16s,2017-06-01T00:00:00Z,DZH318Z0BPVT
+General Purpose (D/F Series),D16ls v6,Standard_D16ls_v6,Windows,Consumption,None,1.542,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16ls v6,2024-10-01T00:00:00Z,DZH318Z0GNGZ
+General Purpose (D/F Series),D2as v4,Standard_D2as_v4,Windows,Consumption,None,0.21,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2as v4,2021-11-01T00:00:00Z,DZH318Z0CM93
+General Purpose (D/F Series),FX64-16ms v2,Standard_FX64-16ms_v2,Linux,Consumption,None,10.272,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64-16ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX64-16ms v2,Standard_FX64-16ms_v2,Linux,Reservation,1 Year,51292.0,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64-16ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),D2ls v6,Standard_D2ls_v6,Windows,Consumption,None,0.193,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2ls v6,2024-10-01T00:00:00Z,DZH318Z0GNGZ
+HPC (H Series),HC44rs,Standard_HC44rs,Windows,Consumption,None,6.301,USD,1 Hour,koreacentral,44,352.0,N/A,True,HC44rs,2020-10-01T00:00:00Z,DZH318Z0BXNH
+General Purpose (D/F Series),F16as v6,Standard_F16as_v6,Windows,Consumption,None,2.083,USD,1 Hour,koreacentral,16,64.0,N/A,True,F16as v6,2024-09-01T00:00:00Z,DZH318Z0FXZ1
+General Purpose (D/F Series),D64ls v5,Standard_D64ls_v5,Windows,Consumption,None,6.016,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64ls v5,2023-04-01T00:00:00Z,DZH318Z08M9K
+General Purpose (D/F Series),D96ls v5,Standard_D96ls_v5,Linux,Consumption,None,4.608,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96ls v5,2023-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),D96ls v5,Standard_D96ls_v5,Linux,Reservation,1 Year,23816.0,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96ls v5,2025-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),FX48-24ms v2,Standard_FX48-24ms_v2,Windows,Consumption,None,9.912,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48-24ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D2lds v5,Standard_D2lds_v5,Windows,Consumption,None,0.202,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2lds v5,2023-04-01T00:00:00Z,DZH318Z08M99
+General Purpose (D/F Series),FX64-32mds v2,Standard_FX64-32mds_v2,Linux,Consumption,None,12.696,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64-32mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX64-32mds v2,Standard_FX64-32mds_v2,Linux,Reservation,1 Year,63394.0,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64-32mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+HPC (H Series),HX176rs,Standard_HX176rs,Linux,Consumption,None,11.664,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176rs,2023-06-01T00:00:00Z,DZH318Z0K1LF
+HPC (H Series),HX176rs,Standard_HX176rs,Linux,Reservation,1 Year,76630.0,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176rs,2023-06-01T00:00:00Z,DZH318Z0K1LF
+General Purpose (D/F Series),D16a v4,Standard_D16a_v4,Windows,Consumption,None,1.68,USD,1 Hour,koreacentral,16,64.0,N/A,False,D16a v4/D16as v4,2021-11-01T00:00:00Z,DZH318Z0CM94
+General Purpose (D/F Series),D64lds v6,Standard_D64lds_v6,Windows,Consumption,None,6.931,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH4
+General Purpose (D/F Series),D48ds v6,Standard_D48ds_v6,Windows,Consumption,None,5.883,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHZ
+General Purpose (D/F Series),Fsv2 Type2,Fsv2_Type2,Linux,Consumption,None,3.802,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Fsv2 Type2,2021-11-01T00:00:00Z,DZH318Z0C621
+General Purpose (D/F Series),Fsv2 Type2,Fsv2_Type2,Linux,Reservation,1 Year,19582.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Fsv2 Type2,2021-11-01T00:00:00Z,DZH318Z0C621
+General Purpose (D/F Series),D64ls v6,Standard_D64ls_v6,Windows,Consumption,None,6.17,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64ls v6,2024-10-01T00:00:00Z,DZH318Z0GNGZ
+General Purpose (D/F Series),D16ds v4,Standard_D16ds_v4,Linux,Consumption,None,1.112,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHM
+General Purpose (D/F Series),D16ds v4,Standard_D16ds_v4,Linux,Reservation,1 Year,5670.0,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHM
+General Purpose (D/F Series),D48ls v5,Standard_D48ls_v5,Linux,Consumption,None,2.304,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48ls v5,2023-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),D48ls v5,Standard_D48ls_v5,Linux,Reservation,1 Year,11908.0,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48ls v5,2025-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),F4,Standard_F4,Windows,Consumption,None,0.37,USD,1 Hour,koreacentral,4,8.0,N/A,False,F4/F4s,2017-06-01T00:00:00Z,DZH318Z0BPVT
+General Purpose (D/F Series),D8ls v6,Standard_D8ls_v6,Linux,Consumption,None,0.403,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),D8ls v6,Standard_D8ls_v6,Linux,Reservation,1 Year,2190.0,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),FX48-24ms v2,Standard_FX48-24ms_v2,Linux,Consumption,None,7.704,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48-24ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX48-24ms v2,Standard_FX48-24ms_v2,Linux,Reservation,1 Year,38469.0,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48-24ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),Dsv3 Type4,Dsv3_Type4,Linux,Consumption,None,6.491,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dsv3 Type4,2021-12-01T00:00:00Z,DZH318Z0C622
+General Purpose (D/F Series),Dsv3 Type4,Dsv3_Type4,Linux,Reservation,1 Year,33791.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dsv3 Type4,2021-12-01T00:00:00Z,DZH318Z0C622
+General Purpose (D/F Series),F64as v6,Standard_F64as_v6,Linux,Consumption,None,5.389,USD,1 Hour,koreacentral,64,256.0,N/A,True,F64as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),F64as v6,Standard_F64as_v6,Linux,Reservation,1 Year,29268.0,USD,1 Hour,koreacentral,64,256.0,N/A,True,F64as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),Fsv2 Type3,Fsv2 Type3,Linux,Consumption,None,4.435,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Fsv2 Type3,2021-11-01T00:00:00Z,DZH318Z0C621
+General Purpose (D/F Series),Fsv2 Type3,Fsv2 Type3,Linux,Reservation,1 Year,22846.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Fsv2 Type3,2021-11-01T00:00:00Z,DZH318Z0C621
+General Purpose (D/F Series),FX16ms v2,Standard_FX16ms_v2,Windows,Consumption,None,3.304,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D96lds v6,Standard_D96lds_v6,Windows,Consumption,None,10.396,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH4
+General Purpose (D/F Series),F2s,Standard_F2s,Windows,Consumption,None,0.185,USD,1 Hour,koreacentral,2,4.0,N/A,True,F2s,2017-06-01T00:00:00Z,DZH318Z0BQPS
+General Purpose (D/F Series),F4s,Standard_F4s,Linux,Consumption,None,0.204,USD,1 Hour,koreacentral,4,8.0,N/A,True,F4s,2017-06-01T00:00:00Z,DZH318Z0BQ4P
+General Purpose (D/F Series),F4s,Standard_F4s,Linux,Reservation,1 Year,1388.0,USD,1 Hour,koreacentral,4,8.0,N/A,True,F4s,2017-07-17T00:00:00Z,DZH318Z0BQ4P
+General Purpose (D/F Series),F64als v6,Standard_F64als_v6,Windows,Consumption,None,7.712,USD,1 Hour,koreacentral,64,128.0,N/A,True,F64als v6,2024-09-01T00:00:00Z,DZH318Z0FZ08
+GPU (N Series),ND96isH100v5,Standard_ND96is_H100_v5,Windows,Consumption,None,123.875,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,ND96isH100v5,2025-01-01T00:00:00Z,DZH318Z0KN52
+General Purpose (D/F Series),FX48ms v2,Standard_FX48ms_v2,Windows,Consumption,None,9.912,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D16ls v5,Standard_D16ls_v5,Windows,Consumption,None,1.504,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16ls v5,2023-04-01T00:00:00Z,DZH318Z08M9K
+General Purpose (D/F Series),FX4mds v2,Standard_FX4mds_v2,Windows,Consumption,None,0.978,USD,1 Hour,koreacentral,4,84.0,N/A,True,FX4mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),D48ds v4,Standard_D48ds_v4,Linux,Consumption,None,3.336,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHM
+General Purpose (D/F Series),D48ds v4,Standard_D48ds_v4,Linux,Reservation,1 Year,17010.0,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHM
+General Purpose (D/F Series),F16als v6,Standard_F16als_v6,Windows,Consumption,None,1.928,USD,1 Hour,koreacentral,16,32.0,N/A,True,F16als v6,2024-09-01T00:00:00Z,DZH318Z0FZ08
+General Purpose (D/F Series),D32as v4,Standard_D32as_v4,Linux,Consumption,None,1.888,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32as v4,2021-11-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),D32as v4,Standard_D32as_v4,Linux,Reservation,1 Year,9593.0,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32as v4,2020-07-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),FX64-32mds v2,Standard_FX64-32mds_v2,Windows,Consumption,None,15.64,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64-32mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),FX4mds v2,Standard_FX4mds_v2,Linux,Consumption,None,0.794,USD,1 Hour,koreacentral,4,84.0,N/A,True,FX4mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX4mds v2,Standard_FX4mds_v2,Linux,Reservation,1 Year,3962.0,USD,1 Hour,koreacentral,4,84.0,N/A,True,FX4mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),D2 v3,Standard_D2_v3,Windows,Consumption,None,0.215,USD,1 Hour,koreacentral,2,8.0,N/A,False,D2 v3/D2s v3,2017-07-21T00:00:00Z,DZH318Z0BPVL
+HPC (H Series),HC44rs,Standard_HC44rs,Linux,Consumption,None,4.277,USD,1 Hour,koreacentral,44,352.0,N/A,True,HC44rs,2020-10-01T00:00:00Z,DZH318Z0BXNX
+HPC (H Series),HC44rs,Standard_HC44rs,Linux,Reservation,1 Year,31845.0,USD,1 Hour,koreacentral,44,352.0,N/A,True,HC44rs,2020-10-01T00:00:00Z,DZH318Z0BXNX
+General Purpose (D/F Series),D64s v4,Standard_D64s_v4,Linux,Consumption,None,3.776,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64s v4,2021-11-01T00:00:00Z,DZH318Z0CSHJ
+General Purpose (D/F Series),D64s v4,Standard_D64s_v4,Linux,Reservation,1 Year,19230.0,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64s v4,2021-11-01T00:00:00Z,DZH318Z0CSHJ
+General Purpose (D/F Series),D32ads v6,Standard_D32ads_v6,Linux,Consumption,None,2.25,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),D32ads v6,Standard_D32ads_v6,Linux,Reservation,1 Year,11627.0,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),F4s v2,Standard_F4s_v2,Windows,Consumption,None,0.376,USD,1 Hour,koreacentral,4,8.0,N/A,True,F4s v2,2021-11-01T00:00:00Z,DZH318Z0BPWJ
+GPU (N Series),NV8as v4,Standard_NV8as_v4,Windows,Consumption,None,0.997,USD,1 Hour,koreacentral,8,28.0,N/A,True,NV8as v4,2021-06-01T00:00:00Z,DZH318Z0CGPM
+General Purpose (D/F Series),D2ads v6,Standard_D2ads_v6,Windows,Consumption,None,0.233,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F9
+General Purpose (D/F Series),D64-32s v3,Standard_D64-32s_v3,Windows,Consumption,None,6.88,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,D64-32s v3,2017-08-18T00:00:00Z,DZH318Z0BPWD
+General Purpose (D/F Series),D2ls v5,Standard_D2ls_v5,Windows,Consumption,None,0.188,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2ls v5,2023-04-01T00:00:00Z,DZH318Z08M9K
+HPC (H Series),HX176-144rs,Standard_HX176-144rs,Linux,Consumption,None,11.664,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176-144rs,2023-06-01T00:00:00Z,DZH318Z0K1LF
+HPC (H Series),HX176-144rs,Standard_HX176-144rs,Linux,Reservation,1 Year,76630.0,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176-144rs,2023-06-01T00:00:00Z,DZH318Z0K1LF
+General Purpose (D/F Series),D4lds v6,Standard_D4lds_v6,Linux,Consumption,None,0.249,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D4lds v6,Standard_D4lds_v6,Linux,Reservation,1 Year,1353.0,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D48 v4,Standard_D48_v4,Windows,Consumption,None,5.04,USD,1 Hour,koreacentral,48,192.0,N/A,False,D48 v4,2021-11-01T00:00:00Z,DZH318Z0D1MV
+General Purpose (D/F Series),D4as v4,Standard_D4as_v4,Linux,Consumption,None,0.236,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4as v4,2021-11-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),D4as v4,Standard_D4as_v4,Linux,Reservation,1 Year,1199.0,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4as v4,2020-07-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),D48ds v4,Standard_D48ds_v4,Windows,Consumption,None,5.544,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHH
+General Purpose (D/F Series),D4s v3,Standard_D4s_v3,Windows,Consumption,None,0.43,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4s v3,2017-07-21T00:00:00Z,DZH318Z0BPWD
+General Purpose (D/F Series),D2a v4,Standard_D2a_v4,Windows,Consumption,None,0.21,USD,1 Hour,koreacentral,2,8.0,N/A,False,D2a v4/D2as v4,2021-11-01T00:00:00Z,DZH318Z0CM94
+General Purpose (D/F Series),D4ds v6,Standard_D4ds_v6,Linux,Consumption,None,0.306,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),D4ds v6,Standard_D4ds_v6,Linux,Reservation,1 Year,1663.0,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),F1as v6,Standard_F1as_v6,Linux,Consumption,None,0.0842,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F1as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),F1as v6,Standard_F1as_v6,Linux,Reservation,1 Year,457.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F1as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),D2s v6,Standard_D2s_v6,Linux,Consumption,None,0.124,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D2s v6,Standard_D2s_v6,Linux,Reservation,1 Year,673.0,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D96lds v6,Standard_D96lds_v6,Linux,Consumption,None,5.98,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D96lds v6,Standard_D96lds_v6,Linux,Reservation,1 Year,32478.0,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D4ds v6,Standard_D4ds_v6,Windows,Consumption,None,0.49,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHZ
+General Purpose (D/F Series),D64as v4,Standard_D64as_v4,Windows,Consumption,None,6.72,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64as v4,2021-11-01T00:00:00Z,DZH318Z0CM93
+General Purpose (D/F Series),D16lds v5,Standard_D16lds_v5,Windows,Consumption,None,1.616,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16lds v5,2023-04-01T00:00:00Z,DZH318Z08M99
+HPC (H Series),HC44-16rs,Standard_HC44-16rs,Linux,Consumption,None,4.277,USD,1 Hour,koreacentral,16,352.0,N/A,True,HC44-16rs,2021-03-01T00:00:00Z,DZH318Z0BXNX
+HPC (H Series),HC44-16rs,Standard_HC44-16rs,Linux,Reservation,1 Year,31845.0,USD,1 Hour,koreacentral,16,352.0,N/A,True,HC44-16rs,2021-03-01T00:00:00Z,DZH318Z0BXNX
+General Purpose (D/F Series),D16ads v6,Standard_D16ads_v6,Linux,Consumption,None,1.125,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),D16ads v6,Standard_D16ads_v6,Linux,Reservation,1 Year,5813.0,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),D2s v4,Standard_D2s_v4,Windows,Consumption,None,0.21,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2s v4,2021-11-01T00:00:00Z,DZH318Z0CP07
+General Purpose (D/F Series),Dsv3 Type3,Dsv3_Type3,Linux,Consumption,None,5.193,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dsv3 Type3,2020-08-01T00:00:00Z,DZH318Z0C622
+General Purpose (D/F Series),Dsv3 Type3,Dsv3_Type3,Linux,Reservation,1 Year,27033.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dsv3 Type3,2020-08-01T00:00:00Z,DZH318Z0C622
+General Purpose (D/F Series),FX16-8mds v2,Standard_FX16-8mds_v2,Linux,Consumption,None,3.174,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16-8mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX16-8mds v2,Standard_FX16-8mds_v2,Linux,Reservation,1 Year,15848.0,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16-8mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),D48lds v5,Standard_D48lds_v5,Windows,Consumption,None,4.848,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48lds v5,2023-04-01T00:00:00Z,DZH318Z08M99
+HPC (H Series),HC44-16rs,Standard_HC44-16rs,Windows,Consumption,None,6.301,USD,1 Hour,koreacentral,16,352.0,N/A,True,HC44-16rs,2021-03-01T00:00:00Z,DZH318Z0BXNH
+General Purpose (D/F Series),D8as v6,Standard_D8as_v6,Linux,Consumption,None,0.447,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8as v6,2024-09-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),D8as v6,Standard_D8as_v6,Linux,Reservation,1 Year,2311.0,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8as v6,2025-04-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),D2ls v5,Standard_D2ls_v5,Linux,Consumption,None,0.096,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2ls v5,2023-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),D2ls v5,Standard_D2ls_v5,Linux,Reservation,1 Year,496.0,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2ls v5,2025-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),D128ls v6,Standard_D128ls_v6,Linux,Consumption,None,6.451,USD,1 Hour,koreacentral,128,256.0,N/A,True,D128ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),D128ls v6,Standard_D128ls_v6,Linux,Reservation,1 Year,35038.0,USD,1 Hour,koreacentral,128,256.0,N/A,True,D128ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),FX48-24mds v2,Standard_FX48-24mds_v2,Windows,Consumption,None,11.73,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48-24mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),FX96-24ms v2,Standard_FX96-24ms_v2,Windows,Consumption,None,19.825,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96-24ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+HPC (H Series),HC44-32rs,Standard_HC44-32rs,Windows,Consumption,None,6.301,USD,1 Hour,koreacentral,32,352.0,N/A,True,HC44-32rs,2021-03-01T00:00:00Z,DZH318Z0BXNH
+GPU (N Series),NC64asT4 v3,Standard_NC64as_T4_v3,Windows,Consumption,None,8.297,USD,1 Hour,koreacentral,64,440.0,N/A,True,NC64asT4 v3,2021-11-01T00:00:00Z,DZH318Z0DF4B
+General Purpose (D/F Series),D32 v3,Standard_D32_v3,Linux,Consumption,None,1.968,USD,1 Hour,koreacentral,32,128.0,N/A,False,D32 v3/D32s v3,2017-08-18T00:00:00Z,DZH318Z0BQ4K
+General Purpose (D/F Series),D32 v3,Standard_D32_v3,Linux,Reservation,1 Year,9616.0,USD,1 Hour,koreacentral,32,128.0,N/A,False,D32 v3/D32s v3,2017-07-21T00:00:00Z,DZH318Z0BQ4K
+General Purpose (D/F Series),D8lds v6,Standard_D8lds_v6,Windows,Consumption,None,0.866,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH4
+General Purpose (D/F Series),D16ds v6,Standard_D16ds_v6,Linux,Consumption,None,1.225,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),D16ds v6,Standard_D16ds_v6,Linux,Reservation,1 Year,6654.0,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),Dasv4 Type2,Dasv4_Type2,Linux,Consumption,None,6.49,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dasv4 Type2,2022-03-01T00:00:00Z,DZH318Z0CXT1
+General Purpose (D/F Series),Dasv4 Type2,Dasv4_Type2,Linux,Reservation,1 Year,32974.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dasv4 Type2,2022-08-01T00:00:00Z,DZH318Z0CXT1
+General Purpose (D/F Series),FX96-48ms v2,Standard_FX96-48ms_v2,Windows,Consumption,None,19.825,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96-48ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D64ls v5,Standard_D64ls_v5,Linux,Consumption,None,3.072,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64ls v5,2023-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),D64ls v5,Standard_D64ls_v5,Linux,Reservation,1 Year,15877.0,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64ls v5,2025-04-01T00:00:00Z,DZH318Z08M9L
+GPU (N Series),NV32as v4,Standard_NV32as_v4,Windows,Consumption,None,3.988,USD,1 Hour,koreacentral,32,112.0,N/A,True,NV32as v4,2021-06-01T00:00:00Z,DZH318Z0CGPM
+General Purpose (D/F Series),F16as v6,Standard_F16as_v6,Linux,Consumption,None,1.347,USD,1 Hour,koreacentral,16,64.0,N/A,True,F16as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),F16as v6,Standard_F16as_v6,Linux,Reservation,1 Year,7317.0,USD,1 Hour,koreacentral,16,64.0,N/A,True,F16as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+GPU (N Series),NC8as T4 v3,Standard_NC8as_T4_v3,Linux,Consumption,None,0.925,USD,1 Hour,koreacentral,8,56.0,N/A,True,NC8as T4 v3,2021-11-01T00:00:00Z,DZH318Z0DF49
+GPU (N Series),NC8as T4 v3,Standard_NC8as_T4_v3,Linux,Reservation,1 Year,4757.0,USD,1 Hour,koreacentral,8,56.0,N/A,True,NC8as T4 v3,2021-11-01T00:00:00Z,DZH318Z0DF49
+General Purpose (D/F Series),D16 v4,Standard_D16_v4,Linux,Consumption,None,0.944,USD,1 Hour,koreacentral,16,64.0,N/A,False,D16 v4,2021-11-01T00:00:00Z,DZH318Z0D1L4
+General Purpose (D/F Series),D16 v4,Standard_D16_v4,Linux,Reservation,1 Year,4807.0,USD,1 Hour,koreacentral,16,64.0,N/A,False,D16 v4,2021-11-01T00:00:00Z,DZH318Z0D1L4
+General Purpose (D/F Series),D8ls v5,Standard_D8ls_v5,Windows,Consumption,None,0.752,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8ls v5,2023-04-01T00:00:00Z,DZH318Z08M9K
+General Purpose (D/F Series),F1s,Standard_F1s,Linux,Consumption,None,0.051,USD,1 Hour,koreacentral,1,2.0,N/A,True,F1s,2017-06-01T00:00:00Z,DZH318Z0BQ4P
+General Purpose (D/F Series),F1s,Standard_F1s,Linux,Reservation,1 Year,344.0,USD,1 Hour,koreacentral,1,2.0,N/A,True,F1s,2017-07-17T00:00:00Z,DZH318Z0BQ4P
+General Purpose (D/F Series),FX8mds v2,Standard_FX8mds_v2,Windows,Consumption,None,1.955,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),D48 v3,Standard_D48_v3,Linux,Consumption,None,2.952,USD,1 Hour,koreacentral,48,192.0,N/A,False,D48 v3/D48s v3,2019-06-01T00:00:00Z,DZH318Z0BQ4K
+General Purpose (D/F Series),D48 v3,Standard_D48_v3,Linux,Reservation,1 Year,14911.0,USD,1 Hour,koreacentral,48,192.0,N/A,False,D48 v3/D48s v3,2019-06-07T00:00:00Z,DZH318Z0BQ4K
+General Purpose (D/F Series),D8ds v6,Standard_D8ds_v6,Windows,Consumption,None,0.981,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHZ
+General Purpose (D/F Series),D128lds v6,Standard_D128lds_v6,Windows,Consumption,None,13.861,USD,1 Hour,koreacentral,128,256.0,N/A,True,D128lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH4
+General Purpose (D/F Series),D2als v6,Standard_D2als_v6,Linux,Consumption,None,0.099,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2als v6,2024-09-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),D2als v6,Standard_D2als_v6,Linux,Reservation,1 Year,512.0,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2als v6,2025-04-01T00:00:00Z,DZH318Z0F5F4
+HPC (H Series),HB176-96rsv4,Standard_HB176-96rs_v4,Linux,Consumption,None,9.72,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176-96rsv4,2023-06-01T00:00:00Z,DZH318Z0K1N4
+HPC (H Series),HB176-96rsv4,Standard_HB176-96rs_v4,Linux,Reservation,1 Year,63862.0,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176-96rsv4,2023-06-01T00:00:00Z,DZH318Z0K1N4
+General Purpose (D/F Series),D64s v6,Standard_D64s_v6,Linux,Consumption,None,3.965,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D64s v6,Standard_D64s_v6,Linux,Reservation,1 Year,21534.0,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),FX48mds v2,Standard_FX48mds_v2,Linux,Consumption,None,9.522,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX48mds v2,Standard_FX48mds_v2,Linux,Reservation,1 Year,47545.0,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),D16ls v5,Standard_D16ls_v5,Linux,Consumption,None,0.768,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16ls v5,2023-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),D16ls v5,Standard_D16ls_v5,Linux,Reservation,1 Year,3969.0,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16ls v5,2025-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),D4as v6,Standard_D4as_v6,Linux,Consumption,None,0.224,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4as v6,2024-09-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),D4as v6,Standard_D4as_v6,Linux,Reservation,1 Year,1156.0,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4as v6,2025-04-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),D64lds v5,Standard_D64lds_v5,Linux,Consumption,None,3.52,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),D64lds v5,Standard_D64lds_v5,Linux,Reservation,1 Year,18193.0,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),D4s v6,Standard_D4s_v6,Windows,Consumption,None,0.432,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4s v6,2024-10-01T00:00:00Z,DZH318Z0GNHF
+General Purpose (D/F Series),FX32mds v2,Standard_FX32mds_v2,Linux,Consumption,None,6.348,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX32mds v2,Standard_FX32mds_v2,Linux,Reservation,1 Year,31697.0,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),D96as v6,Standard_D96as_v6,Windows,Consumption,None,9.782,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96as v6,2024-09-01T00:00:00Z,DZH318Z0DWTF
+General Purpose (D/F Series),F2ams v6,Standard_F2ams_v6,Linux,Consumption,None,0.221,USD,1 Hour,koreacentral,2,16.0,N/A,True,F2ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),F2ams v6,Standard_F2ams_v6,Linux,Reservation,1 Year,1198.0,USD,1 Hour,koreacentral,2,16.0,N/A,True,F2ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),FX16-8mds v2,Standard_FX16-8mds_v2,Windows,Consumption,None,3.91,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16-8mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),F72as v6,Standard_F72as_v6,Linux,Consumption,None,6.062,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F72as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),F72as v6,Standard_F72as_v6,Linux,Reservation,1 Year,32926.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F72as v6,2024-09-01T00:00:00Z,DZH318Z0FXXJ
+General Purpose (D/F Series),D8alds v6,Standard_D8alds_v6,Linux,Consumption,None,0.47,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DQ
+General Purpose (D/F Series),D8alds v6,Standard_D8alds_v6,Linux,Reservation,1 Year,2427.0,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8alds v6,2025-04-01T00:00:00Z,DZH318Z0F5DQ
+GPU (N Series),NC6s v3,Standard_NC6s_v3,Windows,Consumption,None,4.51,USD,1 Hour,koreacentral,6,112.0,N/A,True,NC6s v3,2021-11-01T00:00:00Z,DZH318Z0BP4M
+General Purpose (D/F Series),FX24-12ms v2,Standard_FX24-12ms_v2,Linux,Consumption,None,3.852,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24-12ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX24-12ms v2,Standard_FX24-12ms_v2,Linux,Reservation,1 Year,19235.0,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24-12ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),D2alds v6,Standard_D2alds_v6,Windows,Consumption,None,0.209,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DS
+General Purpose (D/F Series),D96as v4,Standard_D96as_v4,Windows,Consumption,None,10.08,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96as v4,2021-11-01T00:00:00Z,DZH318Z0CM93
+General Purpose (D/F Series),F64as v6,Standard_F64as_v6,Windows,Consumption,None,8.333,USD,1 Hour,koreacentral,64,256.0,N/A,True,F64as v6,2024-09-01T00:00:00Z,DZH318Z0FXZ1
+General Purpose (D/F Series),D96as v4,Standard_D96as_v4,Linux,Consumption,None,5.664,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96as v4,2021-11-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),D96as v4,Standard_D96as_v4,Linux,Reservation,1 Year,28778.0,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96as v4,2020-07-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),D64d v4,Standard_D64d_v4,Linux,Consumption,None,4.448,USD,1 Hour,koreacentral,64,256.0,N/A,False,D64d v4,2021-11-01T00:00:00Z,DZH318Z0D1L2
+General Purpose (D/F Series),D64d v4,Standard_D64d_v4,Linux,Reservation,1 Year,22681.0,USD,1 Hour,koreacentral,64,256.0,N/A,False,D64d v4,2021-11-01T00:00:00Z,DZH318Z0D1L2
+General Purpose (D/F Series),FX24-6ms v2,Standard_FX24-6ms_v2,Windows,Consumption,None,4.956,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24-6ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D4ds v4,Standard_D4ds_v4,Windows,Consumption,None,0.462,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHH
+General Purpose (D/F Series),FX12-6mds v2,Standard_FX12-6mds_v2,Linux,Consumption,None,2.381,USD,1 Hour,koreacentral,12,252.0,N/A,True,FX12-6mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX12-6mds v2,Standard_FX12-6mds_v2,Linux,Reservation,1 Year,11886.0,USD,1 Hour,koreacentral,12,252.0,N/A,True,FX12-6mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),F1s,Standard_F1s,Windows,Consumption,None,0.092,USD,1 Hour,koreacentral,1,2.0,N/A,True,F1s,2018-06-01T00:00:00Z,DZH318Z0BQPS
+General Purpose (D/F Series),D2s v3,Standard_D2s_v3,Linux,Consumption,None,0.123,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2s v3,2017-07-21T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),D2s v3,Standard_D2s_v3,Linux,Reservation,1 Year,601.0,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2s v3,2017-07-21T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),D4als v6,Standard_D4als_v6,Windows,Consumption,None,0.382,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4als v6,2024-09-01T00:00:00Z,DZH318Z0F5DN
+General Purpose (D/F Series),F1als v6,Standard_F1als_v6,Linux,Consumption,None,0.0745,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F1als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),F1als v6,Standard_F1als_v6,Linux,Reservation,1 Year,405.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F1als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),D32s v6,Standard_D32s_v6,Windows,Consumption,None,3.454,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32s v6,2024-10-01T00:00:00Z,DZH318Z0GNHF
+GPU (N Series),NC64asT4 v3,Standard_NC64as_T4_v3,Linux,Consumption,None,5.353,USD,1 Hour,koreacentral,64,440.0,N/A,True,NC64asT4 v3,2021-11-01T00:00:00Z,DZH318Z0DF49
+GPU (N Series),NC64asT4 v3,Standard_NC64as_T4_v3,Linux,Reservation,1 Year,27527.0,USD,1 Hour,koreacentral,64,440.0,N/A,True,NC64asT4 v3,2021-11-01T00:00:00Z,DZH318Z0DF49
+General Purpose (D/F Series),F48ams v6,Standard_F48ams_v6,Windows,Consumption,None,7.502,USD,1 Hour,koreacentral,48,384.0,N/A,True,F48ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXQ
+General Purpose (D/F Series),D48s v3,Standard_D48s_v3,Windows,Consumption,None,5.16,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48s v3,2019-06-01T00:00:00Z,DZH318Z0BPWD
+General Purpose (D/F Series),F1als v6,Standard_F1als_v6,Windows,Consumption,None,0.121,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F1als v6,2024-09-01T00:00:00Z,DZH318Z0FZ08
+General Purpose (D/F Series),FX8-2mds v2,Standard_FX8-2mds_v2,Linux,Consumption,None,1.587,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8-2mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX8-2mds v2,Standard_FX8-2mds_v2,Linux,Reservation,1 Year,7924.0,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8-2mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),F8s,Standard_F8s,Windows,Consumption,None,0.74,USD,1 Hour,koreacentral,8,16.0,N/A,True,F8s,2017-06-01T00:00:00Z,DZH318Z0BQPS
+General Purpose (D/F Series),F2als v6,Standard_F2als_v6,Linux,Consumption,None,0.149,USD,1 Hour,koreacentral,2,4.0,N/A,True,F2als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),F2als v6,Standard_F2als_v6,Linux,Reservation,1 Year,809.0,USD,1 Hour,koreacentral,2,4.0,N/A,True,F2als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),D2 v3,Standard_D2_v3,Linux,Consumption,None,0.123,USD,1 Hour,koreacentral,2,8.0,N/A,False,D2 v3/D2s v3,2017-07-21T00:00:00Z,DZH318Z0BQ4K
+General Purpose (D/F Series),D2 v3,Standard_D2_v3,Linux,Reservation,1 Year,601.0,USD,1 Hour,koreacentral,2,8.0,N/A,False,D2 v3/D2s v3,2017-07-21T00:00:00Z,DZH318Z0BQ4K
+General Purpose (D/F Series),FX4-2mds v2,Standard_FX4-2mds_v2,Linux,Consumption,None,0.794,USD,1 Hour,koreacentral,4,84.0,N/A,True,FX4-2mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX4-2mds v2,Standard_FX4-2mds_v2,Linux,Reservation,1 Year,3962.0,USD,1 Hour,koreacentral,4,84.0,N/A,True,FX4-2mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),F4as v6,Standard_F4as_v6,Windows,Consumption,None,0.521,USD,1 Hour,koreacentral,4,16.0,N/A,True,F4as v6,2024-09-01T00:00:00Z,DZH318Z0FXZ1
+General Purpose (D/F Series),D128ds v6,Standard_D128ds_v6,Linux,Consumption,None,9.801,USD,1 Hour,koreacentral,128,512.0,N/A,True,D128ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),D128ds v6,Standard_D128ds_v6,Linux,Reservation,1 Year,53231.0,USD,1 Hour,koreacentral,128,512.0,N/A,True,D128ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+GPU (N Series),ND128isrNDRGB200v6,Standard_ND128isr_NDR_GB200_v6,Windows,Consumption,None,151.888,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,ND128isrNDRGB200v6,2025-05-01T00:00:00Z,DZH318Z0N4S2
+General Purpose (D/F Series),Dsv4 Type2,Dsv4_Type2,Linux,Consumption,None,6.23,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dsv4 Type2,2022-03-01T00:00:00Z,DZH318Z0DB0X
+General Purpose (D/F Series),Dsv4 Type2,Dsv4_Type2,Linux,Reservation,1 Year,32201.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dsv4 Type2,2022-03-01T00:00:00Z,DZH318Z0DB0X
+HPC (H Series),HB176-96rsv4,Standard_HB176-96rs_v4,Windows,Consumption,None,17.816,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176-96rsv4,2023-06-01T00:00:00Z,DZH318Z0K1LH
+General Purpose (D/F Series),D8alds v6,Standard_D8alds_v6,Windows,Consumption,None,0.838,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DS
+General Purpose (D/F Series),D8 v4,Standard_D8_v4,Windows,Consumption,None,0.84,USD,1 Hour,koreacentral,8,32.0,N/A,False,D8 v4,2021-11-01T00:00:00Z,DZH318Z0D1MV
+General Purpose (D/F Series),F32ams v6,Standard_F32ams_v6,Linux,Consumption,None,3.53,USD,1 Hour,koreacentral,32,256.0,N/A,True,F32ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),F32ams v6,Standard_F32ams_v6,Linux,Reservation,1 Year,19170.0,USD,1 Hour,koreacentral,32,256.0,N/A,True,F32ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),FX48mds v2,Standard_FX48mds_v2,Windows,Consumption,None,11.73,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),D32-8s v3,Standard_D32-8s_v3,Windows,Consumption,None,3.44,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,D32-8s v3,2017-08-18T00:00:00Z,DZH318Z0BPWD
+General Purpose (D/F Series),D64s v4,Standard_D64s_v4,Windows,Consumption,None,6.72,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64s v4,2021-11-01T00:00:00Z,DZH318Z0CP07
+GPU (N Series),NC12s v3,Standard_NC12s_v3,Linux,Consumption,None,8.468,USD,1 Hour,koreacentral,12,224.0,N/A,True,NC12s v3,2021-11-01T00:00:00Z,DZH318Z0BQM2
+General Purpose (D/F Series),FX96-48ms v2,Standard_FX96-48ms_v2,Linux,Consumption,None,15.409,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96-48ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX96-48ms v2,Standard_FX96-48ms_v2,Linux,Reservation,1 Year,76938.0,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96-48ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX2mds v2,Standard_FX2mds_v2,Windows,Consumption,None,0.489,USD,1 Hour,koreacentral,2,42.0,N/A,True,FX2mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),D2lds v5,Standard_D2lds_v5,Linux,Consumption,None,0.11,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),D2lds v5,Standard_D2lds_v5,Linux,Reservation,1 Year,569.0,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),D48lds v6,Standard_D48lds_v6,Linux,Consumption,None,2.99,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D48lds v6,Standard_D48lds_v6,Linux,Reservation,1 Year,16239.0,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),F64s v2,Standard_F64s_v2,Windows,Consumption,None,6.016,USD,1 Hour,koreacentral,64,128.0,N/A,True,F64s v2,2021-11-01T00:00:00Z,DZH318Z0BPWJ
+General Purpose (D/F Series),FX4ms v2,Standard_FX4ms_v2,Windows,Consumption,None,0.826,USD,1 Hour,koreacentral,4,84.0,N/A,True,FX4ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D48ls v5,Standard_D48ls_v5,Windows,Consumption,None,4.512,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48ls v5,2023-04-01T00:00:00Z,DZH318Z08M9K
+General Purpose (D/F Series),D48s v4,Standard_D48s_v4,Windows,Consumption,None,5.04,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48s v4,2021-11-01T00:00:00Z,DZH318Z0CP07
+General Purpose (D/F Series),D8s v3,Standard_D8s_v3,Linux,Consumption,None,0.492,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8s v3,2017-07-21T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),D8s v3,Standard_D8s_v3,Linux,Reservation,1 Year,2404.0,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8s v3,2017-07-21T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),D16ds v4,Standard_D16ds_v4,Windows,Consumption,None,1.848,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHH
+General Purpose (D/F Series),D48a v4,Standard_D48a_v4,Windows,Consumption,None,5.04,USD,1 Hour,koreacentral,48,192.0,N/A,False,D48a v4/D48as v4,2021-11-01T00:00:00Z,DZH318Z0CM94
+General Purpose (D/F Series),FX96-24mds v2,Standard_FX96-24mds_v2,Windows,Consumption,None,23.46,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96-24mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),FX64-32ms v2,Standard_FX64-32ms_v2,Windows,Consumption,None,13.216,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64-32ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D128lds v6,Standard_D128lds_v6,Linux,Consumption,None,7.973,USD,1 Hour,koreacentral,128,256.0,N/A,True,D128lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D128lds v6,Standard_D128lds_v6,Linux,Reservation,1 Year,43304.0,USD,1 Hour,koreacentral,128,256.0,N/A,True,D128lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D2as v4,Standard_D2as_v4,Linux,Consumption,None,0.118,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2as v4,2021-11-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),D2as v4,Standard_D2as_v4,Linux,Reservation,1 Year,600.0,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2as v4,2020-07-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),FX16-4ms v2,Standard_FX16-4ms_v2,Windows,Consumption,None,3.304,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16-4ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D8 v3,Standard_D8_v3,Linux,Consumption,None,0.492,USD,1 Hour,koreacentral,8,32.0,N/A,False,D8 v3/D8s v3,2017-07-21T00:00:00Z,DZH318Z0BQ4K
+General Purpose (D/F Series),D8 v3,Standard_D8_v3,Linux,Reservation,1 Year,2404.0,USD,1 Hour,koreacentral,8,32.0,N/A,False,D8 v3/D8s v3,2017-07-21T00:00:00Z,DZH318Z0BQ4K
+GPU (N Series),NC8as T4 v3,Standard_NC8as_T4_v3,Windows,Consumption,None,1.293,USD,1 Hour,koreacentral,8,56.0,N/A,True,NC8as T4 v3,2021-11-01T00:00:00Z,DZH318Z0DF4B
+General Purpose (D/F Series),D4ls v5,Standard_D4ls_v5,Linux,Consumption,None,0.192,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4ls v5,2023-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),D4ls v5,Standard_D4ls_v5,Linux,Reservation,1 Year,992.0,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4ls v5,2025-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),D2ds v4,Standard_D2ds_v4,Windows,Consumption,None,0.231,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHH
+General Purpose (D/F Series),D48als v6,Standard_D48als_v6,Windows,Consumption,None,4.584,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48als v6,2024-09-01T00:00:00Z,DZH318Z0F5DN
+General Purpose (D/F Series),FX4-2mds v2,Standard_FX4-2mds_v2,Windows,Consumption,None,0.978,USD,1 Hour,koreacentral,4,84.0,N/A,True,FX4-2mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),D64as v4,Standard_D64as_v4,Linux,Consumption,None,3.776,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64as v4,2021-11-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),D64as v4,Standard_D64as_v4,Linux,Reservation,1 Year,19186.0,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64as v4,2020-07-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),D8s v4,Standard_D8s_v4,Linux,Consumption,None,0.472,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8s v4,2021-11-01T00:00:00Z,DZH318Z0CSHJ
+General Purpose (D/F Series),D8s v4,Standard_D8s_v4,Linux,Reservation,1 Year,2404.0,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8s v4,2021-11-01T00:00:00Z,DZH318Z0CSHJ
+General Purpose (D/F Series),F2as v6,Standard_F2as_v6,Windows,Consumption,None,0.26,USD,1 Hour,koreacentral,2,8.0,N/A,True,F2as v6,2024-09-01T00:00:00Z,DZH318Z0FXZ1
+General Purpose (D/F Series),D64ds v4,Standard_D64ds_v4,Windows,Consumption,None,7.392,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHH
+General Purpose (D/F Series),F2,Standard_F2,Windows,Consumption,None,0.185,USD,1 Hour,koreacentral,2,4.0,N/A,False,F2/F2s,2017-06-01T00:00:00Z,DZH318Z0BPVT
+HPC (H Series),HB176-24rsv4,Standard_HB176-24rs_v4,Linux,Consumption,None,9.72,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176-24rsv4,2023-06-01T00:00:00Z,DZH318Z0K1N4
+HPC (H Series),HB176-24rsv4,Standard_HB176-24rs_v4,Linux,Reservation,1 Year,63862.0,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176-24rsv4,2023-06-01T00:00:00Z,DZH318Z0K1N4
+General Purpose (D/F Series),D48 v3,Standard_D48_v3,Windows,Consumption,None,5.16,USD,1 Hour,koreacentral,48,192.0,N/A,False,D48 v3/D48s v3,2019-06-01T00:00:00Z,DZH318Z0BPVL
+General Purpose (D/F Series),F2s v2,Standard_F2s_v2,Windows,Consumption,None,0.188,USD,1 Hour,koreacentral,2,4.0,N/A,True,F2s v2,2021-11-01T00:00:00Z,DZH318Z0BPWJ
+General Purpose (D/F Series),FX64ms v2,Standard_FX64ms_v2,Windows,Consumption,None,13.216,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D4ads v6,Standard_D4ads_v6,Windows,Consumption,None,0.465,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F9
+General Purpose (D/F Series),D2ds v6,Standard_D2ds_v6,Windows,Consumption,None,0.245,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHZ
+General Purpose (D/F Series),FX48-12mds v2,Standard_FX48-12mds_v2,Windows,Consumption,None,11.73,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48-12mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),D8ds v4,Standard_D8ds_v4,Windows,Consumption,None,0.924,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHH
+GPU (N Series),ND96isrH100v5,Standard_ND96isr_H100_v5,Windows,Consumption,None,137.148,USD,1 Hour,koreacentral,96,1900.0,N/A,True,ND96isrH100v5,2025-01-01T00:00:00Z,DZH318Z0KN52
+General Purpose (D/F Series),D8 v4,Standard_D8_v4,Linux,Consumption,None,0.472,USD,1 Hour,koreacentral,8,32.0,N/A,False,D8 v4,2021-11-01T00:00:00Z,DZH318Z0D1L4
+General Purpose (D/F Series),D8 v4,Standard_D8_v4,Linux,Reservation,1 Year,2404.0,USD,1 Hour,koreacentral,8,32.0,N/A,False,D8 v4,2021-11-01T00:00:00Z,DZH318Z0D1L4
+General Purpose (D/F Series),FX64mds v2,Standard_FX64mds_v2,Linux,Consumption,None,12.696,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX64mds v2,Standard_FX64mds_v2,Linux,Reservation,1 Year,63394.0,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),F8ams v6,Standard_F8ams_v6,Linux,Consumption,None,0.882,USD,1 Hour,koreacentral,8,64.0,N/A,True,F8ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),F8ams v6,Standard_F8ams_v6,Linux,Reservation,1 Year,4792.0,USD,1 Hour,koreacentral,8,64.0,N/A,True,F8ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),D48d v4,Standard_D48d_v4,Linux,Consumption,None,3.336,USD,1 Hour,koreacentral,48,192.0,N/A,False,D48d v4,2021-11-01T00:00:00Z,DZH318Z0D1L2
+General Purpose (D/F Series),D48d v4,Standard_D48d_v4,Linux,Reservation,1 Year,17010.0,USD,1 Hour,koreacentral,48,192.0,N/A,False,D48d v4,2021-11-01T00:00:00Z,DZH318Z0D1L2
+General Purpose (D/F Series),F8s v2,Standard_F8s_v2,Linux,Consumption,None,0.384,USD,1 Hour,koreacentral,8,16.0,N/A,True,F8s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+General Purpose (D/F Series),F8s v2,Standard_F8s_v2,Linux,Reservation,1 Year,1978.0,USD,1 Hour,koreacentral,8,16.0,N/A,True,F8s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+GPU (N Series),NC24s v3,Standard_NC24s_v3,Windows,Consumption,None,18.04,USD,1 Hour,koreacentral,24,448.0,N/A,True,NC24s v3,2021-11-01T00:00:00Z,DZH318Z0BP4M
+General Purpose (D/F Series),FX2mds v2,Standard_FX2mds_v2,Linux,Consumption,None,0.397,USD,1 Hour,koreacentral,2,42.0,N/A,True,FX2mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX2mds v2,Standard_FX2mds_v2,Linux,Reservation,1 Year,1981.0,USD,1 Hour,koreacentral,2,42.0,N/A,True,FX2mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),D32ds v4,Standard_D32ds_v4,Linux,Consumption,None,2.224,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHM
+General Purpose (D/F Series),D32ds v4,Standard_D32ds_v4,Linux,Reservation,1 Year,11340.0,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHM
+General Purpose (D/F Series),D64as v6,Standard_D64as_v6,Linux,Consumption,None,3.578,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64as v6,2024-09-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),D64as v6,Standard_D64as_v6,Linux,Reservation,1 Year,18490.0,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64as v6,2025-04-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),Dsv5 Type1,Dsv5_Type1,Linux,Consumption,None,6.49,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dsv5 Type1,2022-04-01T00:00:00Z,DZH318Z09V9J
+General Purpose (D/F Series),Dsv5 Type1,Dsv5_Type1,Linux,Reservation,1 Year,33543.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dsv5 Type1,2025-04-01T00:00:00Z,DZH318Z09V9J
+General Purpose (D/F Series),D96lds v5,Standard_D96lds_v5,Windows,Consumption,None,9.696,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96lds v5,2023-04-01T00:00:00Z,DZH318Z08M99
+General Purpose (D/F Series),FX24ms v2,Standard_FX24ms_v2,Windows,Consumption,None,4.956,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),FX16-8ms v2,Standard_FX16-8ms_v2,Windows,Consumption,None,3.304,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16-8ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),F32als v6,Standard_F32als_v6,Windows,Consumption,None,3.856,USD,1 Hour,koreacentral,32,64.0,N/A,True,F32als v6,2024-09-01T00:00:00Z,DZH318Z0FZ08
+General Purpose (D/F Series),F72als v6,Standard_F72als_v6,Linux,Consumption,None,5.364,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F72als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),F72als v6,Standard_F72als_v6,Linux,Reservation,1 Year,29133.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F72als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),Ddsv5 Type1,Ddsv5_Type1,Linux,Consumption,None,7.339,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Type 1,2022-04-01T00:00:00Z,DZH318Z09V93
+General Purpose (D/F Series),Ddsv5 Type1,Ddsv5_Type1,Linux,Reservation,1 Year,37932.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Type 1,2025-04-01T00:00:00Z,DZH318Z09V93
+General Purpose (D/F Series),D4ls v6,Standard_D4ls_v6,Linux,Consumption,None,0.202,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),D4ls v6,Standard_D4ls_v6,Linux,Reservation,1 Year,1095.0,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),D32ls v5,Standard_D32ls_v5,Windows,Consumption,None,3.008,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32ls v5,2023-04-01T00:00:00Z,DZH318Z08M9K
+General Purpose (D/F Series),D128ds v6,Standard_D128ds_v6,Windows,Consumption,None,15.689,USD,1 Hour,koreacentral,128,512.0,N/A,True,D128ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHZ
+General Purpose (D/F Series),D192s v6,Standard_D192s_v6,Windows,Consumption,None,20.726,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,D192s v6,2025-04-01T00:00:00Z,DZH318Z0GNHF
+General Purpose (D/F Series),D32as v4,Standard_D32as_v4,Windows,Consumption,None,3.36,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32as v4,2021-11-01T00:00:00Z,DZH318Z0CM93
+General Purpose (D/F Series),FX24-12ms v2,Standard_FX24-12ms_v2,Windows,Consumption,None,4.956,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24-12ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D4ads v6,Standard_D4ads_v6,Linux,Consumption,None,0.281,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),D4ads v6,Standard_D4ads_v6,Linux,Reservation,1 Year,1453.0,USD,1 Hour,koreacentral,4,16.0,N/A,True,D4ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),D2ls v6,Standard_D2ls_v6,Linux,Consumption,None,0.101,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),D2ls v6,Standard_D2ls_v6,Linux,Reservation,1 Year,547.0,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+GPU (N Series),NC80adisH100v5,Standard_NC80adis_H100_v5,Windows,Consumption,None,22.526,USD,1 Hour,koreacentral,80,640.0,N/A,True,NC80adisH100v5,2024-05-01T00:00:00Z,DZH318Z0F8W1
+General Purpose (D/F Series),D96ads v6,Standard_D96ads_v6,Linux,Consumption,None,6.749,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),D96ads v6,Standard_D96ads_v6,Linux,Reservation,1 Year,34880.0,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+GPU (N Series),NV4as v4,Standard_NV4as_v4,Windows,Consumption,None,0.499,USD,1 Hour,koreacentral,4,14.0,N/A,True,NV4as v4,2021-06-01T00:00:00Z,DZH318Z0CGPM
+General Purpose (D/F Series),D32ls v5,Standard_D32ls_v5,Linux,Consumption,None,1.536,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32ls v5,2023-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),D32ls v5,Standard_D32ls_v5,Linux,Reservation,1 Year,7939.0,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32ls v5,2025-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),D8ls v5,Standard_D8ls_v5,Linux,Consumption,None,0.384,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8ls v5,2023-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),D8ls v5,Standard_D8ls_v5,Linux,Reservation,1 Year,1985.0,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8ls v5,2025-04-01T00:00:00Z,DZH318Z08M9L
+General Purpose (D/F Series),D48s v6,Standard_D48s_v6,Windows,Consumption,None,5.182,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48s v6,2024-10-01T00:00:00Z,DZH318Z0GNHF
+General Purpose (D/F Series),Dsv4 Type1,Dsv4_Type1,Linux,Consumption,None,5.191,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dsv4 Type1,2021-11-01T00:00:00Z,DZH318Z0DB0X
+General Purpose (D/F Series),Dsv4 Type1,Dsv4_Type1,Linux,Reservation,1 Year,26444.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dsv4 Type1,2021-11-01T00:00:00Z,DZH318Z0DB0X
+General Purpose (D/F Series),FX32-8mds v2,Standard_FX32-8mds_v2,Windows,Consumption,None,7.82,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32-8mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),D64alds v6,Standard_D64alds_v6,Linux,Consumption,None,3.757,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DQ
+General Purpose (D/F Series),D64alds v6,Standard_D64alds_v6,Linux,Reservation,1 Year,19417.0,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64alds v6,2025-04-01T00:00:00Z,DZH318Z0F5DQ
+HPC (H Series),HB176rsv4,Standard_HB176rs_v4,Windows,Consumption,None,17.816,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176rsv4,2023-06-01T00:00:00Z,DZH318Z0K1LH
+General Purpose (D/F Series),D16ads v6,Standard_D16ads_v6,Windows,Consumption,None,1.861,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F9
+General Purpose (D/F Series),D32s v3,Standard_D32s_v3,Linux,Consumption,None,1.968,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32s v3,2017-08-18T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),D32s v3,Standard_D32s_v3,Linux,Reservation,1 Year,9616.0,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32s v3,2017-07-21T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),D64s v6,Standard_D64s_v6,Windows,Consumption,None,6.909,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64s v6,2024-10-01T00:00:00Z,DZH318Z0GNHF
+General Purpose (D/F Series),FX12mds v2,Standard_FX12mds_v2,Linux,Consumption,None,2.381,USD,1 Hour,koreacentral,12,252.0,N/A,True,FX12mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX12mds v2,Standard_FX12mds_v2,Linux,Reservation,1 Year,11886.0,USD,1 Hour,koreacentral,12,252.0,N/A,True,FX12mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),D32a v4,Standard_D32a_v4,Linux,Consumption,None,1.888,USD,1 Hour,koreacentral,32,128.0,N/A,False,D32a v4/D32as v4,2021-11-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),D32a v4,Standard_D32a_v4,Linux,Reservation,1 Year,9593.0,USD,1 Hour,koreacentral,32,128.0,N/A,False,D32a v4/D32as v4,2020-07-01T00:00:00Z,DZH318Z0CM2B
+General Purpose (D/F Series),F32s v2,Standard_F32s_v2,Linux,Consumption,None,1.536,USD,1 Hour,koreacentral,32,64.0,N/A,True,F32s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+General Purpose (D/F Series),F32s v2,Standard_F32s_v2,Linux,Reservation,1 Year,7912.0,USD,1 Hour,koreacentral,32,64.0,N/A,True,F32s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+HPC (H Series),HB176rsv4,Standard_HB176rs_v4,Linux,Consumption,None,9.72,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176rsv4,2023-06-01T00:00:00Z,DZH318Z0K1N4
+HPC (H Series),HB176rsv4,Standard_HB176rs_v4,Linux,Reservation,1 Year,63862.0,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176rsv4,2023-06-01T00:00:00Z,DZH318Z0K1N4
+General Purpose (D/F Series),F2,Standard_F2,Linux,Consumption,None,0.102,USD,1 Hour,koreacentral,2,4.0,N/A,False,F2/F2s,2018-06-01T00:00:00Z,DZH318Z0BQ51
+General Purpose (D/F Series),F2,Standard_F2,Linux,Reservation,1 Year,689.0,USD,1 Hour,koreacentral,2,4.0,N/A,False,F2/F2s,2017-07-17T00:00:00Z,DZH318Z0BQ51
+General Purpose (D/F Series),D48lds v6,Standard_D48lds_v6,Windows,Consumption,None,5.198,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH4
+General Purpose (D/F Series),D8d v4,Standard_D8d_v4,Linux,Consumption,None,0.556,USD,1 Hour,koreacentral,8,32.0,N/A,False,D8d v4,2021-11-01T00:00:00Z,DZH318Z0D1L2
+General Purpose (D/F Series),D8d v4,Standard_D8d_v4,Linux,Reservation,1 Year,2835.0,USD,1 Hour,koreacentral,8,32.0,N/A,False,D8d v4,2021-11-01T00:00:00Z,DZH318Z0D1L2
+General Purpose (D/F Series),FX32ms v2,Standard_FX32ms_v2,Windows,Consumption,None,6.608,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),F8s v2,Standard_F8s_v2,Windows,Consumption,None,0.752,USD,1 Hour,koreacentral,8,16.0,N/A,True,F8s v2,2021-11-01T00:00:00Z,DZH318Z0BPWJ
+General Purpose (D/F Series),FX32-8mds v2,Standard_FX32-8mds_v2,Linux,Consumption,None,6.348,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32-8mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX32-8mds v2,Standard_FX32-8mds_v2,Linux,Reservation,1 Year,31697.0,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32-8mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),D8ds v6,Standard_D8ds_v6,Linux,Consumption,None,0.613,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),D8ds v6,Standard_D8ds_v6,Linux,Reservation,1 Year,3327.0,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+GPU (N Series),NC24s v3,Standard_NC24s_v3,Linux,Consumption,None,16.936,USD,1 Hour,koreacentral,24,448.0,N/A,True,NC24s v3,2021-11-01T00:00:00Z,DZH318Z0BQM2
+General Purpose (D/F Series),F64als v6,Standard_F64als_v6,Linux,Consumption,None,4.768,USD,1 Hour,koreacentral,64,128.0,N/A,True,F64als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),F64als v6,Standard_F64als_v6,Linux,Reservation,1 Year,25896.0,USD,1 Hour,koreacentral,64,128.0,N/A,True,F64als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),FX96-48mds v2,Standard_FX96-48mds_v2,Windows,Consumption,None,23.46,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96-48mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),FX2ms v2,Standard_FX2ms_v2,Windows,Consumption,None,0.413,USD,1 Hour,koreacentral,2,42.0,N/A,True,FX2ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D96as v6,Standard_D96as_v6,Linux,Consumption,None,5.366,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96as v6,2024-09-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),D96as v6,Standard_D96as_v6,Linux,Reservation,1 Year,27736.0,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96as v6,2025-04-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),D48as v6,Standard_D48as_v6,Linux,Consumption,None,2.683,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48as v6,2024-09-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),D48as v6,Standard_D48as_v6,Linux,Reservation,1 Year,13868.0,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48as v6,2025-04-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),D2s v4,Standard_D2s_v4,Linux,Consumption,None,0.118,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2s v4,2021-11-01T00:00:00Z,DZH318Z0CSHJ
+General Purpose (D/F Series),D2s v4,Standard_D2s_v4,Linux,Reservation,1 Year,601.0,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2s v4,2021-11-01T00:00:00Z,DZH318Z0CSHJ
+General Purpose (D/F Series),F4als v6,Standard_F4als_v6,Linux,Consumption,None,0.298,USD,1 Hour,koreacentral,4,8.0,N/A,True,F4als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),F4als v6,Standard_F4als_v6,Linux,Reservation,1 Year,1618.0,USD,1 Hour,koreacentral,4,8.0,N/A,True,F4als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),D2als v6,Standard_D2als_v6,Windows,Consumption,None,0.191,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2als v6,2024-09-01T00:00:00Z,DZH318Z0F5DN
+General Purpose (D/F Series),D16lds v6,Standard_D16lds_v6,Windows,Consumption,None,1.733,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH4
+General Purpose (D/F Series),D8d v4,Standard_D8d_v4,Windows,Consumption,None,0.924,USD,1 Hour,koreacentral,8,32.0,N/A,False,D8d v4,2021-11-01T00:00:00Z,DZH318Z0D1L6
+General Purpose (D/F Series),D4ls v6,Standard_D4ls_v6,Windows,Consumption,None,0.386,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4ls v6,2024-10-01T00:00:00Z,DZH318Z0GNGZ
+General Purpose (D/F Series),F64ams v6,Standard_F64ams_v6,Linux,Consumption,None,7.059,USD,1 Hour,koreacentral,64,512.0,N/A,True,F64ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),F64ams v6,Standard_F64ams_v6,Linux,Reservation,1 Year,38340.0,USD,1 Hour,koreacentral,64,512.0,N/A,True,F64ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),D8a v4,Standard_D8a_v4,Windows,Consumption,None,0.84,USD,1 Hour,koreacentral,8,32.0,N/A,False,D8a v4/D8as v4,2021-11-01T00:00:00Z,DZH318Z0CM94
+General Purpose (D/F Series),D32lds v5,Standard_D32lds_v5,Windows,Consumption,None,3.232,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32lds v5,2023-04-01T00:00:00Z,DZH318Z08M99
+General Purpose (D/F Series),F16ams v6,Standard_F16ams_v6,Linux,Consumption,None,1.765,USD,1 Hour,koreacentral,16,128.0,N/A,True,F16ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),F16ams v6,Standard_F16ams_v6,Linux,Reservation,1 Year,9585.0,USD,1 Hour,koreacentral,16,128.0,N/A,True,F16ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),D32as v6,Standard_D32as_v6,Windows,Consumption,None,3.261,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32as v6,2024-09-01T00:00:00Z,DZH318Z0DWTF
+GPU (N Series),NC16asT4 v3,Standard_NC16as_T4_v3,Linux,Consumption,None,1.481,USD,1 Hour,koreacentral,16,110.0,N/A,True,NC16asT4 v3,2021-11-01T00:00:00Z,DZH318Z0DF49
+GPU (N Series),NC16asT4 v3,Standard_NC16as_T4_v3,Linux,Reservation,1 Year,7616.0,USD,1 Hour,koreacentral,16,110.0,N/A,True,NC16asT4 v3,2021-11-01T00:00:00Z,DZH318Z0DF49
+General Purpose (D/F Series),D32d v4,Standard_D32d_v4,Windows,Consumption,None,3.696,USD,1 Hour,koreacentral,32,128.0,N/A,False,D32d v4,2021-11-01T00:00:00Z,DZH318Z0D1L6
+General Purpose (D/F Series),D48ls v6,Standard_D48ls_v6,Windows,Consumption,None,4.627,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48ls v6,2024-10-01T00:00:00Z,DZH318Z0GNGZ
+General Purpose (D/F Series),D48s v3,Standard_D48s_v3,Linux,Consumption,None,2.952,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48s v3,2019-06-01T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),D48s v3,Standard_D48s_v3,Linux,Reservation,1 Year,14911.0,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48s v3,2019-06-07T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),D64als v6,Standard_D64als_v6,Windows,Consumption,None,6.112,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64als v6,2024-09-01T00:00:00Z,DZH318Z0F5DN
+HPC (H Series),HX176-24rs,Standard_HX176-24rs,Windows,Consumption,None,19.76,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176-24rs,2023-06-01T00:00:00Z,DZH318Z0K1LG
+GPU (N Series),NC24rs v3,Standard_NC24rs_v3,Windows,Consumption,None,19.734,USD,1 Hour,koreacentral,24,448.0,N/A,True,NC24rs v3,2021-11-01T00:00:00Z,DZH318Z0BP4M
+General Purpose (D/F Series),D16 v3,Standard_D16_v3,Linux,Consumption,None,0.984,USD,1 Hour,koreacentral,16,64.0,N/A,False,D16 v3/D16s v3,2017-07-21T00:00:00Z,DZH318Z0BQ4K
+General Purpose (D/F Series),D16 v3,Standard_D16_v3,Linux,Reservation,1 Year,4808.0,USD,1 Hour,koreacentral,16,64.0,N/A,False,D16 v3/D16s v3,2017-07-21T00:00:00Z,DZH318Z0BQ4K
+General Purpose (D/F Series),FX8-2ms v2,Standard_FX8-2ms_v2,Linux,Consumption,None,1.284,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8-2ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX8-2ms v2,Standard_FX8-2ms_v2,Linux,Reservation,1 Year,6412.0,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8-2ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX32-16ms v2,Standard_FX32-16ms_v2,Windows,Consumption,None,6.608,USD,1 Hour,koreacentral,32,672.0,N/A,True,FX32-16ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D48s v6,Standard_D48s_v6,Linux,Consumption,None,2.974,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D48s v6,Standard_D48s_v6,Linux,Reservation,1 Year,16150.0,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),F32s v2,Standard_F32s_v2,Windows,Consumption,None,3.008,USD,1 Hour,koreacentral,32,64.0,N/A,True,F32s v2,2021-11-01T00:00:00Z,DZH318Z0BPWJ
+General Purpose (D/F Series),D32ds v4,Standard_D32ds_v4,Windows,Consumption,None,3.696,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHH
+HPC (H Series),HX176-48rs,Standard_HX176-48rs,Linux,Consumption,None,11.664,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176-48rs,2023-06-01T00:00:00Z,DZH318Z0K1LF
+HPC (H Series),HX176-48rs,Standard_HX176-48rs,Linux,Reservation,1 Year,76630.0,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176-48rs,2023-06-01T00:00:00Z,DZH318Z0K1LF
+General Purpose (D/F Series),D4lds v6,Standard_D4lds_v6,Windows,Consumption,None,0.433,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH4
+General Purpose (D/F Series),F2ams v6,Standard_F2ams_v6,Windows,Consumption,None,0.313,USD,1 Hour,koreacentral,2,16.0,N/A,True,F2ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXQ
+GPU (N Series),ND96isH100v5,Standard_ND96is_H100_v5,Linux,Consumption,None,119.459,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,ND96isH100v5,2025-01-01T00:00:00Z,DZH318Z0KN53
+GPU (N Series),ND96isH100v5,Standard_ND96is_H100_v5,Linux,Reservation,1 Year,669734.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,ND96isH100v5,2025-01-01T00:00:00Z,DZH318Z0KN53
+General Purpose (D/F Series),F48ams v6,Standard_F48ams_v6,Linux,Consumption,None,5.294,USD,1 Hour,koreacentral,48,384.0,N/A,True,F48ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),F48ams v6,Standard_F48ams_v6,Linux,Reservation,1 Year,28755.0,USD,1 Hour,koreacentral,48,384.0,N/A,True,F48ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),D32a v4,Standard_D32a_v4,Windows,Consumption,None,3.36,USD,1 Hour,koreacentral,32,128.0,N/A,False,D32a v4/D32as v4,2021-11-01T00:00:00Z,DZH318Z0CM94
+General Purpose (D/F Series),FX48-12ms v2,Standard_FX48-12ms_v2,Windows,Consumption,None,9.912,USD,1 Hour,koreacentral,48,1008.0,N/A,True,FX48-12ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D2as v6,Standard_D2as_v6,Linux,Consumption,None,0.112,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2as v6,2024-09-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),D2as v6,Standard_D2as_v6,Linux,Reservation,1 Year,578.0,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2as v6,2025-04-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),D48ds v6,Standard_D48ds_v6,Linux,Consumption,None,3.675,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),D48ds v6,Standard_D48ds_v6,Linux,Reservation,1 Year,19962.0,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),D4ls v5,Standard_D4ls_v5,Windows,Consumption,None,0.376,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4ls v5,2023-04-01T00:00:00Z,DZH318Z08M9K
+General Purpose (D/F Series),D16as v4,Standard_D16as_v4,Linux,Consumption,None,0.944,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16as v4,2021-11-01T00:00:00Z,DZH318Z0CM2C
+General Purpose (D/F Series),D16as v4,Standard_D16as_v4,Linux,Reservation,1 Year,4796.0,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16as v4,2020-07-01T00:00:00Z,DZH318Z0CM2C
+HPC (H Series),HX176-24rs,Standard_HX176-24rs,Linux,Consumption,None,11.664,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176-24rs,2023-06-01T00:00:00Z,DZH318Z0K1LF
+HPC (H Series),HX176-24rs,Standard_HX176-24rs,Linux,Reservation,1 Year,76630.0,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176-24rs,2023-06-01T00:00:00Z,DZH318Z0K1LF
+General Purpose (D/F Series),D32ds v6,Standard_D32ds_v6,Linux,Consumption,None,2.45,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),D32ds v6,Standard_D32ds_v6,Linux,Reservation,1 Year,13308.0,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHJ
+GPU (N Series),NC6s v3,Standard_NC6s_v3,Linux,Consumption,None,4.234,USD,1 Hour,koreacentral,6,112.0,N/A,True,NC6s v3,2021-11-01T00:00:00Z,DZH318Z0BQM2
+General Purpose (D/F Series),D64d v4,Standard_D64d_v4,Windows,Consumption,None,7.392,USD,1 Hour,koreacentral,64,256.0,N/A,False,D64d v4,2021-11-01T00:00:00Z,DZH318Z0D1L6
+General Purpose (D/F Series),Ddsv4 Type 1,Ddsv4_Type 1,Linux,Consumption,None,4.893,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Ddsv4 Type 1,2021-11-01T00:00:00Z,DZH318Z0DFW0
+General Purpose (D/F Series),Ddsv4 Type 1,Ddsv4_Type 1,Linux,Reservation,1 Year,24957.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Ddsv4 Type 1,2021-11-01T00:00:00Z,DZH318Z0DFW0
+General Purpose (D/F Series),D192ds_v6,Standard_D192ds_v6,Linux,Consumption,None,14.701,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,D192ds_v6,2025-04-01T00:00:00Z,DZH318Z0GNHJ
+General Purpose (D/F Series),D192ds_v6,Standard_D192ds_v6,Linux,Reservation,1 Year,79846.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,D192ds_v6,2025-04-01T00:00:00Z,DZH318Z0GNHJ
+GPU (N Series),NC80adisH100v5,Standard_NC80adis_H100_v5,Linux,Consumption,None,18.846,USD,1 Hour,koreacentral,80,640.0,N/A,True,NC80adisH100v5,2024-05-01T00:00:00Z,DZH318Z0F8W2
+GPU (N Series),NC80adisH100v5,Standard_NC80adis_H100_v5,Linux,Reservation,1 Year,123818.0,USD,1 Hour,koreacentral,80,640.0,N/A,True,NC80adisH100v5,2024-05-01T00:00:00Z,DZH318Z0F8W2
+General Purpose (D/F Series),D32ls v6,Standard_D32ls_v6,Linux,Consumption,None,1.613,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),D32ls v6,Standard_D32ls_v6,Linux,Reservation,1 Year,8759.0,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),D48d v4,Standard_D48d_v4,Windows,Consumption,None,5.544,USD,1 Hour,koreacentral,48,192.0,N/A,False,D48d v4,2021-11-01T00:00:00Z,DZH318Z0D1L6
+General Purpose (D/F Series),D2ds v4,Standard_D2ds_v4,Linux,Consumption,None,0.139,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHM
+General Purpose (D/F Series),D2ds v4,Standard_D2ds_v4,Linux,Reservation,1 Year,709.0,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHM
+General Purpose (D/F Series),D32-16s v3,Standard_D32-16s_v3,Linux,Consumption,None,1.968,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,D32-16s v3,2017-08-18T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),F72als v6,Standard_F72als_v6,Windows,Consumption,None,8.676,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F72als v6,2024-09-01T00:00:00Z,DZH318Z0FZ08
+General Purpose (D/F Series),F1as v6,Standard_F1as_v6,Windows,Consumption,None,0.13,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F1as v6,2024-09-01T00:00:00Z,DZH318Z0FXZ1
+General Purpose (D/F Series),FX24-12mds v2,Standard_FX24-12mds_v2,Linux,Consumption,None,4.761,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24-12mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX24-12mds v2,Standard_FX24-12mds_v2,Linux,Reservation,1 Year,23773.0,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24-12mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),D2 v4,Standard_D2_v4,Windows,Consumption,None,0.21,USD,1 Hour,koreacentral,2,8.0,N/A,False,D2 v4,2021-11-01T00:00:00Z,DZH318Z0D1MV
+General Purpose (D/F Series),Dadsv5 Type1,Dadsv5_Type1,Linux,Consumption,None,7.823,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dadsv5 Type1,2022-01-01T00:00:00Z,DZH318Z08W28
+General Purpose (D/F Series),Dadsv5 Type1,Dadsv5_Type1,Linux,Reservation,1 Year,40433.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dadsv5 Type1,2025-04-01T00:00:00Z,DZH318Z08W28
+General Purpose (D/F Series),D2s v6,Standard_D2s_v6,Windows,Consumption,None,0.216,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2s v6,2024-10-01T00:00:00Z,DZH318Z0GNHF
+General Purpose (D/F Series),D2ads v6,Standard_D2ads_v6,Linux,Consumption,None,0.141,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),D2ads v6,Standard_D2ads_v6,Linux,Reservation,1 Year,727.0,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),D16d v4,Standard_D16d_v4,Windows,Consumption,None,1.848,USD,1 Hour,koreacentral,16,64.0,N/A,False,D16d v4,2021-11-01T00:00:00Z,DZH318Z0D1L6
+General Purpose (D/F Series),D2 v4,Standard_D2_v4,Linux,Consumption,None,0.118,USD,1 Hour,koreacentral,2,8.0,N/A,False,D2 v4,2021-11-01T00:00:00Z,DZH318Z0D1L4
+General Purpose (D/F Series),D2 v4,Standard_D2_v4,Linux,Reservation,1 Year,601.0,USD,1 Hour,koreacentral,2,8.0,N/A,False,D2 v4,2021-11-01T00:00:00Z,DZH318Z0D1L4
+General Purpose (D/F Series),D32alds v6,Standard_D32alds_v6,Linux,Consumption,None,1.878,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DQ
+General Purpose (D/F Series),D32alds v6,Standard_D32alds_v6,Linux,Reservation,1 Year,9708.0,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32alds v6,2025-04-01T00:00:00Z,DZH318Z0F5DQ
+General Purpose (D/F Series),FX16-8ms v2,Standard_FX16-8ms_v2,Linux,Consumption,None,2.568,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16-8ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX16-8ms v2,Standard_FX16-8ms_v2,Linux,Reservation,1 Year,12823.0,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16-8ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),D96ls v6,Standard_D96ls_v6,Linux,Consumption,None,4.838,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),D96ls v6,Standard_D96ls_v6,Linux,Reservation,1 Year,26278.0,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96ls v6,2024-10-01T00:00:00Z,DZH318Z0GNH1
+General Purpose (D/F Series),Ddsv4 Type 2,Ddsv4_Type2,Linux,Consumption,None,5.81,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Ddsv4 Type 2,2022-03-01T00:00:00Z,DZH318Z0DFW0
+General Purpose (D/F Series),Ddsv4 Type 2,Ddsv4_Type2,Linux,Reservation,1 Year,30029.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Ddsv4 Type 2,2022-03-01T00:00:00Z,DZH318Z0DFW0
+General Purpose (D/F Series),D32s v6,Standard_D32s_v6,Linux,Consumption,None,1.982,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D32s v6,Standard_D32s_v6,Linux,Reservation,1 Year,10767.0,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D8ls v6,Standard_D8ls_v6,Windows,Consumption,None,0.771,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8ls v6,2024-10-01T00:00:00Z,DZH318Z0GNGZ
+General Purpose (D/F Series),FX16-4ms v2,Standard_FX16-4ms_v2,Linux,Consumption,None,2.568,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16-4ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX16-4ms v2,Standard_FX16-4ms_v2,Linux,Reservation,1 Year,12823.0,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16-4ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),Fsv2 Type4,Fsv2_Type4,Linux,Consumption,None,5.069,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Fsv2 Type4,2022-03-01T00:00:00Z,DZH318Z0C621
+General Purpose (D/F Series),Fsv2 Type4,Fsv2_Type4,Linux,Reservation,1 Year,26198.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Fsv2 Type4,2022-03-01T00:00:00Z,DZH318Z0C621
+General Purpose (D/F Series),D32d v4,Standard_D32d_v4,Linux,Consumption,None,2.224,USD,1 Hour,koreacentral,32,128.0,N/A,False,D32d v4,2021-11-01T00:00:00Z,DZH318Z0D1L2
+General Purpose (D/F Series),D32d v4,Standard_D32d_v4,Linux,Reservation,1 Year,11340.0,USD,1 Hour,koreacentral,32,128.0,N/A,False,D32d v4,2021-11-01T00:00:00Z,DZH318Z0D1L2
+GPU (N Series),NV16as v4,Standard_NV16as_v4,Windows,Consumption,None,1.994,USD,1 Hour,koreacentral,16,56.0,N/A,True,NV16as v4,2021-06-01T00:00:00Z,DZH318Z0CGPM
+General Purpose (D/F Series),D16s v6,Standard_D16s_v6,Windows,Consumption,None,1.727,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16s v6,2024-10-01T00:00:00Z,DZH318Z0GNHF
+HPC (H Series),HX176-48rs,Standard_HX176-48rs,Windows,Consumption,None,19.76,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176-48rs,2023-06-01T00:00:00Z,DZH318Z0K1LG
+General Purpose (D/F Series),F16als v6,Standard_F16als_v6,Linux,Consumption,None,1.192,USD,1 Hour,koreacentral,16,32.0,N/A,True,F16als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),F16als v6,Standard_F16als_v6,Linux,Reservation,1 Year,6474.0,USD,1 Hour,koreacentral,16,32.0,N/A,True,F16als v6,2024-09-01T00:00:00Z,DZH318Z0FZ0B
+General Purpose (D/F Series),F4,Standard_F4,Linux,Consumption,None,0.204,USD,1 Hour,koreacentral,4,8.0,N/A,False,F4/F4s,2017-06-01T00:00:00Z,DZH318Z0BQ51
+General Purpose (D/F Series),F4,Standard_F4,Linux,Reservation,1 Year,1388.0,USD,1 Hour,koreacentral,4,8.0,N/A,False,F4/F4s,2017-07-17T00:00:00Z,DZH318Z0BQ51
+General Purpose (D/F Series),D64lds v5,Standard_D64lds_v5,Windows,Consumption,None,6.464,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64lds v5,2023-04-01T00:00:00Z,DZH318Z08M99
+General Purpose (D/F Series),D64 v3,Standard_D64_v3,Windows,Consumption,None,6.88,USD,1 Hour,koreacentral,64,256.0,N/A,False,D64 v3/D64s v3,2017-08-18T00:00:00Z,DZH318Z0BPVL
+General Purpose (D/F Series),D4a v4,Standard_D4a_v4,Windows,Consumption,None,0.42,USD,1 Hour,koreacentral,4,16.0,N/A,False,D4a v4/D4as v4,2021-11-01T00:00:00Z,DZH318Z0CM94
+General Purpose (D/F Series),F2s v2,Standard_F2s_v2,Linux,Consumption,None,0.096,USD,1 Hour,koreacentral,2,4.0,N/A,True,F2s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+General Purpose (D/F Series),F2s v2,Standard_F2s_v2,Linux,Reservation,1 Year,494.0,USD,1 Hour,koreacentral,2,4.0,N/A,True,F2s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+General Purpose (D/F Series),FX96ms v2,Standard_FX96ms_v2,Linux,Consumption,None,15.409,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX96ms v2,Standard_FX96ms_v2,Linux,Reservation,1 Year,76938.0,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),D16s v3,Standard_D16s_v3,Linux,Consumption,None,0.984,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16s v3,2017-07-21T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),D16s v3,Standard_D16s_v3,Linux,Reservation,1 Year,4808.0,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16s v3,2017-07-21T00:00:00Z,DZH318Z0BQ50
+General Purpose (D/F Series),F16,Standard_F16,Linux,Consumption,None,0.816,USD,1 Hour,koreacentral,16,32.0,N/A,False,F16/F16s,2017-06-01T00:00:00Z,DZH318Z0BQ51
+General Purpose (D/F Series),F16,Standard_F16,Linux,Reservation,1 Year,5542.0,USD,1 Hour,koreacentral,16,32.0,N/A,False,F16/F16s,2017-07-17T00:00:00Z,DZH318Z0BQ51
+General Purpose (D/F Series),D8s v6,Standard_D8s_v6,Windows,Consumption,None,0.864,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8s v6,2024-10-01T00:00:00Z,DZH318Z0GNHF
+General Purpose (D/F Series),F16ams v6,Standard_F16ams_v6,Windows,Consumption,None,2.501,USD,1 Hour,koreacentral,16,128.0,N/A,True,F16ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXQ
+General Purpose (D/F Series),D8as v4,Standard_D8as_v4,Windows,Consumption,None,0.84,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8as v4,2021-11-01T00:00:00Z,DZH318Z0CM93
+General Purpose (D/F Series),D2lds v6,Standard_D2lds_v6,Windows,Consumption,None,0.217,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH4
+General Purpose (D/F Series),F64s v2,Standard_F64s_v2,Linux,Consumption,None,3.072,USD,1 Hour,koreacentral,64,128.0,N/A,True,F64s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+General Purpose (D/F Series),F64s v2,Standard_F64s_v2,Linux,Reservation,1 Year,15824.0,USD,1 Hour,koreacentral,64,128.0,N/A,True,F64s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+General Purpose (D/F Series),D128s v6,Standard_D128s_v6,Linux,Consumption,None,7.93,USD,1 Hour,koreacentral,128,512.0,N/A,True,D128s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D128s v6,Standard_D128s_v6,Linux,Reservation,1 Year,43067.0,USD,1 Hour,koreacentral,128,512.0,N/A,True,D128s v6,2024-10-01T00:00:00Z,DZH318Z0GNHB
+General Purpose (D/F Series),D16as v6,Standard_D16as_v6,Linux,Consumption,None,0.894,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16as v6,2024-09-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),D16as v6,Standard_D16as_v6,Linux,Reservation,1 Year,4623.0,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16as v6,2025-04-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),F8as v6,Standard_F8as_v6,Windows,Consumption,None,1.042,USD,1 Hour,koreacentral,8,32.0,N/A,True,F8as v6,2024-09-01T00:00:00Z,DZH318Z0FXZ1
+General Purpose (D/F Series),D128ls v6,Standard_D128ls_v6,Windows,Consumption,None,12.339,USD,1 Hour,koreacentral,128,256.0,N/A,True,D128ls v6,2024-10-01T00:00:00Z,DZH318Z0GNGZ
+General Purpose (D/F Series),D4 v3,Standard_D4_v3,Linux,Consumption,None,0.246,USD,1 Hour,koreacentral,4,16.0,N/A,False,D4 v3/D4s v3,2017-07-21T00:00:00Z,DZH318Z0BQ4K
+General Purpose (D/F Series),D4 v3,Standard_D4_v3,Linux,Reservation,1 Year,1202.0,USD,1 Hour,koreacentral,4,16.0,N/A,False,D4 v3/D4s v3,2017-07-21T00:00:00Z,DZH318Z0BQ4K
+General Purpose (D/F Series),D2alds v6,Standard_D2alds_v6,Linux,Consumption,None,0.117,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DQ
+General Purpose (D/F Series),D2alds v6,Standard_D2alds_v6,Linux,Reservation,1 Year,607.0,USD,1 Hour,koreacentral,2,4.0,N/A,True,D2alds v6,2025-04-01T00:00:00Z,DZH318Z0F5DQ
+General Purpose (D/F Series),D48ads v6,Standard_D48ads_v6,Linux,Consumption,None,3.374,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),D48ads v6,Standard_D48ads_v6,Linux,Reservation,1 Year,17440.0,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),D48als v6,Standard_D48als_v6,Linux,Consumption,None,2.376,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48als v6,2024-09-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),D48als v6,Standard_D48als_v6,Linux,Reservation,1 Year,12280.0,USD,1 Hour,koreacentral,48,96.0,N/A,True,D48als v6,2025-04-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),F64ams v6,Standard_F64ams_v6,Windows,Consumption,None,10.003,USD,1 Hour,koreacentral,64,512.0,N/A,True,F64ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXQ
+General Purpose (D/F Series),FX64-32ms v2,Standard_FX64-32ms_v2,Linux,Consumption,None,10.272,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64-32ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX64-32ms v2,Standard_FX64-32ms_v2,Linux,Reservation,1 Year,51292.0,USD,1 Hour,koreacentral,64,1344.0,N/A,True,FX64-32ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),D96als v6,Standard_D96als_v6,Windows,Consumption,None,9.168,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96als v6,2024-09-01T00:00:00Z,DZH318Z0F5DN
+General Purpose (D/F Series),D64ads v6,Standard_D64ads_v6,Linux,Consumption,None,4.499,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),D64ads v6,Standard_D64ads_v6,Linux,Reservation,1 Year,23254.0,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F8
+General Purpose (D/F Series),FX2ms v2,Standard_FX2ms_v2,Linux,Consumption,None,0.321,USD,1 Hour,koreacentral,2,42.0,N/A,True,FX2ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX2ms v2,Standard_FX2ms_v2,Linux,Reservation,1 Year,1603.0,USD,1 Hour,koreacentral,2,42.0,N/A,True,FX2ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),Dasv4 Type1,Dasv4_Type1,Linux,Consumption,None,6.23,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dasv4 Type1,2021-11-01T00:00:00Z,DZH318Z0CXT1
+General Purpose (D/F Series),Dasv4 Type1,Dasv4_Type1,Linux,Reservation,1 Year,31733.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,Dasv4 Type1,2021-11-01T00:00:00Z,DZH318Z0CXT1
+General Purpose (D/F Series),FX8ms v2,Standard_FX8ms_v2,Linux,Consumption,None,1.284,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX8ms v2,Standard_FX8ms_v2,Linux,Reservation,1 Year,6412.0,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX8-4ms_v2,Standard_FX8-4ms_v2,Windows,Consumption,None,1.652,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8-4ms_v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),F72s v2,Standard_F72s_v2,Linux,Consumption,None,3.456,USD,1 Hour,koreacentral,72,144.0,N/A,True,F72s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+General Purpose (D/F Series),F72s v2,Standard_F72s_v2,Linux,Reservation,1 Year,17801.0,USD,1 Hour,koreacentral,72,144.0,N/A,True,F72s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+General Purpose (D/F Series),D64ds v4,Standard_D64ds_v4,Linux,Consumption,None,4.448,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHM
+General Purpose (D/F Series),D64ds v4,Standard_D64ds_v4,Linux,Reservation,1 Year,22681.0,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64ds v4,2021-11-01T00:00:00Z,DZH318Z0CSHM
+General Purpose (D/F Series),D64ds v6,Standard_D64ds_v6,Windows,Consumption,None,7.844,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHZ
+General Purpose (D/F Series),F8ams v6,Standard_F8ams_v6,Windows,Consumption,None,1.25,USD,1 Hour,koreacentral,8,64.0,N/A,True,F8ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXQ
+General Purpose (D/F Series),D64s v3,Standard_D64s_v3,Windows,Consumption,None,6.88,USD,1 Hour,koreacentral,64,256.0,N/A,True,D64s v3,2017-08-18T00:00:00Z,DZH318Z0BPWD
+GPU (N Series),NC12s v3,Standard_NC12s_v3,Windows,Consumption,None,9.02,USD,1 Hour,koreacentral,12,224.0,N/A,True,NC12s v3,2021-11-01T00:00:00Z,DZH318Z0BP4M
+General Purpose (D/F Series),D32lds v5,Standard_D32lds_v5,Linux,Consumption,None,1.76,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),D32lds v5,Standard_D32lds_v5,Linux,Reservation,1 Year,9096.0,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),F1,Standard_F1,Linux,Consumption,None,0.051,USD,1 Hour,koreacentral,1,2.0,N/A,False,F1/F1s,2017-06-01T00:00:00Z,DZH318Z0BQ51
+General Purpose (D/F Series),F1,Standard_F1,Linux,Reservation,1 Year,344.0,USD,1 Hour,koreacentral,1,2.0,N/A,False,F1/F1s,2017-07-17T00:00:00Z,DZH318Z0BQ51
+General Purpose (D/F Series),D32s v4,Standard_D32s_v4,Linux,Consumption,None,1.888,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32s v4,2021-11-01T00:00:00Z,DZH318Z0CSHJ
+General Purpose (D/F Series),D32s v4,Standard_D32s_v4,Linux,Reservation,1 Year,9615.0,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32s v4,2021-11-01T00:00:00Z,DZH318Z0CSHJ
+General Purpose (D/F Series),FX8mds v2,Standard_FX8mds_v2,Linux,Consumption,None,1.587,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX8mds v2,Standard_FX8mds_v2,Linux,Reservation,1 Year,7924.0,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX24-6mds v2,Standard_FX24-6mds_v2,Windows,Consumption,None,5.865,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24-6mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),D32als v6,Standard_D32als_v6,Windows,Consumption,None,3.056,USD,1 Hour,koreacentral,32,64.0,N/A,True,D32als v6,2024-09-01T00:00:00Z,DZH318Z0F5DN
+General Purpose (D/F Series),FX8-4ms_v2,Standard_FX8-4ms_v2,Linux,Consumption,None,1.284,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8-4ms_v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX8-4ms_v2,Standard_FX8-4ms_v2,Linux,Reservation,1 Year,6412.0,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8-4ms_v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX4-2ms v2,Standard_FX4-2ms_v2,Linux,Consumption,None,0.642,USD,1 Hour,koreacentral,4,84.0,N/A,True,FX4-2ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX4-2ms v2,Standard_FX4-2ms_v2,Linux,Reservation,1 Year,3206.0,USD,1 Hour,koreacentral,4,84.0,N/A,True,FX4-2ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),D96lds v5,Standard_D96lds_v5,Linux,Consumption,None,5.28,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),D96lds v5,Standard_D96lds_v5,Linux,Reservation,1 Year,27289.0,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),D4lds v5,Standard_D4lds_v5,Linux,Consumption,None,0.22,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),D4lds v5,Standard_D4lds_v5,Linux,Reservation,1 Year,1137.0,USD,1 Hour,koreacentral,4,8.0,N/A,True,D4lds v5,2023-04-01T00:00:00Z,DZH318Z08M9B
+General Purpose (D/F Series),D64 v4,Standard_D64_v4,Linux,Consumption,None,3.776,USD,1 Hour,koreacentral,64,256.0,N/A,False,D64 v4,2021-11-01T00:00:00Z,DZH318Z0D1L4
+General Purpose (D/F Series),D64 v4,Standard_D64_v4,Linux,Reservation,1 Year,19230.0,USD,1 Hour,koreacentral,64,256.0,N/A,False,D64 v4,2021-11-01T00:00:00Z,DZH318Z0D1L4
+HPC (H Series),HX176-96rs,Standard_HX176-96rs,Windows,Consumption,None,19.76,USD,1 Hour,koreacentral,176,1408.0,N/A,True,HX176-96rs,2023-06-01T00:00:00Z,DZH318Z0K1LG
+General Purpose (D/F Series),D64als v6,Standard_D64als_v6,Linux,Consumption,None,3.168,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64als v6,2024-09-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),D64als v6,Standard_D64als_v6,Linux,Reservation,1 Year,16373.0,USD,1 Hour,koreacentral,64,128.0,N/A,True,D64als v6,2025-04-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),D8s v3,Standard_D8s_v3,Windows,Consumption,None,0.86,USD,1 Hour,koreacentral,8,32.0,N/A,True,D8s v3,2017-07-21T00:00:00Z,DZH318Z0BPWD
+General Purpose (D/F Series),D8lds v5,Standard_D8lds_v5,Windows,Consumption,None,0.808,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8lds v5,2023-04-01T00:00:00Z,DZH318Z08M99
+General Purpose (D/F Series),D48as v4,Standard_D48as_v4,Windows,Consumption,None,5.04,USD,1 Hour,koreacentral,48,192.0,N/A,True,D48as v4,2021-11-01T00:00:00Z,DZH318Z0CM93
+General Purpose (D/F Series),FX96ms v2,Standard_FX96ms_v2,Windows,Consumption,None,19.825,USD,1 Hour,koreacentral,96,1832.0,N/A,True,FX96ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D96s v6,Standard_D96s_v6,Windows,Consumption,None,10.363,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96s v6,2024-10-01T00:00:00Z,DZH318Z0GNHF
+General Purpose (D/F Series),D96als v6,Standard_D96als_v6,Linux,Consumption,None,4.752,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96als v6,2024-09-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),D96als v6,Standard_D96als_v6,Linux,Reservation,1 Year,24560.0,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96als v6,2025-04-01T00:00:00Z,DZH318Z0F5F4
+General Purpose (D/F Series),D32as v6,Standard_D32as_v6,Linux,Consumption,None,1.789,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32as v6,2024-09-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),D32as v6,Standard_D32as_v6,Linux,Reservation,1 Year,9245.0,USD,1 Hour,koreacentral,32,128.0,N/A,True,D32as v6,2025-04-01T00:00:00Z,DZH318Z0DWTB
+General Purpose (D/F Series),D96ls v5,Standard_D96ls_v5,Windows,Consumption,None,9.024,USD,1 Hour,koreacentral,96,192.0,N/A,True,D96ls v5,2023-04-01T00:00:00Z,DZH318Z08M9K
+General Purpose (D/F Series),FX4-2ms v2,Standard_FX4-2ms_v2,Windows,Consumption,None,0.826,USD,1 Hour,koreacentral,4,84.0,N/A,True,FX4-2ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),D16s v4,Standard_D16s_v4,Windows,Consumption,None,1.68,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16s v4,2021-11-01T00:00:00Z,DZH318Z0CP07
+General Purpose (D/F Series),D64 v3,Standard_D64_v3,Linux,Consumption,None,3.936,USD,1 Hour,koreacentral,64,256.0,N/A,False,D64 v3/D64s v3,2017-08-18T00:00:00Z,DZH318Z0BQ4K
+General Purpose (D/F Series),D64 v3,Standard_D64_v3,Linux,Reservation,1 Year,19232.0,USD,1 Hour,koreacentral,64,256.0,N/A,False,D64 v3/D64s v3,2017-07-21T00:00:00Z,DZH318Z0BQ4K
+General Purpose (D/F Series),D96ads v6,Standard_D96ads_v6,Windows,Consumption,None,11.165,USD,1 Hour,koreacentral,96,384.0,N/A,True,D96ads v6,2024-09-01T00:00:00Z,DZH318Z0F5F9
+HPC (H Series),HB176-24rsv4,Standard_HB176-24rs_v4,Windows,Consumption,None,17.816,USD,1 Hour,koreacentral,176,768.0,N/A,True,HB176-24rsv4,2023-06-01T00:00:00Z,DZH318Z0K1LH
+General Purpose (D/F Series),F4als v6,Standard_F4als_v6,Windows,Consumption,None,0.482,USD,1 Hour,koreacentral,4,8.0,N/A,True,F4als v6,2024-09-01T00:00:00Z,DZH318Z0FZ08
+General Purpose (D/F Series),F1ams v6,Standard_F1ams_v6,Linux,Consumption,None,0.11,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F1ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),F1ams v6,Standard_F1ams_v6,Linux,Reservation,1 Year,599.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,F1ams v6,2024-09-01T00:00:00Z,DZH318Z0FXXM
+General Purpose (D/F Series),D32 v4,Standard_D32_v4,Linux,Consumption,None,1.888,USD,1 Hour,koreacentral,32,128.0,N/A,False,D32 v4,2021-11-01T00:00:00Z,DZH318Z0D1L4
+General Purpose (D/F Series),D32 v4,Standard_D32_v4,Linux,Reservation,1 Year,9615.0,USD,1 Hour,koreacentral,32,128.0,N/A,False,D32 v4,2021-11-01T00:00:00Z,DZH318Z0D1L4
+General Purpose (D/F Series),D32 v4,Standard_D32_v4,Windows,Consumption,None,3.36,USD,1 Hour,koreacentral,32,128.0,N/A,False,D32 v4,2021-11-01T00:00:00Z,DZH318Z0D1MV
+General Purpose (D/F Series),F48als v6,Standard_F48als_v6,Windows,Consumption,None,5.784,USD,1 Hour,koreacentral,48,96.0,N/A,True,F48als v6,2024-09-01T00:00:00Z,DZH318Z0FZ08
+General Purpose (D/F Series),D16alds v6,Standard_D16alds_v6,Linux,Consumption,None,0.939,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16alds v6,2024-09-01T00:00:00Z,DZH318Z0F5DQ
+General Purpose (D/F Series),D16alds v6,Standard_D16alds_v6,Linux,Reservation,1 Year,4854.0,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16alds v6,2025-04-01T00:00:00Z,DZH318Z0F5DQ
+General Purpose (D/F Series),FX8-4mds v2,Standard_FX8-4mds_v2,Windows,Consumption,None,1.955,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8-4mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),F8s,Standard_F8s,Linux,Consumption,None,0.408,USD,1 Hour,koreacentral,8,16.0,N/A,True,F8s,2018-06-01T00:00:00Z,DZH318Z0BQ4P
+General Purpose (D/F Series),F8s,Standard_F8s,Linux,Reservation,1 Year,2776.0,USD,1 Hour,koreacentral,8,16.0,N/A,True,F8s,2017-07-17T00:00:00Z,DZH318Z0BQ4P
+General Purpose (D/F Series),F48as v6,Standard_F48as_v6,Windows,Consumption,None,6.25,USD,1 Hour,koreacentral,48,192.0,N/A,True,F48as v6,2024-09-01T00:00:00Z,DZH318Z0FXZ1
+GPU (N Series),NVasv4 Type1,NVasv4_Type1,Linux,Consumption,None,9.688,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,NVasv4 Type1,2021-06-01T00:00:00Z,DZH318Z0D21D
+GPU (N Series),NVasv4 Type1,NVasv4_Type1,Linux,Reservation,1 Year,54317.0,USD,1 Hour,koreacentral,N/A,N/A,N/A,N/A,NVasv4 Type1,2021-06-01T00:00:00Z,DZH318Z0D21D
+General Purpose (D/F Series),D16als v6,Standard_D16als_v6,Windows,Consumption,None,1.528,USD,1 Hour,koreacentral,16,32.0,N/A,True,D16als v6,2024-09-01T00:00:00Z,DZH318Z0F5DN
+General Purpose (D/F Series),F32as v6,Standard_F32as_v6,Windows,Consumption,None,4.166,USD,1 Hour,koreacentral,32,128.0,N/A,True,F32as v6,2024-09-01T00:00:00Z,DZH318Z0FXZ1
+General Purpose (D/F Series),D16 v3,Standard_D16_v3,Windows,Consumption,None,1.72,USD,1 Hour,koreacentral,16,64.0,N/A,False,D16 v3/D16s v3,2017-07-21T00:00:00Z,DZH318Z0BPVL
+General Purpose (D/F Series),FX12-6ms v2,Standard_FX12-6ms_v2,Windows,Consumption,None,2.478,USD,1 Hour,koreacentral,12,252.0,N/A,True,FX12-6ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),FX16-4mds v2,Standard_FX16-4mds_v2,Linux,Consumption,None,3.174,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16-4mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX16-4mds v2,Standard_FX16-4mds_v2,Linux,Reservation,1 Year,15848.0,USD,1 Hour,koreacentral,16,336.0,N/A,True,FX16-4mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DR
+General Purpose (D/F Series),FX24-12mds v2,Standard_FX24-12mds_v2,Windows,Consumption,None,5.865,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24-12mds v2,2025-01-01T00:00:00Z,DZH318Z0H7DN
+General Purpose (D/F Series),D16ds v6,Standard_D16ds_v6,Windows,Consumption,None,1.961,USD,1 Hour,koreacentral,16,64.0,N/A,True,D16ds v6,2024-10-01T00:00:00Z,DZH318Z0GNHZ
+General Purpose (D/F Series),FX12ms v2,Standard_FX12ms_v2,Linux,Consumption,None,1.926,USD,1 Hour,koreacentral,12,252.0,N/A,True,FX12ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX12ms v2,Standard_FX12ms_v2,Linux,Reservation,1 Year,9617.0,USD,1 Hour,koreacentral,12,252.0,N/A,True,FX12ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),D8lds v6,Standard_D8lds_v6,Linux,Consumption,None,0.498,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),D8lds v6,Standard_D8lds_v6,Linux,Reservation,1 Year,2706.0,USD,1 Hour,koreacentral,8,16.0,N/A,True,D8lds v6,2024-10-01T00:00:00Z,DZH318Z0GNH2
+General Purpose (D/F Series),F4s v2,Standard_F4s_v2,Linux,Consumption,None,0.192,USD,1 Hour,koreacentral,4,8.0,N/A,True,F4s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+General Purpose (D/F Series),F4s v2,Standard_F4s_v2,Linux,Reservation,1 Year,989.0,USD,1 Hour,koreacentral,4,8.0,N/A,True,F4s v2,2021-11-01T00:00:00Z,DZH318Z0BQ4X
+General Purpose (D/F Series),D2as v6,Standard_D2as_v6,Windows,Consumption,None,0.204,USD,1 Hour,koreacentral,2,8.0,N/A,True,D2as v6,2024-09-01T00:00:00Z,DZH318Z0DWTF
+General Purpose (D/F Series),FX8-2ms v2,Standard_FX8-2ms_v2,Windows,Consumption,None,1.652,USD,1 Hour,koreacentral,8,168.0,N/A,True,FX8-2ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F2
+General Purpose (D/F Series),FX24-6ms v2,Standard_FX24-6ms_v2,Linux,Consumption,None,3.852,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24-6ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),FX24-6ms v2,Standard_FX24-6ms_v2,Linux,Reservation,1 Year,19235.0,USD,1 Hour,koreacentral,24,504.0,N/A,True,FX24-6ms v2,2025-01-01T00:00:00Z,DZH318Z0H7F3
+General Purpose (D/F Series),F1,Standard_F1,Windows,Consumption,None,0.092,USD,1 Hour,koreacentral,1,2.0,N/A,False,F1/F1s,2018-06-01T00:00:00Z,DZH318Z0BPVT

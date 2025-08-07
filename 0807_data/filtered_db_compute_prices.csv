@@ -1,0 +1,10 @@
+currencyCode,retailPrice,armRegionName,productName,skuName,serviceName,serviceFamily,unitOfMeasure,type,reservationTerm
+USD,0.172005,koreacentral,SQL Database Single/Elastic Pool General Purpose - Compute Gen5,vCore,SQL Database,Databases,1 Hour,Consumption,
+USD,979.0,koreacentral,SQL Database Single/Elastic Pool General Purpose - Compute Gen5,vCore,SQL Database,Databases,1 Hour,Reservation,1 Year
+USD,2034.0,koreacentral,SQL Database Single/Elastic Pool General Purpose - Compute Gen5,vCore,SQL Database,Databases,1 Hour,Reservation,3 Years
+USD,0.118,koreacentral,Azure Database for MySQL Flexible Server General Purpose Series Compute,vCore,Azure Database for MySQL,Databases,1 Hour,Consumption,
+USD,620.0,koreacentral,Azure Database for MySQL Flexible Server General Purpose Series Compute,vCore,Azure Database for MySQL,Databases,1 Hour,Reservation,1 Year
+USD,1240.0,koreacentral,Azure Database for MySQL Flexible Server General Purpose Series Compute,vCore,Azure Database for MySQL,Databases,1 Hour,Reservation,3 Years
+USD,0.118,koreacentral,Azure Database for PostgreSQL Flexible Server General Purpose Dsv3 Series Compute,vCore,Azure Database for PostgreSQL,Databases,1 Hour,Consumption,
+USD,620.0,koreacentral,Azure Database for PostgreSQL Flexible Server General Purpose Dsv3 Series Compute,vCore,Azure Database for PostgreSQL,Databases,1 Hour,Reservation,1 Year
+USD,1240.0,koreacentral,Azure Database for PostgreSQL Flexible Server General Purpose Dsv3 Series Compute,vCore,Azure Database for PostgreSQL,Databases,1 Hour,Reservation,3 Years

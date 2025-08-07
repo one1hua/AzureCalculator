@@ -1,0 +1,40 @@
+﻿DiskCategory,Tier,SKUName_Retail,PriceType,ReservationTerm,RetailPrice,CurrencyCode,UnitOfMeasure,Location,Provisioned_GiB,Provisioned_IOPS,Provisioned_MBps,MeterName
+Standard SSD,E50,E50 LRS,Consumption,None,34.492,USD,1/Month,koreacentral,4096,500,100,E50 LRS Disk Mount
+Standard HDD,S40,S40 LRS,Consumption,None,81.92,USD,1/Month,koreacentral,2048,500,60,S40 LRS Disk
+Standard HDD,S30,S30 LRS,Consumption,None,40.96,USD,1/Month,koreacentral,1024,500,60,S30 LRS Disk
+Standard SSD,E4,E4 LRS,Consumption,None,2.4,USD,1/Month,koreacentral,32,500,100,E4 LRS Disk
+Standard HDD,S80,S80 LRS,Consumption,None,1310.72,USD,1/Month,koreacentral,32768,2000,500,S80 LRS Disk
+Standard HDD,S50,S50 LRS,Consumption,None,163.84,USD,1/Month,koreacentral,4096,500,60,S50 LRS Disk
+Standard HDD,S10,S10 LRS,Consumption,None,5.888,USD,1/Month,koreacentral,128,500,60,S10 LRS Disk
+Standard SSD,E10,E10 LRS,Consumption,None,9.6,USD,1/Month,koreacentral,128,500,100,E10 LRS Disk
+Standard SSD,E60,E60 LRS,Consumption,None,68.985,USD,1/Month,koreacentral,8192,2000,400,E60 LRS Disk Mount
+Standard SSD,E70,E70 LRS,Consumption,None,1228.8,USD,1/Month,koreacentral,16384,4000,600,E70 LRS Disk
+Standard SSD,E4,E4 LRS,Consumption,None,0.351,USD,1/Month,koreacentral,32,500,100,E4 LRS Disk Mount
+Standard SSD,E40,E40 LRS,Consumption,None,153.6,USD,1/Month,koreacentral,2048,500,100,E40 LRS Disk
+Standard HDD,S20,S20 LRS,Consumption,None,21.76,USD,1/Month,koreacentral,512,500,60,S20 LRS Disk
+Standard HDD,S60,S60 LRS,Consumption,None,327.68,USD,1/Month,koreacentral,8192,1300,300,S60 LRS Disk
+Standard SSD,E20,E20 LRS,Consumption,None,38.4,USD,1/Month,koreacentral,512,500,100,E20 LRS Disk
+Standard SSD,E15,E15 LRS,Consumption,None,19.2,USD,1/Month,koreacentral,256,500,100,E15 LRS Disk
+Standard SSD,E6,E6 LRS,Consumption,None,0.634,USD,1/Month,koreacentral,64,500,100,E6 LRS Disk Mount
+Standard SSD,E1,E1 LRS,Consumption,None,0.3,USD,1/Month,koreacentral,4,500,100,E1 LRS Disk
+Standard SSD,E15,E15 LRS,Consumption,None,2.47,USD,1/Month,koreacentral,256,500,100,E15 LRS Disk Mount
+Standard SSD,E2,E2 LRS,Consumption,None,0.6,USD,1/Month,koreacentral,8,500,100,E2 LRS Disk
+Standard SSD,E30,E30 LRS,Consumption,None,8.87,USD,1/Month,koreacentral,1024,500,100,E30 LRS Disk Mount
+Standard SSD,E40,E40 LRS,Consumption,None,17.739,USD,1/Month,koreacentral,2048,500,100,E40 LRS Disk Mount
+Standard SSD,E1,E1 LRS,Consumption,None,0.0405,USD,1/Month,koreacentral,4,500,100,E1 LRS Disk Mount
+Standard HDD,S15,S15 LRS,Consumption,None,11.328,USD,1/Month,koreacentral,256,500,60,S15 LRS Disk
+Standard HDD,S6,S6 LRS,Consumption,None,3.008,USD,1/Month,koreacentral,64,500,60,S6 LRS Disk
+Standard SSD,E20,E20 LRS,Consumption,None,4.442,USD,1/Month,koreacentral,512,500,100,E20 LRS Disk Mount
+Standard HDD,S4,S4 LRS,Consumption,None,1.536,USD,1/Month,koreacentral,32,500,60,S4 LRS Disk
+Standard SSD,E80,E80 LRS,Consumption,None,295.65,USD,1/Month,koreacentral,32767,6000,750,E80 LRS Disk Mount
+Standard SSD,E70,E70 LRS,Consumption,None,147.82,USD,1/Month,koreacentral,16384,4000,600,E70 LRS Disk Mount
+Standard SSD,E3,E3 LRS,Consumption,None,0.162,USD,1/Month,koreacentral,16,500,100,E3 LRS Disk Mount
+Standard SSD,E80,E80 LRS,Consumption,None,2457.6,USD,1/Month,koreacentral,32767,6000,750,E80 LRS Disk
+Standard SSD,E10,E10 LRS,Consumption,None,1.228,USD,1/Month,koreacentral,128,500,100,E10 LRS Disk Mount
+Standard HDD,S70,S70 LRS,Consumption,None,655.36,USD,1/Month,koreacentral,16384,2000,500,S70 LRS Disk
+Standard SSD,E6,E6 LRS,Consumption,None,4.8,USD,1/Month,koreacentral,64,500,100,E6 LRS Disk
+Standard SSD,E30,E30 LRS,Consumption,None,76.8,USD,1/Month,koreacentral,1024,500,100,E30 LRS Disk
+Standard SSD,E2,E2 LRS,Consumption,None,0.081,USD,1/Month,koreacentral,8,500,100,E2 LRS Disk Mount
+Standard SSD,E60,E60 LRS,Consumption,None,614.4,USD,1/Month,koreacentral,8192,2000,400,E60 LRS Disk
+Standard SSD,E50,E50 LRS,Consumption,None,307.2,USD,1/Month,koreacentral,4096,500,100,E50 LRS Disk
+Standard SSD,E3,E3 LRS,Consumption,None,1.2,USD,1/Month,koreacentral,16,500,100,E3 LRS Disk

@@ -1,0 +1,5 @@
+﻿metername,retailprice,unitofmeasure,currencycode
+Standard Jobs Compute DBU,0.15,1 Hour,USD
+Premium Jobs Compute DBU,0.3,1 Hour,USD
+Standard All-purpose Compute DBU,0.4,1 Hour,USD
+Premium All-purpose Compute DBU,0.55,1 Hour,USD

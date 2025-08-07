@@ -1,0 +1,5 @@
+﻿productname,metername,retailprice,unitofmeasure,currencycode
+Azure OpenAI,gpt-4o-0806-Inp-glbl Tokens,0.0025,1K,USD
+Azure OpenAI,gpt-4o-0806-Outp-glbl Tokens,0.01,1K,USD
+Azure OpenAI,gpt-4o-mini-0718-Inp-glbl Tokens,0.00015,1K,USD
+Azure OpenAI,gpt-4o-mini-0718-Outp-glbl Tokens,0.0006,1K,USD
