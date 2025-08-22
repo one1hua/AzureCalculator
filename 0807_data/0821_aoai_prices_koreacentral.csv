@@ -1,0 +1,5 @@
+productname,metername,retailprice,unitofmeasure,currencycode,Purpose,Description
+Azure OpenAI,gpt-4o-0806-Inp-glbl Tokens,0.0025,1K,USD,일반 대화형 AI / 생성,GPT-4o의 표준 버전(Input). 복잡한 추론과 일반적인 텍스트 생성에 사용.
+Azure OpenAI,gpt-4o-0806-Outp-glbl Tokens,0.01,1K,USD,일반 대화형 AI / 생성,GPT-4o의 표준 버전(Output). 복잡한 추론과 일반적인 텍스트 생성에 사용.
+Azure OpenAI,gpt-4o-mini-0718-Inp-glbl Tokens,0.00015,1K,USD,비용 효율적 대규모 서비스,GPT-4o의 경량화 버전(Input). 성능 대비 비용 효율이 높아 대규모 서비스에 적합.
+Azure OpenAI,gpt-4o-mini-0718-Outp-glbl Tokens,0.0006,1K,USD,비용 효율적 대규모 서비스,GPT-4o의 경량화 버전(Output). 성능 대비 비용 효율이 높아 대규모 서비스에 적합.

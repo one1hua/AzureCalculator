@@ -1,0 +1,5 @@
+metername,retailprice,unitofmeasure,currencycode,purpose,Description
+Standard Jobs Compute DBU,0.15,1 Hour,USD,상호 작용 분석용,"노트북 환경에서 데이터 탐색, 대화형 개발, 머신러닝 모델 개발 등 상호 작용이 필요한 워크로드에 사용됩니다. 여러 사용자가 동시에 접근하기에 적합합니다."
+Premium Jobs Compute DBU,0.3,1 Hour,USD,상호 작용 분석용(고급),"Standard와 동일한 용도지만, 엔터프라이즈급 보안, 세분화된 접근 제어, 데이터 거버넌스 기능이 추가된 프리미엄 티어입니다."
+Standard All-purpose Compute DBU,0.4,1 Hour,USD,자동화된 작업용,"예약된 시간 또는 트리거에 따라 실행되는 자동화된 ETL(추출, 변환, 적재) 작업, 배치 처리, 주기적인 데이터 분석 등 비상호 작용 워크로드에 최적화되어 있습니다."
+Premium All-purpose Compute DBU,0.55,1 Hour,USD,자동화된 작업용(고급),"Standard와 동일한 용도지만, 더 높은 보안과 거버넌스 기능이 포함된 프리미엄 티어입니다"
