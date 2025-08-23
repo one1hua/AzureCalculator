@@ -1,0 +1,15 @@
+[Unit]
+Description=Streamlit Frontend
+After=network.target
+
+[Service]
+Type=simple
+User=azureuser
+WorkingDirectory=/home/azureuser/work/work/streamlit_basic/project01/frontend
+ExecStart=/home/azureuser/.pyenv/versions/py3_11_9/bin/python -m streamlit run streamlit_front.py --server.port 8501 --server.address 127.0.0.1
+Restart=always
+RestartSec=3
+Environment="PATH=/home/azureuser/.pyenv/versions/py3_11_9/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin"
+
+[Install]
+WantedBy=multi-user.target
